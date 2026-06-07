@@ -1,0 +1,43 @@
+name: HoopCast Seed History
+
+on:
+  # You run this manually ONE TIME only
+  workflow_dispatch:
+
+jobs:
+  seed:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    steps:
+      - name: Download the code
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Seed 60 days of historical data
+        env:
+          TZ: Africa/Lagos
+          GITHUB_OWNER: ${{ secrets.REPO_OWNER }}
+          GITHUB_REPO:  ${{ secrets.REPO_NAME }}
+          GITHUB_TOKEN: ${{ secrets.PIPELINE_TOKEN }}
+        run: |
+          echo "Starting history seed - this fetches 60 days of game data"
+          echo "This may take 10-15 minutes. Please be patient."
+          node scripts/seed-history.js
+
+      - name: Run daily pipeline after seeding
+        env:
+          TZ: Africa/Lagos
+          GITHUB_OWNER: ${{ secrets.REPO_OWNER }}
+          GITHUB_REPO:  ${{ secrets.REPO_NAME }}
+          GITHUB_TOKEN: ${{ secrets.PIPELINE_TOKEN }}
+        run: |
+          echo "Now running daily pipeline with fresh historical data..."
+          node scripts/daily.js
