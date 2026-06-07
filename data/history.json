@@ -1,0 +1,35 @@
+{
+  "entries": [
+    {
+      "id": "tsdb-2478620",
+      "date": "2026-06-06",
+      "league": "NBA",
+      "homeTeam": "San Antonio Spurs",
+      "awayTeam": "New York Knicks",
+      "prediction": null,
+      "line": null,
+      "expectedTotal": null,
+      "confidence": null,
+      "confidenceColor": null,
+      "actualTotal": 209,
+      "result": null,
+      "source": "thesportsdb"
+    },
+    {
+      "id": "tsdb-2462136",
+      "date": "2026-04-11",
+      "league": "NBA G League",
+      "homeTeam": "Stockton Kings",
+      "awayTeam": "Greensboro Swarm",
+      "prediction": null,
+      "line": null,
+      "expectedTotal": null,
+      "confidence": null,
+      "confidenceColor": null,
+      "actualTotal": 223,
+      "result": null,
+      "source": "thesportsdb"
+    }
+  ],
+  "accuracy": {}
+}
