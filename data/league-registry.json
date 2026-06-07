@@ -1,0 +1,131 @@
+{
+  "leagues": [
+    {
+      "key": "NBA",
+      "name": "NBA",
+      "country": "USA",
+      "tier": 1
+    },
+    {
+      "key": "EuroLeague",
+      "name": "EuroLeague",
+      "country": "Europe",
+      "tier": 1
+    },
+    {
+      "key": "EuroCup",
+      "name": "EuroCup",
+      "country": "Europe",
+      "tier": 2
+    },
+    {
+      "key": "ACB",
+      "name": "Liga ACB",
+      "country": "Spain",
+      "tier": 2
+    },
+    {
+      "key": "Lega Basket",
+      "name": "Lega Basket Serie A",
+      "country": "Italy",
+      "tier": 2
+    },
+    {
+      "key": "Pro A",
+      "name": "Pro A",
+      "country": "France",
+      "tier": 2
+    },
+    {
+      "key": "BBL",
+      "name": "Basketball Bundesliga",
+      "country": "Germany",
+      "tier": 2
+    },
+    {
+      "key": "VTB",
+      "name": "VTB United League",
+      "country": "Russia/Europe",
+      "tier": 2
+    },
+    {
+      "key": "BSL",
+      "name": "Basketball Super League",
+      "country": "Turkey",
+      "tier": 2
+    },
+    {
+      "key": "NBL",
+      "name": "National Basketball League",
+      "country": "Australia",
+      "tier": 2
+    },
+    {
+      "key": "CBA",
+      "name": "Chinese Basketball Association",
+      "country": "China",
+      "tier": 2
+    },
+    {
+      "key": "KBL",
+      "name": "Korean Basketball League",
+      "country": "South Korea",
+      "tier": 2
+    },
+    {
+      "key": "SBL",
+      "name": "Super Basketball League",
+      "country": "Taiwan",
+      "tier": 3
+    },
+    {
+      "key": "PBA",
+      "name": "Philippine Basketball Association",
+      "country": "Philippines",
+      "tier": 2
+    },
+    {
+      "key": "BNXT",
+      "name": "BNXT League",
+      "country": "Belgium/Netherlands",
+      "tier": 2
+    },
+    {
+      "key": "LNB Pro B",
+      "name": "LNB Pro B",
+      "country": "France",
+      "tier": 3
+    },
+    {
+      "key": "HEBA",
+      "name": "Greek Basket League",
+      "country": "Greece",
+      "tier": 2
+    },
+    {
+      "key": "NLB",
+      "name": "NLB Regional League",
+      "country": "Balkans",
+      "tier": 3
+    },
+    {
+      "key": "LKL",
+      "name": "LKL",
+      "country": "Lithuania",
+      "tier": 3
+    },
+    {
+      "key": "PLK",
+      "name": "PLK",
+      "country": "Poland",
+      "tier": 3
+    },
+    {
+      "key": "UniLeague",
+      "name": "UniLeague",
+      "country": "Czech/Slovak",
+      "tier": 3
+    }
+  ],
+  "updatedAt": 1780862388149
+}
