@@ -31,5 +31,24 @@
       "source": "thesportsdb"
     }
   ],
-  "accuracy": {}
+  "accuracy": {
+    "overall": null,
+    "byLeague": {
+      "NBA": {
+        "accuracy": null,
+        "gamesTracked": 1
+      },
+      "NBA G League": {
+        "accuracy": null,
+        "gamesTracked": 1
+      }
+    },
+    "byColor": {
+      "green": null,
+      "lemon": null,
+      "blue": null,
+      "red": null
+    },
+    "rolling30": null
+  }
 }
