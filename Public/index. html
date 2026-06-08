@@ -1,0 +1,560 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>HoopCast — Basketball Over/Under Intelligence</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@300;400;500;600;700;900&family=IBM+Plex+Mono:wght@400;500&family=Barlow:wght@400;500;600&display=swap" rel="stylesheet" />
+  <style>
+    /* ─── TOKENS ─────────────────────────────────── */
+    :root {
+      --bg:        #08090d;
+      --bg2:       #0e1018;
+      --bg3:       #141720;
+      --border:    #1e2230;
+      --border2:   #252a38;
+      --text:      #e2e6f0;
+      --muted:     #6b7490;
+      --faint:     #2a3048;
+
+      --green:     #22c55e;
+      --green-bg:  rgba(34,197,94,0.10);
+      --green-brd: rgba(34,197,94,0.25);
+
+      --lemon:     #eab308;
+      --lemon-bg:  rgba(234,179,8,0.10);
+      --lemon-brd: rgba(234,179,8,0.25);
+
+      --blue:      #3b82f6;
+      --blue-bg:   rgba(59,130,246,0.10);
+      --blue-brd:  rgba(59,130,246,0.25);
+
+      --red:       #ef4444;
+      --red-bg:    rgba(239,68,68,0.10);
+      --red-brd:   rgba(239,68,68,0.25);
+
+      --accent:    #6366f1;
+      --accent2:   #a78bfa;
+
+      --font-display: 'Barlow Condensed', sans-serif;
+      --font-body:    'Barlow', sans-serif;
+      --font-mono:    'IBM Plex Mono', monospace;
+    }
+
+    /* ─── RESET ──────────────────────────────────── */
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    html { scroll-behavior: smooth; }
+    body {
+      background: var(--bg);
+      color: var(--text);
+      font-family: var(--font-body);
+      font-size: 14px;
+      line-height: 1.5;
+      min-height: 100vh;
+      -webkit-font-smoothing: antialiased;
+    }
+
+    /* ─── GRID NOISE BACKGROUND ──────────────────── */
+    body::before {
+      content: '';
+      position: fixed; inset: 0;
+      background-image:
+        linear-gradient(rgba(99,102,241,0.03) 1px, transparent 1px),
+        linear-gradient(90deg, rgba(99,102,241,0.03) 1px, transparent 1px);
+      background-size: 40px 40px;
+      pointer-events: none;
+      z-index: 0;
+    }
+
+    /* ─── LAYOUT ─────────────────────────────────── */
+    .wrapper { position: relative; z-index: 1; max-width: 1280px; margin: 0 auto; padding: 0 16px; }
+
+    /* ─── HEADER ─────────────────────────────────── */
+    header {
+      border-bottom: 1px solid var(--border);
+      background: rgba(8,9,13,0.95);
+      backdrop-filter: blur(10px);
+      position: sticky; top: 0; z-index: 100;
+    }
+    .header-inner {
+      display: flex; align-items: center; justify-content: space-between;
+      height: 56px; padding: 0 16px;
+      max-width: 1280px; margin: 0 auto;
+    }
+    .logo {
+      display: flex; align-items: baseline; gap: 8px;
+      font-family: var(--font-display);
+      font-size: 26px; font-weight: 900;
+      letter-spacing: -0.5px;
+      text-transform: uppercase;
+    }
+    .logo-hoop { color: var(--accent2); }
+    .logo-cast { color: var(--text); }
+    .logo-tag {
+      font-family: var(--font-mono);
+      font-size: 9px; font-weight: 400;
+      color: var(--muted);
+      letter-spacing: 2px;
+      text-transform: uppercase;
+      align-self: center;
+      margin-left: 4px;
+    }
+    .header-status {
+      display: flex; align-items: center; gap: 16px;
+    }
+    .status-dot {
+      width: 6px; height: 6px; border-radius: 50%;
+      background: var(--green);
+      box-shadow: 0 0 6px var(--green);
+      animation: pulse 2s infinite;
+    }
+    @keyframes pulse { 0%,100%{opacity:1;} 50%{opacity:.3;} }
+    .status-text { font-family: var(--font-mono); font-size: 10px; color: var(--muted); }
+
+    /* ─── METRICS BAR ────────────────────────────── */
+    .metrics-bar {
+      background: var(--bg2);
+      border-bottom: 1px solid var(--border);
+      padding: 10px 16px;
+      overflow-x: auto;
+    }
+    .metrics-inner {
+      display: flex; gap: 0; max-width: 1280px; margin: 0 auto;
+    }
+    .metric {
+      flex: 0 0 auto;
+      padding: 4px 24px 4px 0;
+      border-right: 1px solid var(--border);
+      margin-right: 24px;
+    }
+    .metric:last-child { border-right: none; margin-right: 0; }
+    .metric-label {
+      font-family: var(--font-mono);
+      font-size: 9px; color: var(--muted);
+      text-transform: uppercase; letter-spacing: 1.5px;
+    }
+    .metric-value {
+      font-family: var(--font-display);
+      font-size: 22px; font-weight: 700; line-height: 1.1;
+      color: var(--text);
+    }
+    .metric-value.accent { color: var(--accent2); }
+    .metric-value.good { color: var(--green); }
+
+    /* ─── CONTROLS ───────────────────────────────── */
+    .controls {
+      padding: 16px 16px 12px;
+      max-width: 1280px; margin: 0 auto;
+      display: flex; flex-wrap: wrap; gap: 10px; align-items: center;
+    }
+    .control-group { display: flex; align-items: center; gap: 8px; }
+    .control-label {
+      font-family: var(--font-mono);
+      font-size: 10px; color: var(--muted);
+      text-transform: uppercase; letter-spacing: 1px;
+    }
+    select, input[type="date"] {
+      background: var(--bg3);
+      border: 1px solid var(--border2);
+      color: var(--text);
+      font-family: var(--font-mono);
+      font-size: 12px;
+      padding: 6px 10px;
+      border-radius: 6px;
+      outline: none;
+      cursor: pointer;
+      appearance: none;
+      -webkit-appearance: none;
+    }
+    select:focus, input[type="date"]:focus { border-color: var(--accent); }
+    .btn {
+      background: var(--faint);
+      border: 1px solid var(--border2);
+      color: var(--text);
+      font-family: var(--font-mono);
+      font-size: 11px;
+      padding: 6px 14px;
+      border-radius: 6px;
+      cursor: pointer;
+      letter-spacing: 0.5px;
+      text-transform: uppercase;
+      transition: all 0.15s;
+    }
+    .btn:hover { background: var(--border2); border-color: var(--accent); }
+    .btn.active { background: var(--accent); border-color: var(--accent); color: #fff; }
+    .btn-group { display: flex; }
+    .btn-group .btn { border-radius: 0; border-right: none; }
+    .btn-group .btn:first-child { border-radius: 6px 0 0 6px; }
+    .btn-group .btn:last-child { border-radius: 0 6px 6px 0; border-right: 1px solid var(--border2); }
+    .btn-group .btn.active { border-right: 1px solid var(--accent); }
+
+    /* ─── LEGEND ─────────────────────────────────── */
+    .legend {
+      display: flex; gap: 16px; margin-left: auto; flex-wrap: wrap;
+    }
+    .legend-item { display: flex; align-items: center; gap: 6px; }
+    .legend-dot {
+      width: 8px; height: 8px; border-radius: 2px;
+    }
+    .legend-dot.green  { background: var(--green); }
+    .legend-dot.lemon  { background: var(--lemon); }
+    .legend-dot.blue   { background: var(--blue); }
+    .legend-dot.red    { background: var(--red); }
+    .legend-text {
+      font-family: var(--font-mono); font-size: 9px; color: var(--muted);
+      letter-spacing: 0.5px;
+    }
+
+    /* ─── PREDICTIONS GRID ───────────────────────── */
+    .predictions-section { padding: 0 16px 32px; max-width: 1280px; margin: 0 auto; }
+    .section-header {
+      display: flex; align-items: center; justify-content: space-between;
+      padding: 12px 0 10px;
+      border-bottom: 1px solid var(--border);
+      margin-bottom: 16px;
+    }
+    .section-title {
+      font-family: var(--font-display);
+      font-size: 13px; font-weight: 600;
+      letter-spacing: 2px; text-transform: uppercase;
+      color: var(--muted);
+    }
+    .count-badge {
+      font-family: var(--font-mono); font-size: 11px;
+      background: var(--faint); color: var(--muted);
+      padding: 2px 8px; border-radius: 10px;
+    }
+
+    /* ─── PREDICTION CARD ────────────────────────── */
+    .cards-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(340px, 1fr));
+      gap: 12px;
+    }
+    .card {
+      background: var(--bg2);
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      overflow: hidden;
+      transition: transform 0.15s, border-color 0.15s;
+      animation: cardIn 0.3s ease both;
+    }
+    .card:hover { transform: translateY(-2px); border-color: var(--border2); }
+    @keyframes cardIn { from { opacity:0; transform:translateY(8px); } to { opacity:1; transform:translateY(0); } }
+
+    .card-header {
+      display: flex; align-items: center; justify-content: space-between;
+      padding: 10px 14px 8px;
+      border-bottom: 1px solid var(--border);
+    }
+    .card-league {
+      font-family: var(--font-mono); font-size: 9px;
+      letter-spacing: 1.5px; text-transform: uppercase;
+      color: var(--muted);
+    }
+    .card-date {
+      font-family: var(--font-mono); font-size: 9px;
+      color: var(--muted);
+    }
+
+    .card-body { padding: 12px 14px; }
+
+    .matchup {
+      display: flex; align-items: center; justify-content: space-between;
+      margin-bottom: 12px;
+    }
+    .team-name {
+      font-family: var(--font-display);
+      font-size: 17px; font-weight: 700;
+      flex: 1; line-height: 1.1;
+    }
+    .team-name.away { text-align: right; }
+    .vs {
+      font-family: var(--font-mono); font-size: 10px;
+      color: var(--muted); padding: 0 8px; white-space: nowrap;
+    }
+
+    /* Score for completed games */
+    .score-display {
+      font-family: var(--font-display);
+      font-size: 26px; font-weight: 900;
+      text-align: center; color: var(--text);
+      letter-spacing: -1px;
+      margin-bottom: 8px;
+    }
+
+    .prediction-row {
+      display: flex; align-items: center; gap: 8px;
+      background: var(--bg3);
+      border-radius: 8px; padding: 10px 12px;
+      margin-bottom: 8px;
+    }
+    .pred-tag {
+      font-family: var(--font-display);
+      font-size: 18px; font-weight: 900;
+      text-transform: uppercase;
+      letter-spacing: 1px;
+      flex: 0 0 auto;
+    }
+    .pred-tag.OVER  { color: var(--green); }
+    .pred-tag.UNDER { color: var(--blue); }
+
+    .pred-line {
+      font-family: var(--font-mono); font-size: 13px;
+      font-weight: 500; color: var(--text);
+    }
+    .pred-expected {
+      font-family: var(--font-mono); font-size: 11px; color: var(--muted);
+      margin-left: auto;
+    }
+
+    .confidence-row {
+      display: flex; align-items: center; gap: 10px;
+    }
+    .conf-bar-wrap {
+      flex: 1; height: 4px; background: var(--faint); border-radius: 2px;
+      overflow: hidden;
+    }
+    .conf-bar {
+      height: 100%; border-radius: 2px;
+      transition: width 0.6s cubic-bezier(.34,1.56,.64,1);
+    }
+    .conf-bar.green { background: var(--green); }
+    .conf-bar.lemon { background: var(--lemon); }
+    .conf-bar.blue  { background: var(--blue); }
+    .conf-bar.red   { background: var(--red); }
+
+    .conf-pct {
+      font-family: var(--font-mono); font-size: 12px; font-weight: 500;
+      flex: 0 0 auto; min-width: 42px; text-align: right;
+    }
+    .conf-pct.green { color: var(--green); }
+    .conf-pct.lemon { color: var(--lemon); }
+    .conf-pct.blue  { color: var(--blue); }
+    .conf-pct.red   { color: var(--red); }
+
+    .conf-label {
+      font-family: var(--font-mono); font-size: 9px;
+      color: var(--muted); text-transform: uppercase;
+      letter-spacing: 1px; flex: 0 0 auto;
+    }
+
+    .card-footer {
+      display: flex; align-items: center; justify-content: space-between;
+      padding: 8px 14px 10px;
+      border-top: 1px solid var(--border);
+    }
+    .prob-row { display: flex; gap: 12px; }
+    .prob-item { font-family: var(--font-mono); font-size: 10px; color: var(--muted); }
+    .prob-item span { color: var(--text); }
+
+    /* Result badges */
+    .result-badge {
+      font-family: var(--font-mono); font-size: 10px; font-weight: 500;
+      padding: 3px 8px; border-radius: 4px;
+      text-transform: uppercase; letter-spacing: 1px;
+    }
+    .result-badge.correct { background: var(--green-bg); color: var(--green); border: 1px solid var(--green-brd); }
+    .result-badge.wrong   { background: var(--red-bg);   color: var(--red);   border: 1px solid var(--red-brd); }
+    .result-badge.pending { background: var(--faint);    color: var(--muted); border: 1px solid var(--border2); }
+
+    /* Confidence color accent on left border */
+    .card.green { border-left: 3px solid var(--green); }
+    .card.lemon { border-left: 3px solid var(--lemon); }
+    .card.blue  { border-left: 3px solid var(--blue); }
+    .card.red   { border-left: 3px solid var(--red); }
+
+    /* ─── ACCURACY SECTION ───────────────────────── */
+    .accuracy-section {
+      padding: 0 16px 32px; max-width: 1280px; margin: 0 auto;
+    }
+    .accuracy-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(160px, 1fr));
+      gap: 10px;
+      margin-top: 16px;
+    }
+    .acc-card {
+      background: var(--bg2); border: 1px solid var(--border);
+      border-radius: 8px; padding: 14px;
+      text-align: center;
+    }
+    .acc-label { font-family: var(--font-mono); font-size: 9px; color: var(--muted); letter-spacing: 1.5px; text-transform: uppercase; margin-bottom: 6px; }
+    .acc-value {
+      font-family: var(--font-display); font-size: 32px; font-weight: 900; line-height: 1;
+    }
+    .acc-sub { font-family: var(--font-mono); font-size: 9px; color: var(--muted); margin-top: 4px; }
+
+    /* League accuracy table */
+    .league-table { margin-top: 16px; }
+    .league-table table { width: 100%; border-collapse: collapse; }
+    .league-table th {
+      font-family: var(--font-mono); font-size: 9px; color: var(--muted);
+      text-align: left; padding: 8px 12px; letter-spacing: 1px;
+      text-transform: uppercase; border-bottom: 1px solid var(--border);
+    }
+    .league-table td {
+      padding: 10px 12px; border-bottom: 1px solid var(--border);
+      font-family: var(--font-body); font-size: 13px;
+    }
+    .league-table tr:hover td { background: var(--bg3); }
+    .league-table .acc-bar-wrap { width: 80px; height: 4px; background: var(--faint); border-radius: 2px; display: inline-block; vertical-align: middle; }
+    .league-table .acc-bar-fill { height: 4px; border-radius: 2px; background: var(--accent); }
+
+    /* ─── TABS ───────────────────────────────────── */
+    .tabs {
+      display: flex; gap: 0; border-bottom: 1px solid var(--border);
+      padding: 0 16px; max-width: 1280px; margin: 0 auto;
+    }
+    .tab {
+      font-family: var(--font-mono); font-size: 11px; letter-spacing: 1px;
+      text-transform: uppercase; padding: 12px 20px;
+      color: var(--muted); cursor: pointer;
+      border-bottom: 2px solid transparent;
+      margin-bottom: -1px;
+      transition: all 0.15s;
+    }
+    .tab:hover { color: var(--text); }
+    .tab.active { color: var(--text); border-bottom-color: var(--accent2); }
+
+    /* ─── EMPTY / LOADING ────────────────────────── */
+    .empty-state {
+      text-align: center; padding: 60px 20px;
+      color: var(--muted);
+    }
+    .empty-icon { font-size: 40px; margin-bottom: 12px; }
+    .empty-title { font-family: var(--font-display); font-size: 20px; font-weight: 700; color: var(--text); margin-bottom: 6px; }
+    .empty-sub { font-family: var(--font-mono); font-size: 11px; }
+
+    .loading-row {
+      display: flex; align-items: center; justify-content: center;
+      padding: 40px; gap: 12px; color: var(--muted);
+      font-family: var(--font-mono); font-size: 12px;
+    }
+    .spinner {
+      width: 18px; height: 18px; border: 2px solid var(--border);
+      border-top-color: var(--accent2); border-radius: 50%;
+      animation: spin 0.8s linear infinite;
+    }
+    @keyframes spin { to { transform: rotate(360deg); } }
+
+    /* ─── TOAST ──────────────────────────────────── */
+    #toast {
+      position: fixed; bottom: 24px; right: 24px; z-index: 999;
+      background: var(--bg3); border: 1px solid var(--border2);
+      color: var(--text); padding: 10px 18px; border-radius: 8px;
+      font-family: var(--font-mono); font-size: 12px;
+      opacity: 0; transform: translateY(10px);
+      transition: all 0.2s;
+      pointer-events: none;
+    }
+    #toast.show { opacity: 1; transform: translateY(0); }
+
+    /* ─── RESPONSIVE ─────────────────────────────── */
+    @media (max-width: 640px) {
+      .cards-grid { grid-template-columns: 1fr; }
+      .logo-tag { display: none; }
+      .legend { display: none; }
+      .metric-value { font-size: 18px; }
+    }
+  </style>
+</head>
+<body>
+
+<!-- ── HEADER ─────────────────────────────────────── -->
+<header>
+  <div class="header-inner">
+    <div class="logo">
+      <span class="logo-hoop">Hoop</span><span class="logo-cast">Cast</span>
+      <span class="logo-tag">O/U Intelligence</span>
+    </div>
+    <div class="header-status">
+      <div class="status-dot" id="statusDot"></div>
+      <span class="status-text" id="statusText">Loading…</span>
+    </div>
+  </div>
+</header>
+
+<!-- ── METRICS BAR ────────────────────────────────── -->
+<div class="metrics-bar">
+  <div class="metrics-inner">
+    <div class="metric">
+      <div class="metric-label">Today's Games</div>
+      <div class="metric-value accent" id="mToday">—</div>
+    </div>
+    <div class="metric">
+      <div class="metric-label">Overall Accuracy</div>
+      <div class="metric-value good" id="mAccuracy">—</div>
+    </div>
+    <div class="metric">
+      <div class="metric-label">30-Day Accuracy</div>
+      <div class="metric-value" id="mRolling">—</div>
+    </div>
+    <div class="metric">
+      <div class="metric-label">Leagues Covered</div>
+      <div class="metric-value" id="mLeagues">—</div>
+    </div>
+    <div class="metric">
+      <div class="metric-label">Last Updated</div>
+      <div class="metric-value" id="mUpdated" style="font-size:14px;font-family:var(--font-mono);padding-top:4px">—</div>
+    </div>
+  </div>
+</div>
+
+<!-- ── TABS ───────────────────────────────────────── -->
+<div class="tabs">
+  <div class="tab active" data-tab="predictions">Predictions</div>
+  <div class="tab" data-tab="history">History</div>
+  <div class="tab" data-tab="accuracy">Accuracy</div>
+</div>
+
+<!-- ── PREDICTIONS TAB ───────────────────────────── -->
+<div id="tab-predictions">
+  <!-- Controls -->
+  <div class="controls wrapper">
+    <div class="control-group">
+      <span class="control-label">Date</span>
+      <input type="date" id="datePicker" />
+    </div>
+    <div class="control-group">
+      <span class="control-label">League</span>
+      <select id="leagueFilter">
+        <option value="">All Leagues</option>
+      </select>
+    </div>
+    <div class="control-group">
+      <span class="control-label">Sort</span>
+      <select id="sortSelect">
+        <option value="confidence">Confidence ↓</option>
+        <option value="league">League</option>
+        <option value="prediction">Prediction</option>
+      </select>
+    </div>
+    <div class="control-group">
+      <span class="control-label">View</span>
+      <div class="btn-group" id="viewBtns">
+        <button class="btn active" data-view="day">Today</button>
+        <button class="btn" data-view="3day">3-Day</button>
+      </div>
+    </div>
+    <div class="control-group">
+      <span class="control-label">Show</span>
+      <div class="btn-group" id="filterBtns">
+        <button class="btn active" data-filter="all">All</button>
+        <button class="btn" data-filter="OVER">Over</button>
+        <button class="btn" data-filter="UNDER">Under</button>
+      </div>
+    </div>
+    <div class="legend">
+      <div class="legend-item"><div class="legend-dot green"></div><span class="legend-text">90–100 Excellent</span></div>
+      <div class="legend-item"><div class="legend-dot lemon"></div><span class="legend-text">80–89 Very Good</span></div>
+      <div class="legend-item"><div class="legend-dot blue"></div><span class="legend-text">70–79 Good</span></div>
+      <div class="legend-item"><div class="legend-dot red"></div><span class="legend-text">&lt;70 Risky</span></div>
+    </div>
+  </div>
+
+  <div class="predictions-section">
+    <div class="section-header">
+      <span class="sectio
