@@ -1,0 +1,37 @@
+{
+  "teamName": "Detroit Pistons",
+  "gamesPlayed": 16,
+  "avgPointsScored": 107.5,
+  "avgPointsAllowed": 104.1875,
+  "recent5Totals": [
+    219,
+    209,
+    230,
+    215,
+    225
+  ],
+  "recent10Totals": [
+    219,
+    209,
+    230,
+    215,
+    225,
+    204,
+    212,
+    210,
+    172,
+    225
+  ],
+  "avgTotal5": 219.6,
+  "avgTotal10": 212.1,
+  "homeAvgScored": 107,
+  "homeAvgAllowed": 104.75,
+  "awayAvgScored": 108,
+  "awayAvgAllowed": 103.625,
+  "recentOverPct": 62.5,
+  "recentUnderPct": 37.5,
+  "pace": 211.6875,
+  "lastGameDate": "2026-05-17",
+  "restDays": 2,
+  "updatedAt": 1780893893638
+}
