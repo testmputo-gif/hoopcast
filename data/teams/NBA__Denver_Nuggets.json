@@ -1,0 +1,35 @@
+{
+  "teamName": "Denver Nuggets",
+  "gamesPlayed": 8,
+  "avgPointsScored": 112.5,
+  "avgPointsAllowed": 112.125,
+  "recent5Totals": [
+    208,
+    238,
+    208,
+    209,
+    233
+  ],
+  "recent10Totals": [
+    208,
+    238,
+    208,
+    209,
+    233,
+    221,
+    246,
+    234
+  ],
+  "avgTotal5": 219.2,
+  "avgTotal10": 224.625,
+  "homeAvgScored": 120.5,
+  "homeAvgAllowed": 111,
+  "awayAvgScored": 104.5,
+  "awayAvgAllowed": 113.25,
+  "recentOverPct": 50,
+  "recentUnderPct": 50,
+  "pace": 224.625,
+  "lastGameDate": "2026-04-30",
+  "restDays": 3,
+  "updatedAt": 1780893899699
+}
