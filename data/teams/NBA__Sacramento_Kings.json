@@ -1,0 +1,26 @@
+{
+  "teamName": "Sacramento Kings",
+  "gamesPlayed": 2,
+  "avgPointsScored": 117,
+  "avgPointsAllowed": 120,
+  "recent5Totals": [
+    232,
+    242
+  ],
+  "recent10Totals": [
+    232,
+    242
+  ],
+  "avgTotal5": 237,
+  "avgTotal10": 237,
+  "homeAvgScored": 124,
+  "homeAvgAllowed": 118,
+  "awayAvgScored": 110,
+  "awayAvgAllowed": 122,
+  "recentOverPct": 50,
+  "recentUnderPct": 50,
+  "pace": 237,
+  "lastGameDate": "2026-04-12",
+  "restDays": 2,
+  "updatedAt": 1780893904962
+}
