@@ -1,0 +1,24 @@
+{
+  "teamName": "Greensboro Swarm",
+  "gamesPlayed": 1,
+  "avgPointsScored": 119,
+  "avgPointsAllowed": 104,
+  "recent5Totals": [
+    223
+  ],
+  "recent10Totals": [
+    223
+  ],
+  "avgTotal5": 223,
+  "avgTotal10": 223,
+  "homeAvgScored": null,
+  "homeAvgAllowed": null,
+  "awayAvgScored": 119,
+  "awayAvgAllowed": 104,
+  "recentOverPct": 0,
+  "recentUnderPct": 100,
+  "pace": 223,
+  "lastGameDate": "2026-04-11",
+  "restDays": 3,
+  "updatedAt": 1780893921046
+}
