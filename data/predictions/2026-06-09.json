@@ -10,9 +10,9 @@
     "multiSourceValidated": false,
     "prediction": "UNDER",
     "expectedTotal": 163.7,
-    "overProbability": 45.6,
-    "underProbability": 54.4,
-    "confidence": 46.5,
+    "overProbability": 44.2,
+    "underProbability": 55.8,
+    "confidence": 48,
     "confidenceColor": "red",
     "components": {
       "possession": 164,
@@ -25,7 +25,7 @@
     "status": "scheduled",
     "result": null,
     "actualTotal": null,
-    "generatedAt": "2026-06-08T12:18:30.879Z"
+    "generatedAt": "2026-06-08T15:01:53.363Z"
   },
   {
     "id": "tsdb-2478437-2026-06-09",
@@ -36,11 +36,11 @@
     "line": 215,
     "lineSource": "model-estimated",
     "multiSourceValidated": false,
-    "prediction": "UNDER",
+    "prediction": "OVER",
     "expectedTotal": 215.2,
-    "overProbability": 49.3,
-    "underProbability": 50.7,
-    "confidence": 44.8,
+    "overProbability": 50.1,
+    "underProbability": 49.9,
+    "confidence": 44.1,
     "confidenceColor": "red",
     "components": {
       "possession": 215,
@@ -53,7 +53,7 @@
     "status": "scheduled",
     "result": null,
     "actualTotal": null,
-    "generatedAt": "2026-06-08T12:18:31.107Z"
+    "generatedAt": "2026-06-08T15:01:53.724Z"
   },
   {
     "id": "tsdb-2478621-2026-06-09",
@@ -66,8 +66,8 @@
     "multiSourceValidated": false,
     "prediction": "OVER",
     "expectedTotal": 220,
-    "overProbability": 53.5,
-    "underProbability": 46.5,
+    "overProbability": 51.8,
+    "underProbability": 48.2,
     "confidence": 40,
     "confidenceColor": "red",
     "components": {
@@ -81,6 +81,6 @@
     "status": "scheduled",
     "result": null,
     "actualTotal": null,
-    "generatedAt": "2026-06-08T12:18:31.193Z"
+    "generatedAt": "2026-06-08T15:01:53.831Z"
   }
 ]
