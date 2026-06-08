@@ -7,6 +7,12 @@
       "tier": 1
     },
     {
+      "key": "WNBA",
+      "name": "WNBA",
+      "country": "USA",
+      "tier": 1
+    },
+    {
       "key": "EuroLeague",
       "name": "EuroLeague",
       "country": "Europe",
@@ -20,19 +26,25 @@
     },
     {
       "key": "ACB",
-      "name": "Liga ACB",
+      "name": "ACB",
       "country": "Spain",
       "tier": 2
     },
     {
-      "key": "Lega Basket",
-      "name": "Lega Basket Serie A",
+      "key": "LegaBasket",
+      "name": "Lega Basket",
       "country": "Italy",
       "tier": 2
     },
     {
-      "key": "Pro A",
+      "key": "ProA",
       "name": "Pro A",
+      "country": "France",
+      "tier": 2
+    },
+    {
+      "key": "LNBElite",
+      "name": "France LNB Elite",
       "country": "France",
       "tier": 2
     },
@@ -45,56 +57,56 @@
     {
       "key": "VTB",
       "name": "VTB United League",
-      "country": "Russia/Europe",
+      "country": "Europe",
       "tier": 2
     },
     {
       "key": "BSL",
-      "name": "Basketball Super League",
+      "name": "Turkiye Super Lig",
       "country": "Turkey",
       "tier": 2
     },
     {
       "key": "NBL",
-      "name": "National Basketball League",
+      "name": "NBL Australia",
       "country": "Australia",
       "tier": 2
     },
     {
+      "key": "NBL1South",
+      "name": "Australia NBL1 South",
+      "country": "Australia",
+      "tier": 3
+    },
+    {
+      "key": "NBL1North",
+      "name": "Australia NBL1 North",
+      "country": "Australia",
+      "tier": 3
+    },
+    {
       "key": "CBA",
-      "name": "Chinese Basketball Association",
+      "name": "CBA China",
       "country": "China",
       "tier": 2
     },
     {
       "key": "KBL",
-      "name": "Korean Basketball League",
+      "name": "KBL Korea",
       "country": "South Korea",
       "tier": 2
     },
     {
-      "key": "SBL",
-      "name": "Super Basketball League",
-      "country": "Taiwan",
-      "tier": 3
-    },
-    {
       "key": "PBA",
-      "name": "Philippine Basketball Association",
+      "name": "PBA Philippines",
       "country": "Philippines",
       "tier": 2
     },
     {
       "key": "BNXT",
-      "name": "BNXT League",
-      "country": "Belgium/Netherlands",
+      "name": "Belgium BNXT League",
+      "country": "Belgium",
       "tier": 2
-    },
-    {
-      "key": "LNB Pro B",
-      "name": "LNB Pro B",
-      "country": "France",
-      "tier": 3
     },
     {
       "key": "HEBA",
@@ -103,29 +115,77 @@
       "tier": 2
     },
     {
-      "key": "NLB",
-      "name": "NLB Regional League",
-      "country": "Balkans",
-      "tier": 3
-    },
-    {
       "key": "LKL",
-      "name": "LKL",
+      "name": "Lithuania LKL",
       "country": "Lithuania",
       "tier": 3
     },
     {
       "key": "PLK",
-      "name": "PLK",
+      "name": "Poland PLK",
       "country": "Poland",
       "tier": 3
     },
     {
-      "key": "UniLeague",
-      "name": "UniLeague",
-      "country": "Czech/Slovak",
+      "key": "IndonesiaIBL",
+      "name": "Indonesia IBL",
+      "country": "Indonesia",
       "tier": 3
+    },
+    {
+      "key": "LebanonDiv1",
+      "name": "Lebanon First Division",
+      "country": "Lebanon",
+      "tier": 3
+    },
+    {
+      "key": "IsraelNat",
+      "name": "Israel National League",
+      "country": "Israel",
+      "tier": 3
+    },
+    {
+      "key": "IsraelSuper",
+      "name": "Israel Super League",
+      "country": "Israel",
+      "tier": 3
+    },
+    {
+      "key": "CzechNBL",
+      "name": "Czech Republic NBL",
+      "country": "Czech Rep.",
+      "tier": 3
+    },
+    {
+      "key": "ItalySerieB",
+      "name": "Italy Serie B",
+      "country": "Italy",
+      "tier": 3
+    },
+    {
+      "key": "ArgentinaLNB",
+      "name": "Argentina LNB",
+      "country": "Argentina",
+      "tier": 3
+    },
+    {
+      "key": "PuertoRico",
+      "name": "Puerto Rico BSN",
+      "country": "Puerto Rico",
+      "tier": 3
+    },
+    {
+      "key": "DomRep",
+      "name": "Dominican Republic LNB",
+      "country": "Dom. Rep.",
+      "tier": 3
+    },
+    {
+      "key": "NBAGL",
+      "name": "NBA G League",
+      "country": "USA",
+      "tier": 2
     }
   ],
-  "updatedAt": 1780871860593
+  "updatedAt": 1780893922840
 }
