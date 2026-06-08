@@ -1,0 +1,37 @@
+{
+  "teamName": "Las Vegas Aces",
+  "gamesPlayed": 12,
+  "avgPointsScored": 89.08333333333333,
+  "avgPointsAllowed": 85.66666666666667,
+  "recent5Totals": [
+    163,
+    148,
+    172,
+    182,
+    196
+  ],
+  "recent10Totals": [
+    163,
+    148,
+    172,
+    182,
+    196,
+    169,
+    195,
+    167,
+    183,
+    165
+  ],
+  "avgTotal5": 172.2,
+  "avgTotal10": 174,
+  "homeAvgScored": 84.75,
+  "homeAvgAllowed": 89.25,
+  "awayAvgScored": 91.25,
+  "awayAvgAllowed": 83.875,
+  "recentOverPct": 41.66666666666667,
+  "recentUnderPct": 58.333333333333336,
+  "pace": 174.75,
+  "lastGameDate": "2026-06-06",
+  "restDays": 4,
+  "updatedAt": 1780893914903
+}
