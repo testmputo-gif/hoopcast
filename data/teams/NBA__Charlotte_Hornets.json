@@ -1,0 +1,30 @@
+{
+  "teamName": "Charlotte Hornets",
+  "gamesPlayed": 4,
+  "avgPointsScored": 106.75,
+  "avgPointsAllowed": 115.25,
+  "recent5Totals": [
+    211,
+    253,
+    206,
+    218
+  ],
+  "recent10Totals": [
+    211,
+    253,
+    206,
+    218
+  ],
+  "avgTotal5": 222,
+  "avgTotal10": 222,
+  "homeAvgScored": 113.5,
+  "homeAvgAllowed": 122,
+  "awayAvgScored": 100,
+  "awayAvgAllowed": 108.5,
+  "recentOverPct": 25,
+  "recentUnderPct": 75,
+  "pace": 222,
+  "lastGameDate": "2026-04-17",
+  "restDays": 3,
+  "updatedAt": 1780893892881
+}
