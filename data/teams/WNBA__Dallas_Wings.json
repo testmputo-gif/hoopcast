@@ -1,0 +1,37 @@
+{
+  "teamName": "Dallas Wings",
+  "gamesPlayed": 12,
+  "avgPointsScored": 90.83333333333333,
+  "avgPointsAllowed": 82.83333333333333,
+  "recent5Totals": [
+    200,
+    135,
+    182,
+    167,
+    155
+  ],
+  "recent10Totals": [
+    200,
+    135,
+    182,
+    167,
+    155,
+    188,
+    161,
+    176,
+    149,
+    211
+  ],
+  "avgTotal5": 167.8,
+  "avgTotal10": 172.4,
+  "homeAvgScored": 87.5,
+  "homeAvgAllowed": 77.16666666666667,
+  "awayAvgScored": 94.16666666666667,
+  "awayAvgAllowed": 88.5,
+  "recentOverPct": 58.333333333333336,
+  "recentUnderPct": 41.66666666666667,
+  "pace": 173.66666666666666,
+  "lastGameDate": "2026-06-05",
+  "restDays": 4,
+  "updatedAt": 1780893919437
+}
