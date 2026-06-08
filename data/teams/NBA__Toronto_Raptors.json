@@ -1,0 +1,37 @@
+{
+  "teamName": "Toronto Raptors",
+  "gamesPlayed": 10,
+  "avgPointsScored": 113,
+  "avgPointsAllowed": 111,
+  "recent5Totals": [
+    216,
+    222,
+    245,
+    182,
+    230
+  ],
+  "recent10Totals": [
+    216,
+    222,
+    245,
+    182,
+    230,
+    220,
+    239,
+    237,
+    207,
+    242
+  ],
+  "avgTotal5": 219,
+  "avgTotal10": 224,
+  "homeAvgScored": 119,
+  "homeAvgAllowed": 103.6,
+  "awayAvgScored": 107,
+  "awayAvgAllowed": 118.4,
+  "recentOverPct": 50,
+  "recentUnderPct": 50,
+  "pace": 224,
+  "lastGameDate": "2026-05-03",
+  "restDays": 2,
+  "updatedAt": 1780893883662
+}
