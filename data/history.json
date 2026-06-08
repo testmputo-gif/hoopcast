@@ -3396,11 +3396,15 @@
     "byLeague": {
       "NBA": {
         "accuracy": null,
-        "gamesTracked": 1
+        "gamesTracked": 125
       },
       "NBA G League": {
         "accuracy": null,
         "gamesTracked": 1
+      },
+      "WNBA": {
+        "accuracy": null,
+        "gamesTracked": 100
       }
     },
     "byColor": {
