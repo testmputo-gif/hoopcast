@@ -1,0 +1,56 @@
+{
+  "fixtures": [
+    {
+      "id": "tsdb-2449040",
+      "league": "WNBA",
+      "date": "2026-06-09",
+      "homeTeam": "Las Vegas Aces",
+      "awayTeam": "Seattle Storm",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb"
+      ],
+      "multiSourceValidated": false
+    },
+    {
+      "id": "tsdb-2478437",
+      "league": "Italian Serie A2",
+      "date": "2026-06-09",
+      "homeTeam": "Scaligera Basket Verona",
+      "awayTeam": "Rimini",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb"
+      ],
+      "multiSourceValidated": false
+    },
+    {
+      "id": "tsdb-2478621",
+      "league": "NBA",
+      "date": "2026-06-09",
+      "homeTeam": "New York Knicks",
+      "awayTeam": "San Antonio Spurs",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb-schedule",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb-schedule"
+      ],
+      "multiSourceValidated": false
+    }
+  ],
+  "cachedAt": 1780921090892
+}
