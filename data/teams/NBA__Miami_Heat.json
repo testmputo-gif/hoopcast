@@ -1,0 +1,30 @@
+{
+  "teamName": "Miami Heat",
+  "gamesPlayed": 4,
+  "avgPointsScored": 130.75,
+  "avgPointsAllowed": 122.25,
+  "recent5Totals": [
+    253,
+    260,
+    257,
+    242
+  ],
+  "recent10Totals": [
+    253,
+    260,
+    257,
+    242
+  ],
+  "avgTotal5": 253,
+  "avgTotal10": 253,
+  "homeAvgScored": 143,
+  "homeAvgAllowed": 117,
+  "awayAvgScored": 126.66666666666667,
+  "awayAvgAllowed": 124,
+  "recentOverPct": 50,
+  "recentUnderPct": 50,
+  "pace": 253,
+  "lastGameDate": "2026-04-14",
+  "restDays": 2,
+  "updatedAt": 1780893884401
+}
