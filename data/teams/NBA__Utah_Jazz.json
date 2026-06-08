@@ -1,0 +1,26 @@
+{
+  "teamName": "Utah Jazz",
+  "gamesPlayed": 2,
+  "avgPointsScored": 127,
+  "avgPointsAllowed": 116,
+  "recent5Totals": [
+    238,
+    248
+  ],
+  "recent10Totals": [
+    238,
+    248
+  ],
+  "avgTotal5": 243,
+  "avgTotal10": 243,
+  "homeAvgScored": 147,
+  "homeAvgAllowed": 101,
+  "awayAvgScored": 107,
+  "awayAvgAllowed": 131,
+  "recentOverPct": 50,
+  "recentUnderPct": 50,
+  "pace": 243,
+  "lastGameDate": "2026-04-12",
+  "restDays": 2,
+  "updatedAt": 1780893901997
+}
