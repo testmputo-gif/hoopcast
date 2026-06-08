@@ -1,0 +1,37 @@
+{
+  "teamName": "Portland Fire",
+  "gamesPlayed": 15,
+  "avgPointsScored": 80.86666666666666,
+  "avgPointsAllowed": 85.93333333333334,
+  "recent5Totals": [
+    161,
+    150,
+    172,
+    184,
+    152
+  ],
+  "recent10Totals": [
+    161,
+    150,
+    172,
+    184,
+    152,
+    132,
+    155,
+    179,
+    163,
+    165
+  ],
+  "avgTotal5": 163.8,
+  "avgTotal10": 161.3,
+  "homeAvgScored": 81.11111111111111,
+  "homeAvgAllowed": 85.55555555555556,
+  "awayAvgScored": 80.5,
+  "awayAvgAllowed": 86.5,
+  "recentOverPct": 46.666666666666664,
+  "recentUnderPct": 53.333333333333336,
+  "pace": 166.8,
+  "lastGameDate": "2026-06-07",
+  "restDays": 2,
+  "updatedAt": 1780893918716
+}
