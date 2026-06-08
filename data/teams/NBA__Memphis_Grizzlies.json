@@ -1,0 +1,26 @@
+{
+  "teamName": "Memphis Grizzlies",
+  "gamesPlayed": 2,
+  "avgPointsScored": 101,
+  "avgPointsAllowed": 139.5,
+  "recent5Totals": [
+    233,
+    248
+  ],
+  "recent10Totals": [
+    233,
+    248
+  ],
+  "avgTotal5": 240.5,
+  "avgTotal10": 240.5,
+  "homeAvgScored": null,
+  "homeAvgAllowed": null,
+  "awayAvgScored": 101,
+  "awayAvgAllowed": 139.5,
+  "recentOverPct": 50,
+  "recentUnderPct": 50,
+  "pace": 240.5,
+  "lastGameDate": "2026-04-12",
+  "restDays": 2,
+  "updatedAt": 1780893902729
+}
