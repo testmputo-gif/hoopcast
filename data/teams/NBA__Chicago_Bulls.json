@@ -1,0 +1,28 @@
+{
+  "teamName": "Chicago Bulls",
+  "gamesPlayed": 3,
+  "avgPointsScored": 116.66666666666667,
+  "avgPointsAllowed": 128,
+  "recent5Totals": [
+    277,
+    230,
+    227
+  ],
+  "recent10Totals": [
+    277,
+    230,
+    227
+  ],
+  "avgTotal5": 244.66666666666666,
+  "avgTotal10": 244.66666666666666,
+  "homeAvgScored": 103,
+  "homeAvgAllowed": 127,
+  "awayAvgScored": 123.5,
+  "awayAvgAllowed": 128.5,
+  "recentOverPct": 33.33333333333333,
+  "recentUnderPct": 66.66666666666666,
+  "pace": 244.66666666666666,
+  "lastGameDate": "2026-04-12",
+  "restDays": 2,
+  "updatedAt": 1780893885920
+}
