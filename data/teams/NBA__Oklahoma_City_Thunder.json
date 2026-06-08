@@ -1,0 +1,37 @@
+{
+  "teamName": "Oklahoma City Thunder",
+  "gamesPlayed": 17,
+  "avgPointsScored": 114.29411764705883,
+  "avgPointsAllowed": 111.05882352941177,
+  "recent5Totals": [
+    214,
+    209,
+    241,
+    185,
+    231
+  ],
+  "recent10Totals": [
+    214,
+    209,
+    241,
+    185,
+    231,
+    235,
+    237,
+    225,
+    239,
+    232
+  ],
+  "avgTotal5": 216,
+  "avgTotal10": 224.8,
+  "homeAvgScored": 115.77777777777777,
+  "homeAvgAllowed": 109.22222222222223,
+  "awayAvgScored": 112.625,
+  "awayAvgAllowed": 113.125,
+  "recentOverPct": 64.70588235294117,
+  "recentUnderPct": 35.294117647058826,
+  "pace": 225.35294117647058,
+  "lastGameDate": "2026-05-30",
+  "restDays": 2,
+  "updatedAt": 1780893900465
+}
