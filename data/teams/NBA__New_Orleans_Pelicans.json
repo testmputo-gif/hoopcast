@@ -1,0 +1,26 @@
+{
+  "teamName": "New Orleans Pelicans",
+  "gamesPlayed": 2,
+  "avgPointsScored": 122,
+  "avgPointsAllowed": 138,
+  "recent5Totals": [
+    258,
+    262
+  ],
+  "recent10Totals": [
+    258,
+    262
+  ],
+  "avgTotal5": 260,
+  "avgTotal10": 260,
+  "homeAvgScored": null,
+  "homeAvgAllowed": null,
+  "awayAvgScored": 122,
+  "awayAvgAllowed": 138,
+  "recentOverPct": 50,
+  "recentUnderPct": 50,
+  "pace": 260,
+  "lastGameDate": "2026-04-12",
+  "restDays": 2,
+  "updatedAt": 1780893895907
+}
