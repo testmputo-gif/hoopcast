@@ -1,18 +1,18 @@
 [
   {
-    "id": "tsdb-2450593-2026-06-12",
+    "id": "tsdb-2439528-2026-06-12",
     "date": "2026-06-12",
-    "league": "NBL1 West",
-    "homeTeam": "Willetton Tigers",
-    "awayTeam": "Lakeside Lightning",
+    "league": "France LNB Elite",
+    "homeTeam": "Dordoi Bishkek",
+    "awayTeam": "Ilbirs Bishkek",
     "line": 215,
     "lineSource": "model-estimated",
     "multiSourceValidated": false,
-    "prediction": "OVER",
+    "prediction": "UNDER",
     "expectedTotal": 215.2,
-    "overProbability": 51.3,
-    "underProbability": 48.7,
-    "confidence": 45.3,
+    "overProbability": 49.3,
+    "underProbability": 50.7,
+    "confidence": 44.8,
     "confidenceColor": "red",
     "components": {
       "possession": 215,
@@ -25,7 +25,35 @@
     "status": "scheduled",
     "result": null,
     "actualTotal": null,
-    "generatedAt": "2026-06-09T11:26:01.334Z"
+    "generatedAt": "2026-06-09T12:26:07.344Z"
+  },
+  {
+    "id": "tsdb-2450593-2026-06-12",
+    "date": "2026-06-12",
+    "league": "NBL1 West",
+    "homeTeam": "Willetton Tigers",
+    "awayTeam": "Lakeside Lightning",
+    "line": 215,
+    "lineSource": "model-estimated",
+    "multiSourceValidated": false,
+    "prediction": "OVER",
+    "expectedTotal": 215.2,
+    "overProbability": 50.4,
+    "underProbability": 49.6,
+    "confidence": 44.4,
+    "confidenceColor": "red",
+    "components": {
+      "possession": 215,
+      "trend": 214,
+      "pace": 215,
+      "league": 215,
+      "blended": 215
+    },
+    "monteCarloRuns": 5000,
+    "status": "scheduled",
+    "result": null,
+    "actualTotal": null,
+    "generatedAt": "2026-06-09T12:26:07.007Z"
   },
   {
     "id": "tsdb-2449047-2026-06-12",
@@ -38,9 +66,9 @@
     "multiSourceValidated": false,
     "prediction": "UNDER",
     "expectedTotal": 170.3,
-    "overProbability": 47.4,
-    "underProbability": 52.6,
-    "confidence": 44.3,
+    "overProbability": 48.2,
+    "underProbability": 51.8,
+    "confidence": 43.5,
     "confidenceColor": "red",
     "components": {
       "possession": 174,
@@ -53,34 +81,6 @@
     "status": "scheduled",
     "result": null,
     "actualTotal": null,
-    "generatedAt": "2026-06-09T11:26:01.073Z"
-  },
-  {
-    "id": "tsdb-2439528-2026-06-12",
-    "date": "2026-06-12",
-    "league": "France LNB Elite",
-    "homeTeam": "Dordoi Bishkek",
-    "awayTeam": "Ilbirs Bishkek",
-    "line": 215,
-    "lineSource": "model-estimated",
-    "multiSourceValidated": false,
-    "prediction": "UNDER",
-    "expectedTotal": 215.2,
-    "overProbability": 49.7,
-    "underProbability": 50.3,
-    "confidence": 44.3,
-    "confidenceColor": "red",
-    "components": {
-      "possession": 215,
-      "trend": 214,
-      "pace": 215,
-      "league": 215,
-      "blended": 215
-    },
-    "monteCarloRuns": 5000,
-    "status": "scheduled",
-    "result": null,
-    "actualTotal": null,
-    "generatedAt": "2026-06-09T11:26:01.581Z"
+    "generatedAt": "2026-06-09T12:26:06.679Z"
   }
 ]
