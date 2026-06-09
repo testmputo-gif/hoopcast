@@ -1,33 +1,5 @@
 [
   {
-    "id": "tsdb-2427939-2026-06-11",
-    "date": "2026-06-11",
-    "league": "Lega Basket",
-    "homeTeam": "Tampere United",
-    "awayTeam": "OLS",
-    "line": 215,
-    "lineSource": "model-estimated",
-    "multiSourceValidated": false,
-    "prediction": "UNDER",
-    "expectedTotal": 215.2,
-    "overProbability": 49.4,
-    "underProbability": 50.6,
-    "confidence": 44.6,
-    "confidenceColor": "red",
-    "components": {
-      "possession": 215,
-      "trend": 214,
-      "pace": 215,
-      "league": 215,
-      "blended": 215
-    },
-    "monteCarloRuns": 5000,
-    "status": "scheduled",
-    "result": null,
-    "actualTotal": null,
-    "generatedAt": "2026-06-08T15:01:56.079Z"
-  },
-  {
     "id": "tsdb-2449044-2026-06-11",
     "date": "2026-06-11",
     "league": "WNBA",
@@ -38,9 +10,9 @@
     "multiSourceValidated": false,
     "prediction": "UNDER",
     "expectedTotal": 165.4,
-    "overProbability": 47,
-    "underProbability": 53,
-    "confidence": 41.9,
+    "overProbability": 46.3,
+    "underProbability": 53.7,
+    "confidence": 42.6,
     "confidenceColor": "red",
     "components": {
       "possession": 165,
@@ -53,6 +25,6 @@
     "status": "scheduled",
     "result": null,
     "actualTotal": null,
-    "generatedAt": "2026-06-08T15:01:55.710Z"
+    "generatedAt": "2026-06-09T10:54:34.079Z"
   }
 ]
