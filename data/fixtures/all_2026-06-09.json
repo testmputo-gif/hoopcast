@@ -6,9 +6,9 @@
       "date": "2026-06-09",
       "homeTeam": "Las Vegas Aces",
       "awayTeam": "Seattle Storm",
-      "homeScore": null,
-      "awayScore": null,
-      "totalScore": null,
+      "homeScore": 101,
+      "awayScore": 91,
+      "totalScore": 192,
       "status": "scheduled",
       "source": "thesportsdb",
       "sourceCount": 1,
@@ -52,5 +52,5 @@
       "multiSourceValidated": false
     }
   ],
-  "cachedAt": 1780921090892
+  "cachedAt": 1781002433298
 }
