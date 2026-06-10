@@ -33,24 +33,7 @@
         "thesportsdb"
       ],
       "multiSourceValidated": false
-    },
-    {
-      "id": "tsdb-2439528",
-      "league": "France LNB Elite",
-      "date": "2026-06-12",
-      "homeTeam": "Dordoi Bishkek",
-      "awayTeam": "Ilbirs Bishkek",
-      "homeScore": null,
-      "awayScore": null,
-      "totalScore": null,
-      "status": "scheduled",
-      "source": "thesportsdb-schedule",
-      "sourceCount": 1,
-      "sources": [
-        "thesportsdb-schedule"
-      ],
-      "multiSourceValidated": false
     }
   ],
-  "cachedAt": 1781003777845
+  "cachedAt": 1781101841759
 }
