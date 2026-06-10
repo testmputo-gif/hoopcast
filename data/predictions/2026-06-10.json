@@ -1,5 +1,33 @@
 [
   {
+    "id": "tsdb-2449042-2026-06-10",
+    "date": "2026-06-10",
+    "league": "WNBA",
+    "homeTeam": "Minnesota Lynx",
+    "awayTeam": "Dallas Wings",
+    "line": 169,
+    "lineSource": "model-estimated",
+    "multiSourceValidated": false,
+    "prediction": "OVER",
+    "expectedTotal": 171.3,
+    "overProbability": 55.6,
+    "underProbability": 44.4,
+    "confidence": 43.1,
+    "confidenceColor": "red",
+    "components": {
+      "possession": 169,
+      "trend": 177,
+      "pace": 169,
+      "league": 168,
+      "blended": 171
+    },
+    "monteCarloRuns": 5000,
+    "status": "scheduled",
+    "result": null,
+    "actualTotal": null,
+    "generatedAt": "2026-06-10T14:31:00.588Z"
+  },
+  {
     "id": "tsdb-2449043-2026-06-10",
     "date": "2026-06-10",
     "league": "WNBA",
@@ -25,34 +53,6 @@
     "status": "scheduled",
     "result": null,
     "actualTotal": null,
-    "generatedAt": "2026-06-09T12:26:05.165Z"
-  },
-  {
-    "id": "tsdb-2449042-2026-06-10",
-    "date": "2026-06-10",
-    "league": "WNBA",
-    "homeTeam": "Minnesota Lynx",
-    "awayTeam": "Dallas Wings",
-    "line": 169,
-    "lineSource": "model-estimated",
-    "multiSourceValidated": false,
-    "prediction": "OVER",
-    "expectedTotal": 171.3,
-    "overProbability": 55.2,
-    "underProbability": 44.8,
-    "confidence": 42.6,
-    "confidenceColor": "red",
-    "components": {
-      "possession": 169,
-      "trend": 177,
-      "pace": 169,
-      "league": 168,
-      "blended": 171
-    },
-    "monteCarloRuns": 5000,
-    "status": "scheduled",
-    "result": null,
-    "actualTotal": null,
-    "generatedAt": "2026-06-09T12:26:05.164Z"
+    "generatedAt": "2026-06-10T14:31:00.589Z"
   }
 ]
