@@ -1,0 +1,37 @@
+{
+  "teamName": "New York Liberty",
+  "gamesPlayed": 14,
+  "avgPointsScored": 87,
+  "avgPointsAllowed": 83,
+  "recent5Totals": [
+    169,
+    158,
+    179,
+    143,
+    158
+  ],
+  "recent10Totals": [
+    169,
+    158,
+    179,
+    143,
+    158,
+    155,
+    167,
+    157,
+    182,
+    194
+  ],
+  "avgTotal5": 161.4,
+  "avgTotal10": 166.2,
+  "homeAvgScored": 84,
+  "homeAvgAllowed": 82.44444444444444,
+  "awayAvgScored": 92.4,
+  "awayAvgAllowed": 84,
+  "recentOverPct": 42.857142857142854,
+  "recentUnderPct": 57.14285714285714,
+  "pace": 170,
+  "lastGameDate": "2026-06-08",
+  "restDays": 2,
+  "updatedAt": 1781144359944
+}
