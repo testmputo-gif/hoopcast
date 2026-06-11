@@ -1,0 +1,37 @@
+{
+  "teamName": "Seattle Storm",
+  "gamesPlayed": 15,
+  "avgPointsScored": 77.2,
+  "avgPointsAllowed": 82.8,
+  "recent5Totals": [
+    192,
+    156,
+    140,
+    135,
+    165
+  ],
+  "recent10Totals": [
+    192,
+    156,
+    140,
+    135,
+    165,
+    142,
+    182,
+    136,
+    158,
+    167
+  ],
+  "avgTotal5": 157.6,
+  "avgTotal10": 157.3,
+  "homeAvgScored": 79.28571428571429,
+  "homeAvgAllowed": 78,
+  "awayAvgScored": 75.375,
+  "awayAvgAllowed": 87,
+  "recentOverPct": 46.666666666666664,
+  "recentUnderPct": 53.333333333333336,
+  "pace": 160,
+  "lastGameDate": "2026-06-08",
+  "restDays": 2,
+  "updatedAt": 1781144366447
+}
