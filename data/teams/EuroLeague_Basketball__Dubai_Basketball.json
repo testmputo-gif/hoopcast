@@ -1,0 +1,26 @@
+{
+  "teamName": "Dubai Basketball",
+  "gamesPlayed": 2,
+  "avgPointsScored": 80.5,
+  "avgPointsAllowed": 81,
+  "recent5Totals": [
+    161,
+    162
+  ],
+  "recent10Totals": [
+    161,
+    162
+  ],
+  "avgTotal5": 161.5,
+  "avgTotal10": 161.5,
+  "homeAvgScored": null,
+  "homeAvgAllowed": null,
+  "awayAvgScored": 80.5,
+  "awayAvgAllowed": 81,
+  "recentOverPct": 50,
+  "recentUnderPct": 50,
+  "pace": 161.5,
+  "lastGameDate": "2026-03-19",
+  "restDays": 2,
+  "updatedAt": 1781144375378
+}
