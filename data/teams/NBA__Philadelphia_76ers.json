@@ -1,0 +1,37 @@
+{
+  "teamName": "Philadelphia 76ers",
+  "gamesPlayed": 29,
+  "avgPointsScored": 110.20689655172414,
+  "avgPointsAllowed": 113.55172413793103,
+  "recent5Totals": [
+    258,
+    202,
+    210,
+    235,
+    209
+  ],
+  "recent10Totals": [
+    258,
+    202,
+    210,
+    235,
+    209,
+    199,
+    210,
+    224,
+    208,
+    208
+  ],
+  "avgTotal5": 222.8,
+  "avgTotal10": 216.3,
+  "homeAvgScored": 109.6923076923077,
+  "homeAvgAllowed": 112.53846153846153,
+  "awayAvgScored": 110.625,
+  "awayAvgAllowed": 114.375,
+  "recentOverPct": 37.93103448275862,
+  "recentUnderPct": 62.06896551724138,
+  "pace": 223.75862068965517,
+  "lastGameDate": "2026-05-10",
+  "restDays": 2,
+  "updatedAt": 1781144343110
+}
