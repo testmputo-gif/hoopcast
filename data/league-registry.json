@@ -1,0 +1,233 @@
+{
+  "leagues": [
+    {
+      "key": "NBA",
+      "name": "NBA",
+      "country": "USA",
+      "tier": 1
+    },
+    {
+      "key": "WNBA",
+      "name": "WNBA",
+      "country": "USA",
+      "tier": 1
+    },
+    {
+      "key": "NBAGLeague",
+      "name": "NBA G League",
+      "country": "USA",
+      "tier": 2
+    },
+    {
+      "key": "EuroLeague",
+      "name": "EuroLeague",
+      "country": "Europe",
+      "tier": 1
+    },
+    {
+      "key": "EuroCup",
+      "name": "EuroCup",
+      "country": "Europe",
+      "tier": 2
+    },
+    {
+      "key": "ACBSpain",
+      "name": "ACB Spain",
+      "country": "Spain",
+      "tier": 2
+    },
+    {
+      "key": "LegaBasket",
+      "name": "Lega Basket Italy",
+      "country": "Italy",
+      "tier": 2
+    },
+    {
+      "key": "LNBElite",
+      "name": "France LNB Elite",
+      "country": "France",
+      "tier": 2
+    },
+    {
+      "key": "FranceProB",
+      "name": "France Pro B",
+      "country": "France",
+      "tier": 3
+    },
+    {
+      "key": "BBL",
+      "name": "Basketball Bundesliga",
+      "country": "Germany",
+      "tier": 2
+    },
+    {
+      "key": "VTBLeague",
+      "name": "VTB League",
+      "country": "Europe",
+      "tier": 2
+    },
+    {
+      "key": "BSLTurkey",
+      "name": "BSL Turkey",
+      "country": "Turkey",
+      "tier": 2
+    },
+    {
+      "key": "NBLAus",
+      "name": "NBL Australia",
+      "country": "Australia",
+      "tier": 2
+    },
+    {
+      "key": "NBL1South",
+      "name": "NBL1 South",
+      "country": "Australia",
+      "tier": 3
+    },
+    {
+      "key": "NBL1North",
+      "name": "NBL1 North",
+      "country": "Australia",
+      "tier": 3
+    },
+    {
+      "key": "CBAChina",
+      "name": "CBA China",
+      "country": "China",
+      "tier": 2
+    },
+    {
+      "key": "KBLKorea",
+      "name": "KBL Korea",
+      "country": "S.Korea",
+      "tier": 2
+    },
+    {
+      "key": "PBAPhil",
+      "name": "PBA Philippines",
+      "country": "Philippines",
+      "tier": 2
+    },
+    {
+      "key": "BNXTLeague",
+      "name": "BNXT League",
+      "country": "Belgium/Neth",
+      "tier": 2
+    },
+    {
+      "key": "GreekBasket",
+      "name": "Greek Basket League",
+      "country": "Greece",
+      "tier": 2
+    },
+    {
+      "key": "LKLLith",
+      "name": "LKL Lithuania",
+      "country": "Lithuania",
+      "tier": 3
+    },
+    {
+      "key": "PLKPoland",
+      "name": "PLK Poland",
+      "country": "Poland",
+      "tier": 3
+    },
+    {
+      "key": "IndonesiaIBL",
+      "name": "Indonesia IBL",
+      "country": "Indonesia",
+      "tier": 3
+    },
+    {
+      "key": "LebanonFD",
+      "name": "Lebanon First Division",
+      "country": "Lebanon",
+      "tier": 3
+    },
+    {
+      "key": "IsraelNat",
+      "name": "Israel National League",
+      "country": "Israel",
+      "tier": 3
+    },
+    {
+      "key": "IsraelPrem",
+      "name": "Israel Premier League",
+      "country": "Israel",
+      "tier": 3
+    },
+    {
+      "key": "CzechNBL",
+      "name": "Czech NBL",
+      "country": "Czech Rep.",
+      "tier": 3
+    },
+    {
+      "key": "ItalySerieB",
+      "name": "Italy Serie B",
+      "country": "Italy",
+      "tier": 3
+    },
+    {
+      "key": "SpainLEBOro",
+      "name": "Spain LEB Oro",
+      "country": "Spain",
+      "tier": 3
+    },
+    {
+      "key": "ABALeague",
+      "name": "ABA League",
+      "country": "Balkans",
+      "tier": 3
+    },
+    {
+      "key": "BCL",
+      "name": "BCL",
+      "country": "Europe",
+      "tier": 2
+    },
+    {
+      "key": "PuertoRico",
+      "name": "Puerto Rico BSN",
+      "country": "Puerto Rico",
+      "tier": 3
+    },
+    {
+      "key": "ArgLNB",
+      "name": "Argentina LNB",
+      "country": "Argentina",
+      "tier": 3
+    },
+    {
+      "key": "IntUnited",
+      "name": "International United League",
+      "country": "Intl",
+      "tier": 3
+    },
+    {
+      "key": "EuroLeagueBasketball",
+      "name": "EuroLeague Basketball",
+      "country": "Various",
+      "tier": 3
+    },
+    {
+      "key": "ItalianLegaBasket",
+      "name": "Italian Lega Basket",
+      "country": "Various",
+      "tier": 3
+    },
+    {
+      "key": "SpanishLigaACB",
+      "name": "Spanish Liga ACB",
+      "country": "Various",
+      "tier": 3
+    },
+    {
+      "key": "PolishBasketballLeague",
+      "name": "Polish Basketball League",
+      "country": "Various",
+      "tier": 3
+    }
+  ],
+  "updatedAt": 1781144380620
+}
