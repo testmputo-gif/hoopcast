@@ -1,0 +1,37 @@
+{
+  "teamName": "Orlando Magic",
+  "gamesPlayed": 26,
+  "avgPointsScored": 110.73076923076923,
+  "avgPointsAllowed": 113.23076923076923,
+  "recent5Totals": [
+    210,
+    172,
+    225,
+    182,
+    218
+  ],
+  "recent10Totals": [
+    210,
+    172,
+    225,
+    182,
+    218,
+    181,
+    213,
+    211,
+    206,
+    221
+  ],
+  "avgTotal5": 201.4,
+  "avgTotal10": 203.9,
+  "homeAvgScored": 111.41666666666667,
+  "homeAvgAllowed": 108.91666666666667,
+  "awayAvgScored": 110.14285714285714,
+  "awayAvgAllowed": 116.92857142857143,
+  "recentOverPct": 53.84615384615385,
+  "recentUnderPct": 46.15384615384615,
+  "pace": 223.96153846153845,
+  "lastGameDate": "2026-05-03",
+  "restDays": 2,
+  "updatedAt": 1781144354774
+}
