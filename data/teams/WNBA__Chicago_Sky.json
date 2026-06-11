@@ -1,0 +1,37 @@
+{
+  "teamName": "Chicago Sky",
+  "gamesPlayed": 14,
+  "avgPointsScored": 81.71428571428571,
+  "avgPointsAllowed": 87.28571428571429,
+  "recent5Totals": [
+    157,
+    153,
+    165,
+    162,
+    137
+  ],
+  "recent10Totals": [
+    157,
+    153,
+    165,
+    162,
+    137,
+    215,
+    160,
+    188,
+    165,
+    174
+  ],
+  "avgTotal5": 154.8,
+  "avgTotal10": 167.6,
+  "homeAvgScored": 80.57142857142857,
+  "homeAvgAllowed": 89,
+  "awayAvgScored": 82.85714285714286,
+  "awayAvgAllowed": 85.57142857142857,
+  "recentOverPct": 35.714285714285715,
+  "recentUnderPct": 64.28571428571429,
+  "pace": 169,
+  "lastGameDate": "2026-06-09",
+  "restDays": 2,
+  "updatedAt": 1781144365688
+}
