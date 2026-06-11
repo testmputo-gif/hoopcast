@@ -1,0 +1,26 @@
+{
+  "NBA": {
+    "accuracy": null,
+    "gamesTracked": 335
+  },
+  "WNBA": {
+    "accuracy": null,
+    "gamesTracked": 108
+  },
+  "EuroLeague Basketball": {
+    "accuracy": null,
+    "gamesTracked": 12
+  },
+  "Italian Lega Basket": {
+    "accuracy": null,
+    "gamesTracked": 7
+  },
+  "Spanish Liga ACB": {
+    "accuracy": null,
+    "gamesTracked": 4
+  },
+  "Polish Basketball League": {
+    "accuracy": null,
+    "gamesTracked": 2
+  }
+}
