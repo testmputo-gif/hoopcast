@@ -1,0 +1,37 @@
+{
+  "teamName": "Indiana Pacers",
+  "gamesPlayed": 16,
+  "avgPointsScored": 117,
+  "avgPointsAllowed": 122.1875,
+  "recent5Totals": [
+    254,
+    199,
+    217,
+    228,
+    225
+  ],
+  "recent10Totals": [
+    254,
+    199,
+    217,
+    228,
+    225,
+    237,
+    271,
+    253,
+    227,
+    267
+  ],
+  "avgTotal5": 224.6,
+  "avgTotal10": 237.8,
+  "homeAvgScored": 113.5,
+  "homeAvgAllowed": 119.875,
+  "awayAvgScored": 120.5,
+  "awayAvgAllowed": 124.5,
+  "recentOverPct": 56.25,
+  "recentUnderPct": 43.75,
+  "pace": 239.1875,
+  "lastGameDate": "2026-04-12",
+  "restDays": 2,
+  "updatedAt": 1781144338166
+}
