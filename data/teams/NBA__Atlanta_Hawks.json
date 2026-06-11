@@ -1,0 +1,37 @@
+{
+  "teamName": "Atlanta Hawks",
+  "gamesPlayed": 22,
+  "avgPointsScored": 115.9090909090909,
+  "avgPointsAllowed": 114,
+  "recent5Totals": [
+    229,
+    223,
+    212,
+    217,
+    213
+  ],
+  "recent10Totals": [
+    229,
+    223,
+    212,
+    217,
+    213,
+    215,
+    260,
+    226,
+    238,
+    213
+  ],
+  "avgTotal5": 218.8,
+  "avgTotal10": 224.6,
+  "homeAvgScored": 116.18181818181819,
+  "homeAvgAllowed": 110.45454545454545,
+  "awayAvgScored": 115.63636363636364,
+  "awayAvgAllowed": 117.54545454545455,
+  "recentOverPct": 45.45454545454545,
+  "recentUnderPct": 54.54545454545454,
+  "pace": 229.9090909090909,
+  "lastGameDate": "2026-04-30",
+  "restDays": 2,
+  "updatedAt": 1781144343810
+}
