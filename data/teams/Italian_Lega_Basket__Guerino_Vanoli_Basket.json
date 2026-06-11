@@ -1,0 +1,26 @@
+{
+  "teamName": "Guerino Vanoli Basket",
+  "gamesPlayed": 2,
+  "avgPointsScored": 86,
+  "avgPointsAllowed": 88,
+  "recent5Totals": [
+    191,
+    157
+  ],
+  "recent10Totals": [
+    191,
+    157
+  ],
+  "avgTotal5": 174,
+  "avgTotal10": 174,
+  "homeAvgScored": 78,
+  "homeAvgAllowed": 79,
+  "awayAvgScored": 94,
+  "awayAvgAllowed": 97,
+  "recentOverPct": 50,
+  "recentUnderPct": 50,
+  "pace": 174,
+  "lastGameDate": "2026-03-22",
+  "restDays": 7,
+  "updatedAt": 1781144376866
+}
