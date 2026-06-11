@@ -1,0 +1,37 @@
+{
+  "teamName": "Golden State Valkyries",
+  "gamesPlayed": 13,
+  "avgPointsScored": 85.3076923076923,
+  "avgPointsAllowed": 80.15384615384616,
+  "recent5Totals": [
+    168,
+    163,
+    171,
+    172,
+    172
+  ],
+  "recent10Totals": [
+    168,
+    163,
+    171,
+    172,
+    172,
+    178,
+    167,
+    172,
+    157,
+    132
+  ],
+  "avgTotal5": 169.2,
+  "avgTotal10": 165.2,
+  "homeAvgScored": 85.75,
+  "homeAvgAllowed": 78.875,
+  "awayAvgScored": 84.6,
+  "awayAvgAllowed": 82.2,
+  "recentOverPct": 69.23076923076923,
+  "recentUnderPct": 30.76923076923077,
+  "pace": 165.46153846153845,
+  "lastGameDate": "2026-06-09",
+  "restDays": 3,
+  "updatedAt": 1781144362881
+}
