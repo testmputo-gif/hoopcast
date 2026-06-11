@@ -1,0 +1,28 @@
+{
+  "teamName": "NIGERIA",
+  "gamesPlayed": 3,
+  "avgPointsScored": 66.33333333333333,
+  "avgPointsAllowed": 94,
+  "recent5Totals": [
+    162,
+    167,
+    152
+  ],
+  "recent10Totals": [
+    162,
+    167,
+    152
+  ],
+  "avgTotal5": 160.33333333333334,
+  "avgTotal10": 160.33333333333334,
+  "homeAvgScored": null,
+  "homeAvgAllowed": null,
+  "awayAvgScored": 66.33333333333333,
+  "awayAvgAllowed": 94,
+  "recentOverPct": 66.66666666666666,
+  "recentUnderPct": 33.33333333333333,
+  "pace": 160.33333333333334,
+  "lastGameDate": "2026-05-02",
+  "restDays": 5,
+  "updatedAt": 1781144370638
+}
