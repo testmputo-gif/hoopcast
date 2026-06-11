@@ -1,0 +1,37 @@
+{
+  "teamName": "San Antonio Spurs",
+  "gamesPlayed": 38,
+  "avgPointsScored": 117.97368421052632,
+  "avgPointsAllowed": 107.34210526315789,
+  "recent5Totals": [
+    226,
+    226,
+    209,
+    200,
+    214
+  ],
+  "recent10Totals": [
+    226,
+    226,
+    209,
+    200,
+    214,
+    209,
+    241,
+    185,
+    231,
+    235
+  ],
+  "avgTotal5": 215,
+  "avgTotal10": 217.6,
+  "homeAvgScored": 114.73684210526316,
+  "homeAvgAllowed": 104.57894736842105,
+  "awayAvgScored": 121.21052631578948,
+  "awayAvgAllowed": 110.10526315789474,
+  "recentOverPct": 47.368421052631575,
+  "recentUnderPct": 52.63157894736842,
+  "pace": 225.31578947368422,
+  "lastGameDate": "2026-06-09",
+  "restDays": 1,
+  "updatedAt": 1781144344575
+}
