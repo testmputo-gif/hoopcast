@@ -1,0 +1,26 @@
+{
+  "teamName": "Olimpia Milano",
+  "gamesPlayed": 2,
+  "avgPointsScored": 85.5,
+  "avgPointsAllowed": 83,
+  "recent5Totals": [
+    154,
+    183
+  ],
+  "recent10Totals": [
+    154,
+    183
+  ],
+  "avgTotal5": 168.5,
+  "avgTotal10": 168.5,
+  "homeAvgScored": 96,
+  "homeAvgAllowed": 87,
+  "awayAvgScored": 75,
+  "awayAvgAllowed": 79,
+  "recentOverPct": 50,
+  "recentUnderPct": 50,
+  "pace": 168.5,
+  "lastGameDate": "2026-03-20",
+  "restDays": 7,
+  "updatedAt": 1781144372746
+}
