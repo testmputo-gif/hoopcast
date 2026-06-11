@@ -1,0 +1,37 @@
+{
+  "teamName": "Brooklyn Nets",
+  "gamesPlayed": 16,
+  "avgPointsScored": 101.9375,
+  "avgPointsAllowed": 116.4375,
+  "recent5Totals": [
+    237,
+    233,
+    217,
+    186,
+    236
+  ],
+  "recent10Totals": [
+    237,
+    233,
+    217,
+    186,
+    236,
+    248,
+    203,
+    215,
+    215,
+    215
+  ],
+  "avgTotal5": 221.8,
+  "avgTotal10": 220.5,
+  "homeAvgScored": 99.88888888888889,
+  "homeAvgAllowed": 112.55555555555556,
+  "awayAvgScored": 104.57142857142857,
+  "awayAvgAllowed": 121.42857142857143,
+  "recentOverPct": 37.5,
+  "recentUnderPct": 62.5,
+  "pace": 218.375,
+  "lastGameDate": "2026-04-12",
+  "restDays": 2,
+  "updatedAt": 1781144351794
+}
