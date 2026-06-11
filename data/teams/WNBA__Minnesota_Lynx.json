@@ -1,0 +1,37 @@
+{
+  "teamName": "Minnesota Lynx",
+  "gamesPlayed": 15,
+  "avgPointsScored": 88.73333333333333,
+  "avgPointsAllowed": 76.6,
+  "recent5Totals": [
+    176,
+    156,
+    171,
+    188,
+    137
+  ],
+  "recent10Totals": [
+    176,
+    156,
+    171,
+    188,
+    137,
+    177,
+    160,
+    172,
+    165,
+    176
+  ],
+  "avgTotal5": 165.6,
+  "avgTotal10": 167.8,
+  "homeAvgScored": 89,
+  "homeAvgAllowed": 78.11111111111111,
+  "awayAvgScored": 88.33333333333333,
+  "awayAvgAllowed": 74.33333333333333,
+  "recentOverPct": 60,
+  "recentUnderPct": 40,
+  "pace": 165.33333333333334,
+  "lastGameDate": "2026-06-09",
+  "restDays": 3,
+  "updatedAt": 1781144364229
+}
