@@ -1,0 +1,37 @@
+{
+  "teamName": "New York Knicks",
+  "gamesPlayed": 34,
+  "avgPointsScored": 115.23529411764706,
+  "avgPointsAllowed": 104.1470588235294,
+  "recent5Totals": [
+    226,
+    226,
+    209,
+    200,
+    223
+  ],
+  "recent10Totals": [
+    226,
+    226,
+    209,
+    200,
+    223,
+    229,
+    202,
+    219,
+    258,
+    202
+  ],
+  "avgTotal5": 216.8,
+  "avgTotal10": 219.4,
+  "homeAvgScored": 117.44444444444444,
+  "homeAvgAllowed": 105.16666666666667,
+  "awayAvgScored": 112.75,
+  "awayAvgAllowed": 103,
+  "recentOverPct": 38.23529411764706,
+  "recentUnderPct": 61.76470588235294,
+  "pace": 219.38235294117646,
+  "lastGameDate": "2026-06-09",
+  "restDays": 1,
+  "updatedAt": 1781144349547
+}
