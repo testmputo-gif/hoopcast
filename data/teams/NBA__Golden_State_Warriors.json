@@ -1,0 +1,37 @@
+{
+  "teamName": "Golden State Warriors",
+  "gamesPlayed": 20,
+  "avgPointsScored": 111.95,
+  "avgPointsAllowed": 118.05,
+  "recent5Totals": [
+    207,
+    247,
+    225,
+    242,
+    222
+  ],
+  "recent10Totals": [
+    207,
+    247,
+    225,
+    242,
+    222,
+    215,
+    233,
+    229,
+    240,
+    209
+  ],
+  "avgTotal5": 228.6,
+  "avgTotal10": 226.9,
+  "homeAvgScored": 113.75,
+  "homeAvgAllowed": 118.125,
+  "awayAvgScored": 110.75,
+  "awayAvgAllowed": 118,
+  "recentOverPct": 45,
+  "recentUnderPct": 55.00000000000001,
+  "pace": 230,
+  "lastGameDate": "2026-04-17",
+  "restDays": 2,
+  "updatedAt": 1781144341067
+}
