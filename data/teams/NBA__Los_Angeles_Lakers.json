@@ -1,0 +1,37 @@
+{
+  "teamName": "Los Angeles Lakers",
+  "gamesPlayed": 26,
+  "avgPointsScored": 110.92307692307692,
+  "avgPointsAllowed": 110.34615384615384,
+  "recent5Totals": [
+    225,
+    239,
+    232,
+    198,
+    176
+  ],
+  "recent10Totals": [
+    225,
+    239,
+    232,
+    198,
+    176,
+    192,
+    211,
+    220,
+    195,
+    205
+  ],
+  "avgTotal5": 214,
+  "avgTotal10": 209.3,
+  "homeAvgScored": 110.66666666666667,
+  "homeAvgAllowed": 106.5,
+  "awayAvgScored": 111.14285714285714,
+  "awayAvgAllowed": 113.64285714285714,
+  "recentOverPct": 50,
+  "recentUnderPct": 50,
+  "pace": 221.26923076923077,
+  "lastGameDate": "2026-05-11",
+  "restDays": 2,
+  "updatedAt": 1781144346669
+}
