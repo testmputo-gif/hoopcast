@@ -1,0 +1,26 @@
+{
+  "teamName": "Trento",
+  "gamesPlayed": 2,
+  "avgPointsScored": 77.5,
+  "avgPointsAllowed": 84.5,
+  "recent5Totals": [
+    162,
+    162
+  ],
+  "recent10Totals": [
+    162,
+    162
+  ],
+  "avgTotal5": 162,
+  "avgTotal10": 162,
+  "homeAvgScored": 77,
+  "homeAvgAllowed": 85,
+  "awayAvgScored": 78,
+  "awayAvgAllowed": 84,
+  "recentOverPct": 0,
+  "recentUnderPct": 100,
+  "pace": 162,
+  "lastGameDate": "2026-03-22",
+  "restDays": 8,
+  "updatedAt": 1781144377520
+}
