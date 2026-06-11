@@ -1,0 +1,28 @@
+{
+  "teamName": "Hapoel Tel Aviv BC",
+  "gamesPlayed": 3,
+  "avgPointsScored": 94,
+  "avgPointsAllowed": 82.66666666666667,
+  "recent5Totals": [
+    200,
+    175,
+    155
+  ],
+  "recent10Totals": [
+    200,
+    175,
+    155
+  ],
+  "avgTotal5": 176.66666666666666,
+  "avgTotal10": 176.66666666666666,
+  "homeAvgScored": 101,
+  "homeAvgAllowed": 86.5,
+  "awayAvgScored": 80,
+  "awayAvgAllowed": 75,
+  "recentOverPct": 33.33333333333333,
+  "recentUnderPct": 66.66666666666666,
+  "pace": 176.66666666666666,
+  "lastGameDate": "2026-03-19",
+  "restDays": 2,
+  "updatedAt": 1781144373347
+}
