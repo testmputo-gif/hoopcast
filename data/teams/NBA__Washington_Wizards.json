@@ -1,0 +1,37 @@
+{
+  "teamName": "Washington Wizards",
+  "gamesPlayed": 17,
+  "avgPointsScored": 113.11764705882354,
+  "avgPointsAllowed": 128.7058823529412,
+  "recent5Totals": [
+    247,
+    257,
+    227,
+    227,
+    236
+  ],
+  "recent10Totals": [
+    247,
+    257,
+    227,
+    227,
+    236,
+    288,
+    284,
+    221,
+    211,
+    257
+  ],
+  "avgTotal5": 238.8,
+  "avgTotal10": 245.5,
+  "homeAvgScored": 111.75,
+  "homeAvgAllowed": 130.625,
+  "awayAvgScored": 114.33333333333333,
+  "awayAvgAllowed": 127,
+  "recentOverPct": 58.82352941176471,
+  "recentUnderPct": 41.17647058823529,
+  "pace": 241.8235294117647,
+  "lastGameDate": "2026-04-12",
+  "restDays": 2,
+  "updatedAt": 1781144351066
+}
