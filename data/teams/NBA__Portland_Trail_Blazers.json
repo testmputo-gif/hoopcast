@@ -1,0 +1,37 @@
+{
+  "teamName": "Portland Trail Blazers",
+  "gamesPlayed": 22,
+  "avgPointsScored": 112.95454545454545,
+  "avgPointsAllowed": 108.77272727272727,
+  "recent5Totals": [
+    209,
+    207,
+    228,
+    209,
+    209
+  ],
+  "recent10Totals": [
+    209,
+    207,
+    228,
+    209,
+    209,
+    224,
+    232,
+    213,
+    213,
+    269
+  ],
+  "avgTotal5": 212.4,
+  "avgTotal10": 221.3,
+  "homeAvgScored": 116.1,
+  "homeAvgAllowed": 104.7,
+  "awayAvgScored": 110.33333333333333,
+  "awayAvgAllowed": 112.16666666666667,
+  "recentOverPct": 45.45454545454545,
+  "recentUnderPct": 54.54545454545454,
+  "pace": 221.72727272727272,
+  "lastGameDate": "2026-04-28",
+  "restDays": 2,
+  "updatedAt": 1781144341805
+}
