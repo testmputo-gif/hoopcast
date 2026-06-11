@@ -1,0 +1,26 @@
+{
+  "teamName": "Maccabi Tel Aviv BC",
+  "gamesPlayed": 2,
+  "avgPointsScored": 88,
+  "avgPointsAllowed": 90.5,
+  "recent5Totals": [
+    174,
+    183
+  ],
+  "recent10Totals": [
+    174,
+    183
+  ],
+  "avgTotal5": 178.5,
+  "avgTotal10": 178.5,
+  "homeAvgScored": null,
+  "homeAvgAllowed": null,
+  "awayAvgScored": 88,
+  "awayAvgAllowed": 90.5,
+  "recentOverPct": 50,
+  "recentUnderPct": 50,
+  "pace": 178.5,
+  "lastGameDate": "2026-03-20",
+  "restDays": 7,
+  "updatedAt": 1781144374682
+}
