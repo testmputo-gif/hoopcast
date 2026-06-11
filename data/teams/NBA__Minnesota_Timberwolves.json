@@ -1,0 +1,37 @@
+{
+  "teamName": "Minnesota Timberwolves",
+  "gamesPlayed": 29,
+  "avgPointsScored": 112.62068965517241,
+  "avgPointsAllowed": 112.96551724137932,
+  "recent5Totals": [
+    248,
+    223,
+    223,
+    223,
+    228
+  ],
+  "recent10Totals": [
+    248,
+    223,
+    223,
+    223,
+    228,
+    206,
+    208,
+    238,
+    208,
+    209
+  ],
+  "avgTotal5": 229,
+  "avgTotal10": 221.4,
+  "homeAvgScored": 113.28571428571429,
+  "homeAvgAllowed": 110.35714285714286,
+  "awayAvgScored": 112,
+  "awayAvgAllowed": 115.4,
+  "recentOverPct": 37.93103448275862,
+  "recentUnderPct": 62.06896551724138,
+  "pace": 225.58620689655172,
+  "lastGameDate": "2026-05-15",
+  "restDays": 3,
+  "updatedAt": 1781144355430
+}
