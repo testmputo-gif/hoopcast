@@ -1,0 +1,26 @@
+{
+  "teamName": "Pallacanestro Brescia",
+  "gamesPlayed": 2,
+  "avgPointsScored": 82,
+  "avgPointsAllowed": 77.5,
+  "recent5Totals": [
+    162,
+    157
+  ],
+  "recent10Totals": [
+    162,
+    157
+  ],
+  "avgTotal5": 159.5,
+  "avgTotal10": 159.5,
+  "homeAvgScored": null,
+  "homeAvgAllowed": null,
+  "awayAvgScored": 82,
+  "awayAvgAllowed": 77.5,
+  "recentOverPct": 50,
+  "recentUnderPct": 50,
+  "pace": 159.5,
+  "lastGameDate": "2026-03-22",
+  "restDays": 7,
+  "updatedAt": 1781144378216
+}
