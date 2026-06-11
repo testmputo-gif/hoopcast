@@ -1,0 +1,37 @@
+{
+  "teamName": "Washington Mystics",
+  "gamesPlayed": 12,
+  "avgPointsScored": 81.33333333333333,
+  "avgPointsAllowed": 84.83333333333333,
+  "recent5Totals": [
+    154,
+    186,
+    162,
+    179,
+    142
+  ],
+  "recent10Totals": [
+    154,
+    186,
+    162,
+    179,
+    142,
+    182,
+    161,
+    206,
+    191,
+    133
+  ],
+  "avgTotal5": 164.6,
+  "avgTotal10": 169.6,
+  "homeAvgScored": 82.4,
+  "homeAvgAllowed": 83.4,
+  "awayAvgScored": 80.57142857142857,
+  "awayAvgAllowed": 85.85714285714286,
+  "recentOverPct": 41.66666666666667,
+  "recentUnderPct": 58.333333333333336,
+  "pace": 166.16666666666666,
+  "lastGameDate": "2026-06-08",
+  "restDays": 2,
+  "updatedAt": 1781144362178
+}
