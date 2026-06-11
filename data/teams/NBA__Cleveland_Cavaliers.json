@@ -1,0 +1,37 @@
+{
+  "teamName": "Cleveland Cavaliers",
+  "gamesPlayed": 35,
+  "avgPointsScored": 115.05714285714286,
+  "avgPointsAllowed": 114.34285714285714,
+  "recent5Totals": [
+    223,
+    229,
+    202,
+    219,
+    219
+  ],
+  "recent10Totals": [
+    223,
+    229,
+    202,
+    219,
+    219,
+    209,
+    230,
+    215,
+    225,
+    204
+  ],
+  "avgTotal5": 218.4,
+  "avgTotal10": 217.5,
+  "homeAvgScored": 117.5,
+  "homeAvgAllowed": 116.75,
+  "awayAvgScored": 113,
+  "awayAvgAllowed": 112.3157894736842,
+  "recentOverPct": 42.857142857142854,
+  "recentUnderPct": 57.14285714285714,
+  "pace": 229.4,
+  "lastGameDate": "2026-05-25",
+  "restDays": 2,
+  "updatedAt": 1781144348133
+}
