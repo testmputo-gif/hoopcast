@@ -1,0 +1,37 @@
+{
+  "teamName": "Houston Rockets",
+  "gamesPlayed": 23,
+  "avgPointsScored": 113.69565217391305,
+  "avgPointsAllowed": 107.78260869565217,
+  "recent5Totals": [
+    176,
+    192,
+    211,
+    220,
+    195
+  ],
+  "recent10Totals": [
+    176,
+    192,
+    211,
+    220,
+    195,
+    205,
+    233,
+    268,
+    215,
+    224
+  ],
+  "avgTotal5": 198.8,
+  "avgTotal10": 213.9,
+  "homeAvgScored": 114.5,
+  "homeAvgAllowed": 107.42857142857143,
+  "awayAvgScored": 112.44444444444444,
+  "awayAvgAllowed": 108.33333333333333,
+  "recentOverPct": 47.82608695652174,
+  "recentUnderPct": 52.17391304347826,
+  "pace": 221.47826086956522,
+  "lastGameDate": "2026-05-01",
+  "restDays": 2,
+  "updatedAt": 1781144340313
+}
