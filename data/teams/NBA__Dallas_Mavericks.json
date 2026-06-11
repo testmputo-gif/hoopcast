@@ -1,0 +1,37 @@
+{
+  "teamName": "Dallas Mavericks",
+  "gamesPlayed": 16,
+  "avgPointsScored": 118.5,
+  "avgPointsAllowed": 127.5,
+  "recent5Totals": [
+    277,
+    259,
+    219,
+    219,
+    262
+  ],
+  "recent10Totals": [
+    277,
+    259,
+    219,
+    219,
+    262,
+    265,
+    222,
+    218,
+    193,
+    277
+  ],
+  "avgTotal5": 247.2,
+  "avgTotal10": 241.1,
+  "homeAvgScored": 123.875,
+  "homeAvgAllowed": 133.25,
+  "awayAvgScored": 113.125,
+  "awayAvgAllowed": 121.75,
+  "recentOverPct": 56.25,
+  "recentUnderPct": 43.75,
+  "pace": 246,
+  "lastGameDate": "2026-04-12",
+  "restDays": 2,
+  "updatedAt": 1781144339523
+}
