@@ -1,0 +1,37 @@
+{
+  "teamName": "Connecticut Sun",
+  "gamesPlayed": 16,
+  "avgPointsScored": 77.6875,
+  "avgPointsAllowed": 88.0625,
+  "recent5Totals": [
+    208,
+    169,
+    165,
+    166,
+    165
+  ],
+  "recent10Totals": [
+    208,
+    169,
+    165,
+    166,
+    165,
+    132,
+    167,
+    136,
+    158,
+    165
+  ],
+  "avgTotal5": 174.6,
+  "avgTotal10": 163.1,
+  "homeAvgScored": 79.33333333333333,
+  "homeAvgAllowed": 89.5,
+  "awayAvgScored": 76.7,
+  "awayAvgAllowed": 87.2,
+  "recentOverPct": 50,
+  "recentUnderPct": 50,
+  "pace": 165.75,
+  "lastGameDate": "2026-06-10",
+  "restDays": 2,
+  "updatedAt": 1781144368516
+}
