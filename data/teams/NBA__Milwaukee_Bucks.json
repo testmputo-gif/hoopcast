@@ -1,0 +1,37 @@
+{
+  "teamName": "Milwaukee Bucks",
+  "gamesPlayed": 18,
+  "avgPointsScored": 109.55555555555556,
+  "avgPointsAllowed": 120.55555555555556,
+  "recent5Totals": [
+    232,
+    233,
+    248,
+    186,
+    246
+  ],
+  "recent10Totals": [
+    232,
+    233,
+    248,
+    186,
+    246,
+    234,
+    232,
+    222,
+    240,
+    222
+  ],
+  "avgTotal5": 229,
+  "avgTotal10": 229.5,
+  "homeAvgScored": 117.11111111111111,
+  "homeAvgAllowed": 119.77777777777777,
+  "awayAvgScored": 102,
+  "awayAvgAllowed": 121.33333333333333,
+  "recentOverPct": 55.55555555555556,
+  "recentUnderPct": 44.44444444444444,
+  "pace": 230.11111111111111,
+  "lastGameDate": "2026-04-12",
+  "restDays": 2,
+  "updatedAt": 1781144348828
+}
