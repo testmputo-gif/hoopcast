@@ -1,0 +1,37 @@
+{
+  "teamName": "Toronto Tempo",
+  "gamesPlayed": 14,
+  "avgPointsScored": 87.35714285714286,
+  "avgPointsAllowed": 87.42857142857143,
+  "recent5Totals": [
+    208,
+    153,
+    179,
+    165,
+    215
+  ],
+  "recent10Totals": [
+    208,
+    153,
+    179,
+    165,
+    215,
+    179,
+    172,
+    188,
+    202,
+    194
+  ],
+  "avgTotal5": 184,
+  "avgTotal10": 185.5,
+  "homeAvgScored": 84.71428571428571,
+  "homeAvgAllowed": 80.71428571428571,
+  "awayAvgScored": 90,
+  "awayAvgAllowed": 94.14285714285714,
+  "recentOverPct": 50,
+  "recentUnderPct": 50,
+  "pace": 174.78571428571428,
+  "lastGameDate": "2026-06-10",
+  "restDays": 3,
+  "updatedAt": 1781144364960
+}
