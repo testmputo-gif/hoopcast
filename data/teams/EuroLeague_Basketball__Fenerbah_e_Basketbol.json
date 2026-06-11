@@ -1,0 +1,28 @@
+{
+  "teamName": "Fenerbahçe Basketbol",
+  "gamesPlayed": 3,
+  "avgPointsScored": 79.66666666666667,
+  "avgPointsAllowed": 86,
+  "recent5Totals": [
+    154,
+    191,
+    152
+  ],
+  "recent10Totals": [
+    154,
+    191,
+    152
+  ],
+  "avgTotal5": 165.66666666666666,
+  "avgTotal10": 165.66666666666666,
+  "homeAvgScored": 79,
+  "homeAvgAllowed": 75,
+  "awayAvgScored": 80,
+  "awayAvgAllowed": 91.5,
+  "recentOverPct": 33.33333333333333,
+  "recentUnderPct": 66.66666666666666,
+  "pace": 165.66666666666666,
+  "lastGameDate": "2026-03-20",
+  "restDays": 3,
+  "updatedAt": 1781144374035
+}
