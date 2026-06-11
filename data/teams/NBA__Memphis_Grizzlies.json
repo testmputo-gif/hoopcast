@@ -1,0 +1,37 @@
+{
+  "teamName": "Memphis Grizzlies",
+  "gamesPlayed": 17,
+  "avgPointsScored": 110.3529411764706,
+  "avgPointsAllowed": 129.76470588235293,
+  "recent5Totals": [
+    233,
+    248,
+    255,
+    268,
+    246
+  ],
+  "recent10Totals": [
+    233,
+    248,
+    255,
+    268,
+    246,
+    224,
+    249,
+    236,
+    249,
+    228
+  ],
+  "avgTotal5": 250,
+  "avgTotal10": 243.6,
+  "homeAvgScored": 112.77777777777777,
+  "homeAvgAllowed": 125.77777777777777,
+  "awayAvgScored": 107.625,
+  "awayAvgAllowed": 134.25,
+  "recentOverPct": 47.05882352941176,
+  "recentUnderPct": 52.94117647058824,
+  "pace": 240.11764705882354,
+  "lastGameDate": "2026-04-12",
+  "restDays": 2,
+  "updatedAt": 1781144356839
+}
