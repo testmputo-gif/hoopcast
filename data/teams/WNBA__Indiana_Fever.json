@@ -1,0 +1,37 @@
+{
+  "teamName": "Indiana Fever",
+  "gamesPlayed": 14,
+  "avgPointsScored": 90.28571428571429,
+  "avgPointsAllowed": 84.64285714285714,
+  "recent5Totals": [
+    154,
+    158,
+    154,
+    184,
+    178
+  ],
+  "recent10Totals": [
+    154,
+    158,
+    154,
+    184,
+    178,
+    172,
+    163,
+    167,
+    206,
+    165
+  ],
+  "avgTotal5": 165.6,
+  "avgTotal10": 170.1,
+  "homeAvgScored": 92.875,
+  "homeAvgAllowed": 83.375,
+  "awayAvgScored": 86.83333333333333,
+  "awayAvgAllowed": 86.33333333333333,
+  "recentOverPct": 42.857142857142854,
+  "recentUnderPct": 57.14285714285714,
+  "pace": 174.92857142857142,
+  "lastGameDate": "2026-06-08",
+  "restDays": 2,
+  "updatedAt": 1781144367105
+}
