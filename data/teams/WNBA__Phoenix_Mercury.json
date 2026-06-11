@@ -1,0 +1,37 @@
+{
+  "teamName": "Phoenix Mercury",
+  "gamesPlayed": 15,
+  "avgPointsScored": 83.66666666666667,
+  "avgPointsAllowed": 84.66666666666667,
+  "recent5Totals": [
+    168,
+    150,
+    140,
+    188,
+    143
+  ],
+  "recent10Totals": [
+    168,
+    150,
+    140,
+    188,
+    143,
+    158,
+    162,
+    185,
+    188,
+    174
+  ],
+  "avgTotal5": 157.8,
+  "avgTotal10": 165.6,
+  "homeAvgScored": 89.14285714285714,
+  "homeAvgAllowed": 91.57142857142857,
+  "awayAvgScored": 78.875,
+  "awayAvgAllowed": 78.625,
+  "recentOverPct": 46.666666666666664,
+  "recentUnderPct": 53.333333333333336,
+  "pace": 168.33333333333334,
+  "lastGameDate": "2026-06-09",
+  "restDays": 4,
+  "updatedAt": 1781144361475
+}
