@@ -1,0 +1,37 @@
+{
+  "teamName": "Phoenix Suns",
+  "gamesPlayed": 23,
+  "avgPointsScored": 111.04347826086956,
+  "avgPointsAllowed": 113.17391304347827,
+  "recent5Totals": [
+    253,
+    230,
+    227,
+    203,
+    207
+  ],
+  "recent10Totals": [
+    253,
+    230,
+    227,
+    203,
+    207,
+    224,
+    238,
+    174,
+    219,
+    224
+  ],
+  "avgTotal5": 224,
+  "avgTotal10": 219.9,
+  "homeAvgScored": 115.1,
+  "homeAvgAllowed": 112.8,
+  "awayAvgScored": 107.92307692307692,
+  "awayAvgAllowed": 113.46153846153847,
+  "recentOverPct": 52.17391304347826,
+  "recentUnderPct": 47.82608695652174,
+  "pace": 224.2173913043478,
+  "lastGameDate": "2026-04-27",
+  "restDays": 2,
+  "updatedAt": 1781144358197
+}
