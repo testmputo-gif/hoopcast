@@ -6,9 +6,9 @@
       "date": "2026-06-12",
       "homeTeam": "Dallas Wings",
       "awayTeam": "Phoenix Mercury",
-      "homeScore": null,
-      "awayScore": null,
-      "totalScore": null,
+      "homeScore": 85,
+      "awayScore": 70,
+      "totalScore": 155,
       "status": "scheduled",
       "source": "thesportsdb",
       "sourceCount": 1,
@@ -18,22 +18,39 @@
       "multiSourceValidated": false
     },
     {
-      "id": "tsdb-2450593",
-      "league": "NBL1 West",
+      "id": "tsdb-2427940",
+      "league": "Lega Basket Italy",
       "date": "2026-06-12",
-      "homeTeam": "Willetton Tigers",
-      "awayTeam": "Lakeside Lightning",
+      "homeTeam": "Inter Turku II",
+      "awayTeam": "Jazz",
       "homeScore": null,
       "awayScore": null,
       "totalScore": null,
       "status": "scheduled",
-      "source": "thesportsdb",
+      "source": "thesportsdb-schedule",
       "sourceCount": 1,
       "sources": [
-        "thesportsdb"
+        "thesportsdb-schedule"
+      ],
+      "multiSourceValidated": false
+    },
+    {
+      "id": "tsdb-2439531",
+      "league": "France LNB Elite",
+      "date": "2026-06-12",
+      "homeTeam": "Bishkek City",
+      "awayTeam": "Asia Talas",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb-schedule",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb-schedule"
       ],
       "multiSourceValidated": false
     }
   ],
-  "cachedAt": 1781144393399
+  "cachedAt": 1781272457628
 }
