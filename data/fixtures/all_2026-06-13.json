@@ -6,9 +6,9 @@
       "date": "2026-06-13",
       "homeTeam": "Seattle Storm",
       "awayTeam": "Golden State Valkyries",
-      "homeScore": null,
-      "awayScore": null,
-      "totalScore": null,
+      "homeScore": 72,
+      "awayScore": 76,
+      "totalScore": 148,
       "status": "scheduled",
       "source": "thesportsdb",
       "sourceCount": 1,
@@ -23,9 +23,9 @@
       "date": "2026-06-13",
       "homeTeam": "Sandringham Sabres",
       "awayTeam": "Keilor Thunder",
-      "homeScore": null,
-      "awayScore": null,
-      "totalScore": null,
+      "homeScore": 78,
+      "awayScore": 87,
+      "totalScore": 165,
       "status": "scheduled",
       "source": "thesportsdb",
       "sourceCount": 1,
@@ -33,7 +33,41 @@
         "thesportsdb"
       ],
       "multiSourceValidated": false
+    },
+    {
+      "id": "tsdb-2427942",
+      "league": "Lega Basket Italy",
+      "date": "2026-06-13",
+      "homeTeam": "KPV",
+      "awayTeam": "JJK",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb-schedule",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb-schedule"
+      ],
+      "multiSourceValidated": false
+    },
+    {
+      "id": "tsdb-2439528",
+      "league": "France LNB Elite",
+      "date": "2026-06-13",
+      "homeTeam": "Dordoi Bishkek",
+      "awayTeam": "Ilbirs Bishkek",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb-schedule",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb-schedule"
+      ],
+      "multiSourceValidated": false
     }
   ],
-  "cachedAt": 1781272463402
+  "cachedAt": 1781348464099
 }
