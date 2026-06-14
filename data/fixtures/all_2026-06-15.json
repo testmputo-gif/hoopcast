@@ -1,0 +1,56 @@
+{
+  "fixtures": [
+    {
+      "id": "tsdb-2450824",
+      "league": "Canadian Elite Basketball League",
+      "date": "2026-06-15",
+      "homeTeam": "Brampton Honey Badgers",
+      "awayTeam": "Niagara River Lions",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb"
+      ],
+      "multiSourceValidated": false
+    },
+    {
+      "id": "tsdb-2478959",
+      "league": "Polish Basketball League",
+      "date": "2026-06-15",
+      "homeTeam": "Basket Zielona Góra",
+      "awayTeam": "Legia Warszawa",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb"
+      ],
+      "multiSourceValidated": false
+    },
+    {
+      "id": "tsdb-2483534",
+      "league": "French LNB Pro B",
+      "date": "2026-06-15",
+      "homeTeam": "Poitiers Basket 86",
+      "awayTeam": "Élan Béarnais",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb"
+      ],
+      "multiSourceValidated": false
+    }
+  ],
+  "cachedAt": 1781436952779
+}
