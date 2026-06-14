@@ -1,1 +1,86 @@
-[]
+[
+  {
+    "id": "tsdb-2450824-2026-06-15",
+    "date": "2026-06-15",
+    "league": "Canadian Elite Basketball League",
+    "homeTeam": "Brampton Honey Badgers",
+    "awayTeam": "Niagara River Lions",
+    "line": 215,
+    "lineSource": "model-estimated",
+    "multiSourceValidated": false,
+    "prediction": "OVER",
+    "expectedTotal": 215.2,
+    "overProbability": 51.5,
+    "underProbability": 48.5,
+    "confidence": 45.6,
+    "confidenceColor": "red",
+    "components": {
+      "possession": 215,
+      "trend": 214,
+      "pace": 215,
+      "league": 215,
+      "blended": 215
+    },
+    "monteCarloRuns": 5000,
+    "status": "scheduled",
+    "result": null,
+    "actualTotal": null,
+    "generatedAt": "2026-06-14T11:36:07.520Z"
+  },
+  {
+    "id": "tsdb-2478959-2026-06-15",
+    "date": "2026-06-15",
+    "league": "Polish Basketball League",
+    "homeTeam": "Basket Zielona Góra",
+    "awayTeam": "Legia Warszawa",
+    "line": 215,
+    "lineSource": "model-estimated",
+    "multiSourceValidated": false,
+    "prediction": "UNDER",
+    "expectedTotal": 215.2,
+    "overProbability": 49.2,
+    "underProbability": 50.8,
+    "confidence": 44.8,
+    "confidenceColor": "red",
+    "components": {
+      "possession": 215,
+      "trend": 214,
+      "pace": 215,
+      "league": 215,
+      "blended": 215
+    },
+    "monteCarloRuns": 5000,
+    "status": "scheduled",
+    "result": null,
+    "actualTotal": null,
+    "generatedAt": "2026-06-14T11:36:07.768Z"
+  },
+  {
+    "id": "tsdb-2483534-2026-06-15",
+    "date": "2026-06-15",
+    "league": "French LNB Pro B",
+    "homeTeam": "Poitiers Basket 86",
+    "awayTeam": "Élan Béarnais",
+    "line": 215,
+    "lineSource": "model-estimated",
+    "multiSourceValidated": false,
+    "prediction": "OVER",
+    "expectedTotal": 215.2,
+    "overProbability": 50.6,
+    "underProbability": 49.4,
+    "confidence": 44.6,
+    "confidenceColor": "red",
+    "components": {
+      "possession": 215,
+      "trend": 214,
+      "pace": 215,
+      "league": 215,
+      "blended": 215
+    },
+    "monteCarloRuns": 5000,
+    "status": "scheduled",
+    "result": null,
+    "actualTotal": null,
+    "generatedAt": "2026-06-14T11:36:07.989Z"
+  }
+]
