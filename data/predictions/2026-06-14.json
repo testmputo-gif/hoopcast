@@ -10,9 +10,9 @@
     "multiSourceValidated": false,
     "prediction": "OVER",
     "expectedTotal": 172.1,
-    "overProbability": 53.9,
-    "underProbability": 46.1,
-    "confidence": 43.7,
+    "overProbability": 54.1,
+    "underProbability": 45.9,
+    "confidence": 44,
     "confidenceColor": "red",
     "components": {
       "possession": 172,
@@ -25,7 +25,7 @@
     "status": "scheduled",
     "result": null,
     "actualTotal": null,
-    "generatedAt": "2026-06-13T11:01:27.856Z"
+    "generatedAt": "2026-06-14T11:36:06.492Z"
   },
   {
     "id": "tsdb-2449051-2026-06-14",
@@ -38,8 +38,8 @@
     "multiSourceValidated": false,
     "prediction": "OVER",
     "expectedTotal": 172.8,
-    "overProbability": 51.6,
-    "underProbability": 48.4,
+    "overProbability": 50.4,
+    "underProbability": 49.6,
     "confidence": 40,
     "confidenceColor": "red",
     "components": {
@@ -53,34 +53,6 @@
     "status": "scheduled",
     "result": null,
     "actualTotal": null,
-    "generatedAt": "2026-06-13T11:01:27.856Z"
-  },
-  {
-    "id": "tsdb-2483461-2026-06-14",
-    "date": "2026-06-14",
-    "league": "NBA",
-    "homeTeam": "San Antonio Spurs",
-    "awayTeam": "New York Knicks",
-    "line": 222.5,
-    "lineSource": "model-estimated",
-    "multiSourceValidated": false,
-    "prediction": "OVER",
-    "expectedTotal": 222.7,
-    "overProbability": 50.4,
-    "underProbability": 49.6,
-    "confidence": 40,
-    "confidenceColor": "red",
-    "components": {
-      "possession": 215,
-      "trend": 232,
-      "pace": 222,
-      "league": 229,
-      "blended": 223
-    },
-    "monteCarloRuns": 5000,
-    "status": "scheduled",
-    "result": null,
-    "actualTotal": null,
-    "generatedAt": "2026-06-13T11:01:27.952Z"
+    "generatedAt": "2026-06-14T11:36:06.493Z"
   }
 ]
