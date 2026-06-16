@@ -1,0 +1,39 @@
+{
+  "fixtures": [
+    {
+      "id": "tsdb-2467063",
+      "league": "New Zealand NBL",
+      "date": "2026-06-17",
+      "homeTeam": "Nelson Giants",
+      "awayTeam": "Manawatu Jets",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb"
+      ],
+      "multiSourceValidated": false
+    },
+    {
+      "id": "tsdb-2478517",
+      "league": "Israeli Basketball Premier League",
+      "date": "2026-06-17",
+      "homeTeam": "Elitzur Netanya B.C.",
+      "awayTeam": "Maccabi Ra'anana",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb"
+      ],
+      "multiSourceValidated": false
+    }
+  ],
+  "cachedAt": 1781635347785
+}
