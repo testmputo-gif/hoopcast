@@ -6,9 +6,9 @@
       "date": "2026-06-16",
       "homeTeam": "Dallas Wings",
       "awayTeam": "Las Vegas Aces",
-      "homeScore": null,
-      "awayScore": null,
-      "totalScore": null,
+      "homeScore": 96,
+      "awayScore": 66,
+      "totalScore": 162,
       "status": "scheduled",
       "source": "thesportsdb",
       "sourceCount": 1,
@@ -23,9 +23,9 @@
       "date": "2026-06-16",
       "homeTeam": "Golden State Valkyries",
       "awayTeam": "Los Angeles Sparks",
-      "homeScore": null,
-      "awayScore": null,
-      "totalScore": null,
+      "homeScore": 78,
+      "awayScore": 58,
+      "totalScore": 136,
       "status": "scheduled",
       "source": "thesportsdb",
       "sourceCount": 1,
@@ -35,5 +35,5 @@
       "multiSourceValidated": false
     }
   ],
-  "cachedAt": 1781549457282
+  "cachedAt": 1781635341155
 }
