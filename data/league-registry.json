@@ -203,31 +203,7 @@
       "name": "International United League",
       "country": "Intl",
       "tier": 3
-    },
-    {
-      "key": "EuroLeagueBasketball",
-      "name": "EuroLeague Basketball",
-      "country": "Various",
-      "tier": 3
-    },
-    {
-      "key": "ItalianLegaBasket",
-      "name": "Italian Lega Basket",
-      "country": "Various",
-      "tier": 3
-    },
-    {
-      "key": "SpanishLigaACB",
-      "name": "Spanish Liga ACB",
-      "country": "Various",
-      "tier": 3
-    },
-    {
-      "key": "PolishBasketballLeague",
-      "name": "Polish Basketball League",
-      "country": "Various",
-      "tier": 3
     }
   ],
-  "updatedAt": 1781148571118
+  "updatedAt": 1781765791101
 }
