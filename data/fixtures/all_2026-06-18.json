@@ -6,9 +6,9 @@
       "date": "2026-06-18",
       "homeTeam": "Chicago Sky",
       "awayTeam": "New York Liberty",
-      "homeScore": null,
-      "awayScore": null,
-      "totalScore": null,
+      "homeScore": 95,
+      "awayScore": 96,
+      "totalScore": 191,
       "status": "scheduled",
       "source": "thesportsdb",
       "sourceCount": 1,
@@ -23,9 +23,9 @@
       "date": "2026-06-18",
       "homeTeam": "Phoenix Mercury",
       "awayTeam": "Las Vegas Aces",
-      "homeScore": null,
-      "awayScore": null,
-      "totalScore": null,
+      "homeScore": 76,
+      "awayScore": 86,
+      "totalScore": 162,
       "status": "scheduled",
       "source": "thesportsdb",
       "sourceCount": 1,
@@ -40,9 +40,9 @@
       "date": "2026-06-18",
       "homeTeam": "Los Angeles Sparks",
       "awayTeam": "Minnesota Lynx",
-      "homeScore": null,
-      "awayScore": null,
-      "totalScore": null,
+      "homeScore": 83,
+      "awayScore": 99,
+      "totalScore": 182,
       "status": "scheduled",
       "source": "thesportsdb",
       "sourceCount": 1,
@@ -52,5 +52,5 @@
       "multiSourceValidated": false
     }
   ],
-  "cachedAt": 1781680552010
+  "cachedAt": 1781765799332
 }
