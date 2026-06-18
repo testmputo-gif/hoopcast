@@ -1,0 +1,22 @@
+{
+  "fixtures": [
+    {
+      "id": "tsdb-2450184",
+      "league": "NBL1 South",
+      "date": "2026-06-19",
+      "homeTeam": "Mount Gambier Pioneers",
+      "awayTeam": "Kilsyth Cobras",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb"
+      ],
+      "multiSourceValidated": false
+    }
+  ],
+  "cachedAt": 1781765805441
+}
