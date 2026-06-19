@@ -1,1 +1,30 @@
-[]
+[
+  {
+    "id": "tsdb-2449062-2026-06-20",
+    "date": "2026-06-20",
+    "league": "WNBA",
+    "homeTeam": "Golden State Valkyries",
+    "awayTeam": "Minnesota Lynx",
+    "line": 165.5,
+    "lineSource": "model-estimated",
+    "multiSourceValidated": false,
+    "prediction": "OVER",
+    "expectedTotal": 167.5,
+    "overProbability": 53.3,
+    "underProbability": 46.7,
+    "confidence": 40,
+    "confidenceColor": "red",
+    "components": {
+      "possession": 161,
+      "trend": 175,
+      "pace": 165,
+      "league": 169,
+      "blended": 167
+    },
+    "monteCarloRuns": 5000,
+    "status": "scheduled",
+    "result": null,
+    "actualTotal": null,
+    "generatedAt": "2026-06-19T07:12:07.751Z"
+  }
+]
