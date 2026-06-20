@@ -6,9 +6,9 @@
       "date": "2026-06-20",
       "homeTeam": "Golden State Valkyries",
       "awayTeam": "Minnesota Lynx",
-      "homeScore": null,
-      "awayScore": null,
-      "totalScore": null,
+      "homeScore": 75,
+      "awayScore": 81,
+      "totalScore": 156,
       "status": "scheduled",
       "source": "thesportsdb",
       "sourceCount": 1,
@@ -16,7 +16,24 @@
         "thesportsdb"
       ],
       "multiSourceValidated": false
+    },
+    {
+      "id": "tsdb-2439539",
+      "league": "France LNB Elite",
+      "date": "2026-06-20",
+      "homeTeam": "Ilbirs Bishkek",
+      "awayTeam": "Talant",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb-schedule",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb-schedule"
+      ],
+      "multiSourceValidated": false
     }
   ],
-  "cachedAt": 1781853111154
+  "cachedAt": 1781936706859
 }
