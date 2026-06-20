@@ -1,1 +1,30 @@
-[]
+[
+  {
+    "id": "tsdb-2449065-2026-06-21",
+    "date": "2026-06-21",
+    "league": "WNBA",
+    "homeTeam": "Dallas Wings",
+    "awayTeam": "Chicago Sky",
+    "line": 171.5,
+    "lineSource": "model-estimated",
+    "multiSourceValidated": false,
+    "prediction": "UNDER",
+    "expectedTotal": 170.4,
+    "overProbability": 46.6,
+    "underProbability": 53.4,
+    "confidence": 43.8,
+    "confidenceColor": "red",
+    "components": {
+      "possession": 174,
+      "trend": 168,
+      "pace": 171,
+      "league": 169,
+      "blended": 170
+    },
+    "monteCarloRuns": 5000,
+    "status": "scheduled",
+    "result": null,
+    "actualTotal": null,
+    "generatedAt": "2026-06-20T06:25:26.340Z"
+  }
+]
