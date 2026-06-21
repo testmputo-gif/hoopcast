@@ -6,9 +6,9 @@
       "date": "2026-06-21",
       "homeTeam": "Dallas Wings",
       "awayTeam": "Chicago Sky",
-      "homeScore": null,
-      "awayScore": null,
-      "totalScore": null,
+      "homeScore": 93,
+      "awayScore": 92,
+      "totalScore": 185,
       "status": "scheduled",
       "source": "thesportsdb",
       "sourceCount": 1,
@@ -16,7 +16,24 @@
         "thesportsdb"
       ],
       "multiSourceValidated": false
+    },
+    {
+      "id": "tsdb-2439540",
+      "league": "France LNB Elite",
+      "date": "2026-06-21",
+      "homeTeam": "Kyrgyzaltyn",
+      "awayTeam": "Abdysh-Ata Kant",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb-schedule",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb-schedule"
+      ],
+      "multiSourceValidated": false
     }
   ],
-  "cachedAt": 1781936712221
+  "cachedAt": 1782024905625
 }
