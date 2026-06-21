@@ -1,1 +1,30 @@
-[]
+[
+  {
+    "id": "tsdb-2449068-2026-06-22",
+    "date": "2026-06-22",
+    "league": "WNBA",
+    "homeTeam": "Los Angeles Sparks",
+    "awayTeam": "New York Liberty",
+    "line": 173,
+    "lineSource": "model-estimated",
+    "multiSourceValidated": false,
+    "prediction": "UNDER",
+    "expectedTotal": 172.7,
+    "overProbability": 49.1,
+    "underProbability": 50.9,
+    "confidence": 40.7,
+    "confidenceColor": "red",
+    "components": {
+      "possession": 177,
+      "trend": 171,
+      "pace": 173,
+      "league": 169,
+      "blended": 173
+    },
+    "monteCarloRuns": 5000,
+    "status": "scheduled",
+    "result": null,
+    "actualTotal": null,
+    "generatedAt": "2026-06-21T06:55:28.340Z"
+  }
+]
