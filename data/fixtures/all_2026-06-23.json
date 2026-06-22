@@ -1,0 +1,56 @@
+{
+  "fixtures": [
+    {
+      "id": "tsdb-2449070",
+      "league": "WNBA",
+      "date": "2026-06-23",
+      "homeTeam": "Indiana Fever",
+      "awayTeam": "Phoenix Mercury",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb"
+      ],
+      "multiSourceValidated": false
+    },
+    {
+      "id": "tsdb-2449071",
+      "league": "WNBA",
+      "date": "2026-06-23",
+      "homeTeam": "Seattle Storm",
+      "awayTeam": "Dallas Wings",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb"
+      ],
+      "multiSourceValidated": false
+    },
+    {
+      "id": "tsdb-2450837",
+      "league": "Canadian Elite Basketball League",
+      "date": "2026-06-23",
+      "homeTeam": "Ottawa BlackJacks",
+      "awayTeam": "Scarborough Shooting Stars",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb"
+      ],
+      "multiSourceValidated": false
+    }
+  ],
+  "cachedAt": 1782113336423
+}
