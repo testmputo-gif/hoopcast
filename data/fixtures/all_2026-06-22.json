@@ -6,9 +6,9 @@
       "date": "2026-06-22",
       "homeTeam": "Los Angeles Sparks",
       "awayTeam": "New York Liberty",
-      "homeScore": null,
-      "awayScore": null,
-      "totalScore": null,
+      "homeScore": 98,
+      "awayScore": 97,
+      "totalScore": 195,
       "status": "scheduled",
       "source": "thesportsdb",
       "sourceCount": 1,
@@ -16,7 +16,24 @@
         "thesportsdb"
       ],
       "multiSourceValidated": false
+    },
+    {
+      "id": "tsdb-2439536",
+      "league": "France LNB Elite",
+      "date": "2026-06-22",
+      "homeTeam": "Alay Osh",
+      "awayTeam": "OshSU Aldier",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb-schedule",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb-schedule"
+      ],
+      "multiSourceValidated": false
     }
   ],
-  "cachedAt": 1782024912186
+  "cachedAt": 1782113330625
 }
