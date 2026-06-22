@@ -1,1 +1,86 @@
-[]
+[
+  {
+    "id": "tsdb-2450837-2026-06-23",
+    "date": "2026-06-23",
+    "league": "Canadian Elite Basketball League",
+    "homeTeam": "Ottawa BlackJacks",
+    "awayTeam": "Scarborough Shooting Stars",
+    "line": 215,
+    "lineSource": "model-estimated",
+    "multiSourceValidated": false,
+    "prediction": "UNDER",
+    "expectedTotal": 215.2,
+    "overProbability": 50,
+    "underProbability": 50,
+    "confidence": 44,
+    "confidenceColor": "red",
+    "components": {
+      "possession": 215,
+      "trend": 214,
+      "pace": 215,
+      "league": 215,
+      "blended": 215
+    },
+    "monteCarloRuns": 5000,
+    "status": "scheduled",
+    "result": null,
+    "actualTotal": null,
+    "generatedAt": "2026-06-22T07:29:12.369Z"
+  },
+  {
+    "id": "tsdb-2449070-2026-06-23",
+    "date": "2026-06-23",
+    "league": "WNBA",
+    "homeTeam": "Indiana Fever",
+    "awayTeam": "Phoenix Mercury",
+    "line": 171.5,
+    "lineSource": "model-estimated",
+    "multiSourceValidated": false,
+    "prediction": "OVER",
+    "expectedTotal": 172.6,
+    "overProbability": 51.9,
+    "underProbability": 48.1,
+    "confidence": 43.5,
+    "confidenceColor": "red",
+    "components": {
+      "possession": 174,
+      "trend": 170,
+      "pace": 172,
+      "league": 169,
+      "blended": 173
+    },
+    "monteCarloRuns": 5000,
+    "status": "scheduled",
+    "result": null,
+    "actualTotal": null,
+    "generatedAt": "2026-06-22T07:29:12.030Z"
+  },
+  {
+    "id": "tsdb-2449071-2026-06-23",
+    "date": "2026-06-23",
+    "league": "WNBA",
+    "homeTeam": "Seattle Storm",
+    "awayTeam": "Dallas Wings",
+    "line": 167,
+    "lineSource": "model-estimated",
+    "multiSourceValidated": false,
+    "prediction": "UNDER",
+    "expectedTotal": 167.3,
+    "overProbability": 49.8,
+    "underProbability": 50.2,
+    "confidence": 42,
+    "confidenceColor": "red",
+    "components": {
+      "possession": 165,
+      "trend": 168,
+      "pace": 167,
+      "league": 169,
+      "blended": 167
+    },
+    "monteCarloRuns": 5000,
+    "status": "scheduled",
+    "result": null,
+    "actualTotal": null,
+    "generatedAt": "2026-06-22T07:29:12.030Z"
+  }
+]
