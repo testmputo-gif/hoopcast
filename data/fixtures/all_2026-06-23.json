@@ -6,9 +6,9 @@
       "date": "2026-06-23",
       "homeTeam": "Indiana Fever",
       "awayTeam": "Phoenix Mercury",
-      "homeScore": null,
-      "awayScore": null,
-      "totalScore": null,
+      "homeScore": 86,
+      "awayScore": 77,
+      "totalScore": 163,
       "status": "scheduled",
       "source": "thesportsdb",
       "sourceCount": 1,
@@ -23,9 +23,9 @@
       "date": "2026-06-23",
       "homeTeam": "Seattle Storm",
       "awayTeam": "Dallas Wings",
-      "homeScore": null,
-      "awayScore": null,
-      "totalScore": null,
+      "homeScore": 112,
+      "awayScore": 110,
+      "totalScore": 222,
       "status": "scheduled",
       "source": "thesportsdb",
       "sourceCount": 1,
@@ -50,7 +50,24 @@
         "thesportsdb"
       ],
       "multiSourceValidated": false
+    },
+    {
+      "id": "tsdb-2439541",
+      "league": "France LNB Elite",
+      "date": "2026-06-23",
+      "homeTeam": "Alga Bishkek",
+      "awayTeam": "Bars Issyk-Kul",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb-schedule",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb-schedule"
+      ],
+      "multiSourceValidated": false
     }
   ],
-  "cachedAt": 1782113336423
+  "cachedAt": 1782195080599
 }
