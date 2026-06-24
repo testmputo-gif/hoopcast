@@ -1,0 +1,56 @@
+{
+  "fixtures": [
+    {
+      "id": "tsdb-2449075",
+      "league": "WNBA",
+      "date": "2026-06-25",
+      "homeTeam": "Golden State Valkyries",
+      "awayTeam": "Atlanta Dream",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb"
+      ],
+      "multiSourceValidated": false
+    },
+    {
+      "id": "tsdb-2467071",
+      "league": "New Zealand NBL",
+      "date": "2026-06-25",
+      "homeTeam": "Manawatu Jets",
+      "awayTeam": "Otago Nuggets",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb"
+      ],
+      "multiSourceValidated": false
+    },
+    {
+      "id": "tsdb-2427945",
+      "league": "Lega Basket Italy",
+      "date": "2026-06-25",
+      "homeTeam": "Jazz",
+      "awayTeam": "Tampere United",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb-schedule",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb-schedule"
+      ],
+      "multiSourceValidated": false
+    }
+  ],
+  "cachedAt": 1782281451717
+}
