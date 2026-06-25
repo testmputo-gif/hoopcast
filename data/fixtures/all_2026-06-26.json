@@ -1,0 +1,39 @@
+{
+  "fixtures": [
+    {
+      "id": "tsdb-2449076",
+      "league": "WNBA",
+      "date": "2026-06-26",
+      "homeTeam": "Las Vegas Aces",
+      "awayTeam": "Dallas Wings",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb"
+      ],
+      "multiSourceValidated": false
+    },
+    {
+      "id": "tsdb-2449077",
+      "league": "WNBA",
+      "date": "2026-06-26",
+      "homeTeam": "Seattle Storm",
+      "awayTeam": "New York Liberty",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb"
+      ],
+      "multiSourceValidated": false
+    }
+  ],
+  "cachedAt": 1782367892761
+}
