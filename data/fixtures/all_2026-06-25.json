@@ -6,9 +6,9 @@
       "date": "2026-06-25",
       "homeTeam": "Golden State Valkyries",
       "awayTeam": "Atlanta Dream",
-      "homeScore": null,
-      "awayScore": null,
-      "totalScore": null,
+      "homeScore": 77,
+      "awayScore": 66,
+      "totalScore": 143,
       "status": "scheduled",
       "source": "thesportsdb",
       "sourceCount": 1,
@@ -52,5 +52,5 @@
       "multiSourceValidated": false
     }
   ],
-  "cachedAt": 1782281451717
+  "cachedAt": 1782367886289
 }
