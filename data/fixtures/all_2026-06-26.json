@@ -6,9 +6,9 @@
       "date": "2026-06-26",
       "homeTeam": "Las Vegas Aces",
       "awayTeam": "Dallas Wings",
-      "homeScore": null,
-      "awayScore": null,
-      "totalScore": null,
+      "homeScore": 99,
+      "awayScore": 84,
+      "totalScore": 183,
       "status": "scheduled",
       "source": "thesportsdb",
       "sourceCount": 1,
@@ -23,9 +23,9 @@
       "date": "2026-06-26",
       "homeTeam": "Seattle Storm",
       "awayTeam": "New York Liberty",
-      "homeScore": null,
-      "awayScore": null,
-      "totalScore": null,
+      "homeScore": 99,
+      "awayScore": 88,
+      "totalScore": 187,
       "status": "scheduled",
       "source": "thesportsdb",
       "sourceCount": 1,
@@ -35,5 +35,5 @@
       "multiSourceValidated": false
     }
   ],
-  "cachedAt": 1782367892761
+  "cachedAt": 1782454495556
 }
