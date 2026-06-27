@@ -1,0 +1,39 @@
+{
+  "fixtures": [
+    {
+      "id": "tsdb-2449080",
+      "league": "WNBA",
+      "date": "2026-06-28",
+      "homeTeam": "Indiana Fever",
+      "awayTeam": "Los Angeles Sparks",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb"
+      ],
+      "multiSourceValidated": false
+    },
+    {
+      "id": "tsdb-2449081",
+      "league": "WNBA",
+      "date": "2026-06-28",
+      "homeTeam": "Seattle Storm",
+      "awayTeam": "Atlanta Dream",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb"
+      ],
+      "multiSourceValidated": false
+    }
+  ],
+  "cachedAt": 1782539796582
+}
