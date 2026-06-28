@@ -1,0 +1,56 @@
+{
+  "fixtures": [
+    {
+      "id": "tsdb-2389752",
+      "league": "FIBA Basketball World Cup",
+      "date": "2026-06-29",
+      "homeTeam": "Iran Basketball",
+      "awayTeam": "Syria Basketball",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb"
+      ],
+      "multiSourceValidated": false
+    },
+    {
+      "id": "tsdb-2389753",
+      "league": "FIBA Basketball World Cup",
+      "date": "2026-06-29",
+      "homeTeam": "Iraq Basketball",
+      "awayTeam": "Jordan Basketball",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb"
+      ],
+      "multiSourceValidated": false
+    },
+    {
+      "id": "tsdb-2389754",
+      "league": "FIBA Basketball World Cup",
+      "date": "2026-06-29",
+      "homeTeam": "Qatar Basketball",
+      "awayTeam": "Saudi Arabia Basketball",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb"
+      ],
+      "multiSourceValidated": false
+    }
+  ],
+  "cachedAt": 1782627762966
+}
