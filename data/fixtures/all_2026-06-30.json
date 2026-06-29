@@ -1,0 +1,39 @@
+{
+  "fixtures": [
+    {
+      "id": "tsdb-2389673",
+      "league": "FIBA Basketball World Cup",
+      "date": "2026-06-30",
+      "homeTeam": "Venezuela Basketball",
+      "awayTeam": "Colombia Basketball",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb"
+      ],
+      "multiSourceValidated": false
+    },
+    {
+      "id": "tsdb-2450208",
+      "league": "NBL1 South",
+      "date": "2026-06-30",
+      "homeTeam": "Ringwood Hawks",
+      "awayTeam": "Frankston Blues",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb"
+      ],
+      "multiSourceValidated": false
+    }
+  ],
+  "cachedAt": 1782715995379
+}
