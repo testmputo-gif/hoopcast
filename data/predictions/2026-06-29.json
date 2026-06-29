@@ -10,9 +10,9 @@
     "multiSourceValidated": false,
     "prediction": "OVER",
     "expectedTotal": 215.2,
-    "overProbability": 51.2,
-    "underProbability": 48.8,
-    "confidence": 45.2,
+    "overProbability": 52,
+    "underProbability": 48,
+    "confidence": 46.2,
     "confidenceColor": "red",
     "components": {
       "possession": 215,
@@ -25,7 +25,7 @@
     "status": "scheduled",
     "result": null,
     "actualTotal": null,
-    "generatedAt": "2026-06-28T06:22:57.118Z"
+    "generatedAt": "2026-06-29T06:53:28.906Z"
   },
   {
     "id": "tsdb-2389754-2026-06-29",
@@ -38,9 +38,9 @@
     "multiSourceValidated": false,
     "prediction": "OVER",
     "expectedTotal": 215.2,
-    "overProbability": 51,
-    "underProbability": 49,
-    "confidence": 45,
+    "overProbability": 50.8,
+    "underProbability": 49.2,
+    "confidence": 44.8,
     "confidenceColor": "red",
     "components": {
       "possession": 215,
@@ -53,7 +53,35 @@
     "status": "scheduled",
     "result": null,
     "actualTotal": null,
-    "generatedAt": "2026-06-28T06:22:57.425Z"
+    "generatedAt": "2026-06-29T06:53:29.328Z"
+  },
+  {
+    "id": "tsdb-2427950-2026-06-29",
+    "date": "2026-06-29",
+    "league": "Lega Basket Italy",
+    "homeTeam": "VJS",
+    "awayTeam": "TPV",
+    "line": 215,
+    "lineSource": "model-estimated",
+    "multiSourceValidated": false,
+    "prediction": "OVER",
+    "expectedTotal": 215.2,
+    "overProbability": 50.6,
+    "underProbability": 49.4,
+    "confidence": 44.6,
+    "confidenceColor": "red",
+    "components": {
+      "possession": 215,
+      "trend": 214,
+      "pace": 215,
+      "league": 215,
+      "blended": 215
+    },
+    "monteCarloRuns": 5000,
+    "status": "scheduled",
+    "result": null,
+    "actualTotal": null,
+    "generatedAt": "2026-06-29T06:53:29.571Z"
   },
   {
     "id": "tsdb-2389753-2026-06-29",
@@ -64,11 +92,11 @@
     "line": 215,
     "lineSource": "model-estimated",
     "multiSourceValidated": false,
-    "prediction": "OVER",
+    "prediction": "UNDER",
     "expectedTotal": 215.2,
-    "overProbability": 50.3,
-    "underProbability": 49.7,
-    "confidence": 44.2,
+    "overProbability": 49.6,
+    "underProbability": 50.4,
+    "confidence": 44.4,
     "confidenceColor": "red",
     "components": {
       "possession": 215,
@@ -81,6 +109,6 @@
     "status": "scheduled",
     "result": null,
     "actualTotal": null,
-    "generatedAt": "2026-06-28T06:22:57.269Z"
+    "generatedAt": "2026-06-29T06:53:29.127Z"
   }
 ]
