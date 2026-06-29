@@ -1,1 +1,58 @@
-[]
+[
+  {
+    "id": "tsdb-2450208-2026-06-30",
+    "date": "2026-06-30",
+    "league": "NBL1 South",
+    "homeTeam": "Ringwood Hawks",
+    "awayTeam": "Frankston Blues",
+    "line": 215,
+    "lineSource": "model-estimated",
+    "multiSourceValidated": false,
+    "prediction": "UNDER",
+    "expectedTotal": 215.2,
+    "overProbability": 49.6,
+    "underProbability": 50.4,
+    "confidence": 44.4,
+    "confidenceColor": "red",
+    "components": {
+      "possession": 215,
+      "trend": 214,
+      "pace": 215,
+      "league": 215,
+      "blended": 215
+    },
+    "monteCarloRuns": 5000,
+    "status": "scheduled",
+    "result": null,
+    "actualTotal": null,
+    "generatedAt": "2026-06-29T06:53:30.659Z"
+  },
+  {
+    "id": "tsdb-2389673-2026-06-30",
+    "date": "2026-06-30",
+    "league": "FIBA Basketball World Cup",
+    "homeTeam": "Venezuela Basketball",
+    "awayTeam": "Colombia Basketball",
+    "line": 215,
+    "lineSource": "model-estimated",
+    "multiSourceValidated": false,
+    "prediction": "UNDER",
+    "expectedTotal": 215.2,
+    "overProbability": 49.7,
+    "underProbability": 50.3,
+    "confidence": 44.2,
+    "confidenceColor": "red",
+    "components": {
+      "possession": 215,
+      "trend": 214,
+      "pace": 215,
+      "league": 215,
+      "blended": 215
+    },
+    "monteCarloRuns": 5000,
+    "status": "scheduled",
+    "result": null,
+    "actualTotal": null,
+    "generatedAt": "2026-06-29T06:53:30.427Z"
+  }
+]
