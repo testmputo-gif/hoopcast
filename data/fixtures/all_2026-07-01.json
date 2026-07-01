@@ -50,7 +50,24 @@
         "thesportsdb"
       ],
       "multiSourceValidated": false
+    },
+    {
+      "id": "tsdb-2439547",
+      "league": "France LNB Elite",
+      "date": "2026-07-01",
+      "homeTeam": "OshSU Aldier",
+      "awayTeam": "Ilbirs Bishkek",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb-schedule",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb-schedule"
+      ],
+      "multiSourceValidated": false
     }
   ],
-  "cachedAt": 1782800171925
+  "cachedAt": 1782887845797
 }
