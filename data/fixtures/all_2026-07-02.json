@@ -67,7 +67,24 @@
         "thesportsdb-schedule"
       ],
       "multiSourceValidated": false
+    },
+    {
+      "id": "tsdb-2439549",
+      "league": "France LNB Elite",
+      "date": "2026-07-02",
+      "homeTeam": "Bars Issyk-Kul",
+      "awayTeam": "Asia Talas",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb-schedule",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb-schedule"
+      ],
+      "multiSourceValidated": false
     }
   ],
-  "cachedAt": 1782887852292
+  "cachedAt": 1782972199447
 }
