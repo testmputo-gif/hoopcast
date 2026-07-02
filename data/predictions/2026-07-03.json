@@ -1,1 +1,86 @@
-[]
+[
+  {
+    "id": "tsdb-2389790-2026-07-03",
+    "date": "2026-07-03",
+    "league": "FIBA Basketball World Cup",
+    "homeTeam": "Panama Basketball",
+    "awayTeam": "Cuba Basketball",
+    "line": 215,
+    "lineSource": "model-estimated",
+    "multiSourceValidated": false,
+    "prediction": "OVER",
+    "expectedTotal": 215.2,
+    "overProbability": 51.1,
+    "underProbability": 48.9,
+    "confidence": 45.1,
+    "confidenceColor": "red",
+    "components": {
+      "possession": 215,
+      "trend": 214,
+      "pace": 215,
+      "league": 215,
+      "blended": 215
+    },
+    "monteCarloRuns": 5000,
+    "status": "scheduled",
+    "result": null,
+    "actualTotal": null,
+    "generatedAt": "2026-07-02T06:03:45.747Z"
+  },
+  {
+    "id": "tsdb-2389788-2026-07-03",
+    "date": "2026-07-03",
+    "league": "FIBA Basketball World Cup",
+    "homeTeam": "Colombia Basketball",
+    "awayTeam": "Chile Basketball",
+    "line": 215,
+    "lineSource": "model-estimated",
+    "multiSourceValidated": false,
+    "prediction": "OVER",
+    "expectedTotal": 215.2,
+    "overProbability": 50.9,
+    "underProbability": 49.1,
+    "confidence": 44.9,
+    "confidenceColor": "red",
+    "components": {
+      "possession": 215,
+      "trend": 214,
+      "pace": 215,
+      "league": 215,
+      "blended": 215
+    },
+    "monteCarloRuns": 5000,
+    "status": "scheduled",
+    "result": null,
+    "actualTotal": null,
+    "generatedAt": "2026-07-02T06:03:45.282Z"
+  },
+  {
+    "id": "tsdb-2389791-2026-07-03",
+    "date": "2026-07-03",
+    "league": "FIBA Basketball World Cup",
+    "homeTeam": "Uruguay Basketball",
+    "awayTeam": "Argentina Basketball",
+    "line": 215,
+    "lineSource": "model-estimated",
+    "multiSourceValidated": false,
+    "prediction": "UNDER",
+    "expectedTotal": 215.2,
+    "overProbability": 49.9,
+    "underProbability": 50.1,
+    "confidence": 44.1,
+    "confidenceColor": "red",
+    "components": {
+      "possession": 215,
+      "trend": 214,
+      "pace": 215,
+      "league": 215,
+      "blended": 215
+    },
+    "monteCarloRuns": 5000,
+    "status": "scheduled",
+    "result": null,
+    "actualTotal": null,
+    "generatedAt": "2026-07-02T06:03:46.240Z"
+  }
+]
