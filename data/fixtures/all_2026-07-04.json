@@ -1,0 +1,73 @@
+{
+  "fixtures": [
+    {
+      "id": "tsdb-2389796",
+      "league": "FIBA Basketball World Cup",
+      "date": "2026-07-04",
+      "homeTeam": "Angola Basketball",
+      "awayTeam": "Egypt Basketball",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb"
+      ],
+      "multiSourceValidated": false
+    },
+    {
+      "id": "tsdb-2389797",
+      "league": "FIBA Basketball World Cup",
+      "date": "2026-07-04",
+      "homeTeam": "Mali Basketball",
+      "awayTeam": "Uganda Basketball",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb"
+      ],
+      "multiSourceValidated": false
+    },
+    {
+      "id": "tsdb-2389798",
+      "league": "FIBA Basketball World Cup",
+      "date": "2026-07-04",
+      "homeTeam": "Cameroon Basketball",
+      "awayTeam": "Libya Basketball",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb"
+      ],
+      "multiSourceValidated": false
+    },
+    {
+      "id": "tsdb-2427952",
+      "league": "Lega Basket Italy",
+      "date": "2026-07-04",
+      "homeTeam": "SalPa",
+      "awayTeam": "VJS",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb-schedule",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb-schedule"
+      ],
+      "multiSourceValidated": false
+    }
+  ],
+  "cachedAt": 1783058238537
+}
