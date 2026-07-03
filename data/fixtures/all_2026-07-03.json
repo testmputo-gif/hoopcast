@@ -23,9 +23,9 @@
       "date": "2026-07-03",
       "homeTeam": "Panama Basketball",
       "awayTeam": "Cuba Basketball",
-      "homeScore": null,
-      "awayScore": null,
-      "totalScore": null,
+      "homeScore": 83,
+      "awayScore": 70,
+      "totalScore": 153,
       "status": "scheduled",
       "source": "thesportsdb",
       "sourceCount": 1,
@@ -40,9 +40,9 @@
       "date": "2026-07-03",
       "homeTeam": "Uruguay Basketball",
       "awayTeam": "Argentina Basketball",
-      "homeScore": null,
-      "awayScore": null,
-      "totalScore": null,
+      "homeScore": 76,
+      "awayScore": 91,
+      "totalScore": 167,
       "status": "scheduled",
       "source": "thesportsdb",
       "sourceCount": 1,
@@ -50,7 +50,24 @@
         "thesportsdb"
       ],
       "multiSourceValidated": false
+    },
+    {
+      "id": "tsdb-2439546",
+      "league": "France LNB Elite",
+      "date": "2026-07-03",
+      "homeTeam": "Abdysh-Ata Kant",
+      "awayTeam": "Alga Bishkek",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb-schedule",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb-schedule"
+      ],
+      "multiSourceValidated": false
     }
   ],
-  "cachedAt": 1782972205741
+  "cachedAt": 1783058233028
 }
