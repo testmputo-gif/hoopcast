@@ -67,7 +67,24 @@
         "thesportsdb-schedule"
       ],
       "multiSourceValidated": false
+    },
+    {
+      "id": "tsdb-2439545",
+      "league": "France LNB Elite",
+      "date": "2026-07-04",
+      "homeTeam": "Toktogul",
+      "awayTeam": "Bishkek City",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb-schedule",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb-schedule"
+      ],
+      "multiSourceValidated": false
     }
   ],
-  "cachedAt": 1783058238537
+  "cachedAt": 1783144178366
 }
