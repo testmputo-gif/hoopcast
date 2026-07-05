@@ -1,33 +1,5 @@
 [
   {
-    "id": "tsdb-2389818-2026-07-05",
-    "date": "2026-07-05",
-    "league": "FIBA Basketball World Cup",
-    "homeTeam": "Saudi Arabia Basketball",
-    "awayTeam": "Qatar Basketball",
-    "line": 215,
-    "lineSource": "model-estimated",
-    "multiSourceValidated": false,
-    "prediction": "OVER",
-    "expectedTotal": 215.2,
-    "overProbability": 50.8,
-    "underProbability": 49.2,
-    "confidence": 44.9,
-    "confidenceColor": "red",
-    "components": {
-      "possession": 215,
-      "trend": 214,
-      "pace": 215,
-      "league": 215,
-      "blended": 215
-    },
-    "monteCarloRuns": 5000,
-    "status": "scheduled",
-    "result": null,
-    "actualTotal": null,
-    "generatedAt": "2026-07-04T05:50:01.290Z"
-  },
-  {
     "id": "tsdb-2389816-2026-07-05",
     "date": "2026-07-05",
     "league": "FIBA Basketball World Cup",
@@ -36,11 +8,11 @@
     "line": 215,
     "lineSource": "model-estimated",
     "multiSourceValidated": false,
-    "prediction": "UNDER",
+    "prediction": "OVER",
     "expectedTotal": 215.2,
-    "overProbability": 49.4,
-    "underProbability": 50.6,
-    "confidence": 44.6,
+    "overProbability": 51.3,
+    "underProbability": 48.7,
+    "confidence": 45.4,
     "confidenceColor": "red",
     "components": {
       "possession": 215,
@@ -53,7 +25,7 @@
     "status": "scheduled",
     "result": null,
     "actualTotal": null,
-    "generatedAt": "2026-07-04T05:50:00.819Z"
+    "generatedAt": "2026-07-05T06:09:23.377Z"
   },
   {
     "id": "tsdb-2389817-2026-07-05",
@@ -66,9 +38,9 @@
     "multiSourceValidated": false,
     "prediction": "OVER",
     "expectedTotal": 215.2,
-    "overProbability": 50.1,
-    "underProbability": 49.9,
-    "confidence": 44.1,
+    "overProbability": 50.8,
+    "underProbability": 49.2,
+    "confidence": 44.8,
     "confidenceColor": "red",
     "components": {
       "possession": 215,
@@ -81,6 +53,62 @@
     "status": "scheduled",
     "result": null,
     "actualTotal": null,
-    "generatedAt": "2026-07-04T05:50:01.046Z"
+    "generatedAt": "2026-07-05T06:09:24.006Z"
+  },
+  {
+    "id": "tsdb-2427954-2026-07-05",
+    "date": "2026-07-05",
+    "league": "Lega Basket Italy",
+    "homeTeam": "TPV",
+    "awayTeam": "JJK",
+    "line": 215,
+    "lineSource": "model-estimated",
+    "multiSourceValidated": false,
+    "prediction": "OVER",
+    "expectedTotal": 215.2,
+    "overProbability": 50.4,
+    "underProbability": 49.6,
+    "confidence": 44.3,
+    "confidenceColor": "red",
+    "components": {
+      "possession": 215,
+      "trend": 214,
+      "pace": 215,
+      "league": 215,
+      "blended": 215
+    },
+    "monteCarloRuns": 5000,
+    "status": "scheduled",
+    "result": null,
+    "actualTotal": null,
+    "generatedAt": "2026-07-05T06:09:24.929Z"
+  },
+  {
+    "id": "tsdb-2389818-2026-07-05",
+    "date": "2026-07-05",
+    "league": "FIBA Basketball World Cup",
+    "homeTeam": "Saudi Arabia Basketball",
+    "awayTeam": "Qatar Basketball",
+    "line": 215,
+    "lineSource": "model-estimated",
+    "multiSourceValidated": false,
+    "prediction": "UNDER",
+    "expectedTotal": 215.2,
+    "overProbability": 49.9,
+    "underProbability": 50.1,
+    "confidence": 44,
+    "confidenceColor": "red",
+    "components": {
+      "possession": 215,
+      "trend": 214,
+      "pace": 215,
+      "league": 215,
+      "blended": 215
+    },
+    "monteCarloRuns": 5000,
+    "status": "scheduled",
+    "result": null,
+    "actualTotal": null,
+    "generatedAt": "2026-07-05T06:09:24.468Z"
   }
 ]
