@@ -1,0 +1,56 @@
+{
+  "fixtures": [
+    {
+      "id": "tsdb-2389839",
+      "league": "FIBA Basketball World Cup",
+      "date": "2026-07-07",
+      "homeTeam": "Colombia Basketball",
+      "awayTeam": "Brazil Basketball",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb"
+      ],
+      "multiSourceValidated": false
+    },
+    {
+      "id": "tsdb-2389852",
+      "league": "FIBA Basketball World Cup",
+      "date": "2026-07-07",
+      "homeTeam": "Mexico Basketball",
+      "awayTeam": "United States Basketball",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb"
+      ],
+      "multiSourceValidated": false
+    },
+    {
+      "id": "tsdb-2389853",
+      "league": "FIBA Basketball World Cup",
+      "date": "2026-07-07",
+      "homeTeam": "Dominican Republic Basketball",
+      "awayTeam": "Nicaragua Basketball",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb"
+      ],
+      "multiSourceValidated": false
+    }
+  ],
+  "cachedAt": 1783320037646
+}
