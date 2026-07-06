@@ -40,9 +40,9 @@
       "date": "2026-07-06",
       "homeTeam": "Panama Basketball",
       "awayTeam": "Argentina Basketball",
-      "homeScore": null,
-      "awayScore": null,
-      "totalScore": null,
+      "homeScore": 71,
+      "awayScore": 96,
+      "totalScore": 167,
       "status": "scheduled",
       "source": "thesportsdb",
       "sourceCount": 1,
@@ -52,5 +52,5 @@
       "multiSourceValidated": false
     }
   ],
-  "cachedAt": 1783231747229
+  "cachedAt": 1783320031464
 }
