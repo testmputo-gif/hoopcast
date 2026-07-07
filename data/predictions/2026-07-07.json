@@ -1,33 +1,5 @@
 [
   {
-    "id": "tsdb-2389852-2026-07-07",
-    "date": "2026-07-07",
-    "league": "FIBA Basketball World Cup",
-    "homeTeam": "Mexico Basketball",
-    "awayTeam": "United States Basketball",
-    "line": 215,
-    "lineSource": "model-estimated",
-    "multiSourceValidated": false,
-    "prediction": "OVER",
-    "expectedTotal": 215.2,
-    "overProbability": 51.3,
-    "underProbability": 48.7,
-    "confidence": 45.3,
-    "confidenceColor": "red",
-    "components": {
-      "possession": 215,
-      "trend": 214,
-      "pace": 215,
-      "league": 215,
-      "blended": 215
-    },
-    "monteCarloRuns": 5000,
-    "status": "scheduled",
-    "result": null,
-    "actualTotal": null,
-    "generatedAt": "2026-07-06T06:40:56.178Z"
-  },
-  {
     "id": "tsdb-2389839-2026-07-07",
     "date": "2026-07-07",
     "league": "FIBA Basketball World Cup",
@@ -38,9 +10,9 @@
     "multiSourceValidated": false,
     "prediction": "OVER",
     "expectedTotal": 215.2,
-    "overProbability": 50.4,
-    "underProbability": 49.6,
-    "confidence": 44.3,
+    "overProbability": 50.8,
+    "underProbability": 49.2,
+    "confidence": 44.9,
     "confidenceColor": "red",
     "components": {
       "possession": 215,
@@ -53,7 +25,7 @@
     "status": "scheduled",
     "result": null,
     "actualTotal": null,
-    "generatedAt": "2026-07-06T06:40:55.878Z"
+    "generatedAt": "2026-07-07T06:12:59.461Z"
   },
   {
     "id": "tsdb-2389853-2026-07-07",
@@ -64,11 +36,11 @@
     "line": 215,
     "lineSource": "model-estimated",
     "multiSourceValidated": false,
-    "prediction": "UNDER",
+    "prediction": "OVER",
     "expectedTotal": 215.2,
-    "overProbability": 49.9,
-    "underProbability": 50.1,
-    "confidence": 44,
+    "overProbability": 50.5,
+    "underProbability": 49.5,
+    "confidence": 44.5,
     "confidenceColor": "red",
     "components": {
       "possession": 215,
@@ -81,6 +53,62 @@
     "status": "scheduled",
     "result": null,
     "actualTotal": null,
-    "generatedAt": "2026-07-06T06:40:56.473Z"
+    "generatedAt": "2026-07-07T06:13:00.056Z"
+  },
+  {
+    "id": "tsdb-2439553-2026-07-07",
+    "date": "2026-07-07",
+    "league": "France LNB Elite",
+    "homeTeam": "Kyrgyzaltyn",
+    "awayTeam": "Talant",
+    "line": 215,
+    "lineSource": "model-estimated",
+    "multiSourceValidated": false,
+    "prediction": "OVER",
+    "expectedTotal": 215.2,
+    "overProbability": 50.5,
+    "underProbability": 49.5,
+    "confidence": 44.5,
+    "confidenceColor": "red",
+    "components": {
+      "possession": 215,
+      "trend": 214,
+      "pace": 215,
+      "league": 215,
+      "blended": 215
+    },
+    "monteCarloRuns": 5000,
+    "status": "scheduled",
+    "result": null,
+    "actualTotal": null,
+    "generatedAt": "2026-07-07T06:13:00.398Z"
+  },
+  {
+    "id": "tsdb-2389852-2026-07-07",
+    "date": "2026-07-07",
+    "league": "FIBA Basketball World Cup",
+    "homeTeam": "Mexico Basketball",
+    "awayTeam": "United States Basketball",
+    "line": 215,
+    "lineSource": "model-estimated",
+    "multiSourceValidated": false,
+    "prediction": "OVER",
+    "expectedTotal": 215.2,
+    "overProbability": 50.1,
+    "underProbability": 49.9,
+    "confidence": 44.1,
+    "confidenceColor": "red",
+    "components": {
+      "possession": 215,
+      "trend": 214,
+      "pace": 215,
+      "league": 215,
+      "blended": 215
+    },
+    "monteCarloRuns": 5000,
+    "status": "scheduled",
+    "result": null,
+    "actualTotal": null,
+    "generatedAt": "2026-07-07T06:12:59.791Z"
   }
 ]
