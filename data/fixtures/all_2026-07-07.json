@@ -6,9 +6,9 @@
       "date": "2026-07-07",
       "homeTeam": "Colombia Basketball",
       "awayTeam": "Brazil Basketball",
-      "homeScore": null,
-      "awayScore": null,
-      "totalScore": null,
+      "homeScore": 80,
+      "awayScore": 104,
+      "totalScore": 184,
       "status": "scheduled",
       "source": "thesportsdb",
       "sourceCount": 1,
@@ -23,9 +23,9 @@
       "date": "2026-07-07",
       "homeTeam": "Mexico Basketball",
       "awayTeam": "United States Basketball",
-      "homeScore": null,
-      "awayScore": null,
-      "totalScore": null,
+      "homeScore": 93,
+      "awayScore": 94,
+      "totalScore": 187,
       "status": "scheduled",
       "source": "thesportsdb",
       "sourceCount": 1,
@@ -40,9 +40,9 @@
       "date": "2026-07-07",
       "homeTeam": "Dominican Republic Basketball",
       "awayTeam": "Nicaragua Basketball",
-      "homeScore": null,
-      "awayScore": null,
-      "totalScore": null,
+      "homeScore": 99,
+      "awayScore": 76,
+      "totalScore": 175,
       "status": "scheduled",
       "source": "thesportsdb",
       "sourceCount": 1,
@@ -50,7 +50,24 @@
         "thesportsdb"
       ],
       "multiSourceValidated": false
+    },
+    {
+      "id": "tsdb-2439553",
+      "league": "France LNB Elite",
+      "date": "2026-07-07",
+      "homeTeam": "Kyrgyzaltyn",
+      "awayTeam": "Talant",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb-schedule",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb-schedule"
+      ],
+      "multiSourceValidated": false
     }
   ],
-  "cachedAt": 1783320037646
+  "cachedAt": 1783404756542
 }
