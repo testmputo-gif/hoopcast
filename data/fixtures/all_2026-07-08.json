@@ -1,0 +1,39 @@
+{
+  "fixtures": [
+    {
+      "id": "tsdb-2449095",
+      "league": "WNBA",
+      "date": "2026-07-08",
+      "homeTeam": "New York Liberty",
+      "awayTeam": "Dallas Wings",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb"
+      ],
+      "multiSourceValidated": false
+    },
+    {
+      "id": "tsdb-2449096",
+      "league": "WNBA",
+      "date": "2026-07-08",
+      "homeTeam": "Phoenix Mercury",
+      "awayTeam": "Chicago Sky",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb"
+      ],
+      "multiSourceValidated": false
+    }
+  ],
+  "cachedAt": 1783404762937
+}
