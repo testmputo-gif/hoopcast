@@ -1,5 +1,33 @@
 [
   {
+    "id": "tsdb-2439552-2026-07-08",
+    "date": "2026-07-08",
+    "league": "France LNB Elite",
+    "homeTeam": "Ilbirs Bishkek",
+    "awayTeam": "Ozgon",
+    "line": 215,
+    "lineSource": "model-estimated",
+    "multiSourceValidated": false,
+    "prediction": "OVER",
+    "expectedTotal": 215.2,
+    "overProbability": 51.1,
+    "underProbability": 48.9,
+    "confidence": 45.1,
+    "confidenceColor": "red",
+    "components": {
+      "possession": 215,
+      "trend": 214,
+      "pace": 215,
+      "league": 215,
+      "blended": 215
+    },
+    "monteCarloRuns": 5000,
+    "status": "scheduled",
+    "result": null,
+    "actualTotal": null,
+    "generatedAt": "2026-07-08T05:25:21.534Z"
+  },
+  {
     "id": "tsdb-2449095-2026-07-08",
     "date": "2026-07-08",
     "league": "WNBA",
@@ -10,9 +38,9 @@
     "multiSourceValidated": false,
     "prediction": "OVER",
     "expectedTotal": 172.4,
-    "overProbability": 50.3,
-    "underProbability": 49.7,
-    "confidence": 41.5,
+    "overProbability": 52.3,
+    "underProbability": 47.7,
+    "confidence": 43.6,
     "confidenceColor": "red",
     "components": {
       "possession": 174,
@@ -25,7 +53,7 @@
     "status": "scheduled",
     "result": null,
     "actualTotal": null,
-    "generatedAt": "2026-07-07T06:13:01.291Z"
+    "generatedAt": "2026-07-08T05:25:21.002Z"
   },
   {
     "id": "tsdb-2449096-2026-07-08",
@@ -38,8 +66,8 @@
     "multiSourceValidated": false,
     "prediction": "UNDER",
     "expectedTotal": 167.3,
-    "overProbability": 47.9,
-    "underProbability": 52.1,
+    "overProbability": 47.5,
+    "underProbability": 52.5,
     "confidence": 40,
     "confidenceColor": "red",
     "components": {
@@ -53,6 +81,6 @@
     "status": "scheduled",
     "result": null,
     "actualTotal": null,
-    "generatedAt": "2026-07-07T06:13:01.292Z"
+    "generatedAt": "2026-07-08T05:25:21.003Z"
   }
 ]
