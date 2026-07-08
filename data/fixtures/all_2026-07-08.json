@@ -6,9 +6,9 @@
       "date": "2026-07-08",
       "homeTeam": "New York Liberty",
       "awayTeam": "Dallas Wings",
-      "homeScore": null,
-      "awayScore": null,
-      "totalScore": null,
+      "homeScore": 77,
+      "awayScore": 88,
+      "totalScore": 165,
       "status": "scheduled",
       "source": "thesportsdb",
       "sourceCount": 1,
@@ -23,9 +23,9 @@
       "date": "2026-07-08",
       "homeTeam": "Phoenix Mercury",
       "awayTeam": "Chicago Sky",
-      "homeScore": null,
-      "awayScore": null,
-      "totalScore": null,
+      "homeScore": 66,
+      "awayScore": 77,
+      "totalScore": 143,
       "status": "scheduled",
       "source": "thesportsdb",
       "sourceCount": 1,
@@ -33,7 +33,24 @@
         "thesportsdb"
       ],
       "multiSourceValidated": false
+    },
+    {
+      "id": "tsdb-2439552",
+      "league": "France LNB Elite",
+      "date": "2026-07-08",
+      "homeTeam": "Ilbirs Bishkek",
+      "awayTeam": "Ozgon",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb-schedule",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb-schedule"
+      ],
+      "multiSourceValidated": false
     }
   ],
-  "cachedAt": 1783404762937
+  "cachedAt": 1783488297637
 }
