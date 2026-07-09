@@ -6,9 +6,9 @@
       "date": "2026-07-09",
       "homeTeam": "Los Angeles Sparks",
       "awayTeam": "Indiana Fever",
-      "homeScore": null,
-      "awayScore": null,
-      "totalScore": null,
+      "homeScore": 106,
+      "awayScore": 92,
+      "totalScore": 198,
       "status": "scheduled",
       "source": "thesportsdb",
       "sourceCount": 1,
@@ -52,5 +52,5 @@
       "multiSourceValidated": false
     }
   ],
-  "cachedAt": 1783488304161
+  "cachedAt": 1783577337325
 }
