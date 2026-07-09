@@ -1,0 +1,56 @@
+{
+  "fixtures": [
+    {
+      "id": "tsdb-2449099",
+      "league": "WNBA",
+      "date": "2026-07-10",
+      "homeTeam": "Atlanta Dream",
+      "awayTeam": "Seattle Storm",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb"
+      ],
+      "multiSourceValidated": false
+    },
+    {
+      "id": "tsdb-2449100",
+      "league": "WNBA",
+      "date": "2026-07-10",
+      "homeTeam": "Phoenix Mercury",
+      "awayTeam": "Indiana Fever",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb"
+      ],
+      "multiSourceValidated": false
+    },
+    {
+      "id": "tsdb-2427957",
+      "league": "Lega Basket Italy",
+      "date": "2026-07-10",
+      "homeTeam": "Inter Turku II",
+      "awayTeam": "RoPS",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb-schedule",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb-schedule"
+      ],
+      "multiSourceValidated": false
+    }
+  ],
+  "cachedAt": 1783577343838
+}
