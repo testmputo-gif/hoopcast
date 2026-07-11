@@ -6,9 +6,9 @@
       "date": "2026-07-11",
       "homeTeam": "Los Angeles Sparks",
       "awayTeam": "Chicago Sky",
-      "homeScore": null,
-      "awayScore": null,
-      "totalScore": null,
+      "homeScore": 102,
+      "awayScore": 87,
+      "totalScore": 189,
       "status": "scheduled",
       "source": "thesportsdb",
       "sourceCount": 1,
@@ -16,7 +16,24 @@
         "thesportsdb"
       ],
       "multiSourceValidated": false
+    },
+    {
+      "id": "tsdb-2427959",
+      "league": "Lega Basket Italy",
+      "date": "2026-07-11",
+      "homeTeam": "PKKU",
+      "awayTeam": "Jazz",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb-schedule",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb-schedule"
+      ],
+      "multiSourceValidated": false
     }
   ],
-  "cachedAt": 1783663680209
+  "cachedAt": 1783746997903
 }
