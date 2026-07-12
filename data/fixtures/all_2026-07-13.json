@@ -1,0 +1,39 @@
+{
+  "fixtures": [
+    {
+      "id": "tsdb-2449107",
+      "league": "WNBA",
+      "date": "2026-07-13",
+      "homeTeam": "Las Vegas Aces",
+      "awayTeam": "Indiana Fever",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb"
+      ],
+      "multiSourceValidated": false
+    },
+    {
+      "id": "tsdb-2467090",
+      "league": "New Zealand NBL",
+      "date": "2026-07-13",
+      "homeTeam": "Manawatu Jets",
+      "awayTeam": "Nelson Giants",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb"
+      ],
+      "multiSourceValidated": false
+    }
+  ],
+  "cachedAt": 1783834330974
+}
