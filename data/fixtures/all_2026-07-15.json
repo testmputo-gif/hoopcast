@@ -1,0 +1,22 @@
+{
+  "fixtures": [
+    {
+      "id": "tsdb-2467091",
+      "league": "New Zealand NBL",
+      "date": "2026-07-15",
+      "homeTeam": "Taranaki Airs",
+      "awayTeam": "Nelson Giants",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb"
+      ],
+      "multiSourceValidated": false
+    }
+  ],
+  "cachedAt": 1784004877631
+}
