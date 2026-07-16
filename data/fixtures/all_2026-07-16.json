@@ -6,9 +6,9 @@
       "date": "2026-07-16",
       "homeTeam": "Indiana Fever",
       "awayTeam": "Golden State Valkyries",
-      "homeScore": null,
-      "awayScore": null,
-      "totalScore": null,
+      "homeScore": 75,
+      "awayScore": 88,
+      "totalScore": 163,
       "status": "scheduled",
       "source": "thesportsdb",
       "sourceCount": 1,
@@ -52,5 +52,5 @@
       "multiSourceValidated": false
     }
   ],
-  "cachedAt": 1784091287314
+  "cachedAt": 1784178837343
 }
