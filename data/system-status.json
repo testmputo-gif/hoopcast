@@ -1,11 +1,11 @@
 {
-  "lastRun": "2026-07-15T04:55:05.040Z",
-  "lastSuccess": "2026-07-15T04:55:05.040Z",
-  "lastRunDate": "2026-07-15",
+  "lastRun": "2026-07-16T05:14:21.650Z",
+  "lastSuccess": "2026-07-16T05:14:21.650Z",
+  "lastRunDate": "2026-07-16",
   "predictionsGenerated": 4,
   "fixturesFound": 4,
-  "leaguesCovered": 3,
+  "leaguesCovered": 2,
   "lookaheadDays": 3,
-  "elapsedSeconds": "29.6",
+  "elapsedSeconds": "30.9",
   "errors": []
 }
