@@ -1,0 +1,73 @@
+{
+  "fixtures": [
+    {
+      "id": "tsdb-2449116",
+      "league": "WNBA",
+      "date": "2026-07-18",
+      "homeTeam": "Phoenix Mercury",
+      "awayTeam": "Connecticut Sun",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb"
+      ],
+      "multiSourceValidated": false
+    },
+    {
+      "id": "tsdb-2450385",
+      "league": "NBL1 East",
+      "date": "2026-07-18",
+      "homeTeam": "Maitland Mustangs",
+      "awayTeam": "Newcastle Falcons",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb"
+      ],
+      "multiSourceValidated": false
+    },
+    {
+      "id": "tsdb-2450386",
+      "league": "NBL1 East",
+      "date": "2026-07-18",
+      "homeTeam": "Sutherland Sharks Basketball",
+      "awayTeam": "Norths Bears",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb"
+      ],
+      "multiSourceValidated": false
+    },
+    {
+      "id": "tsdb-2427963",
+      "league": "Lega Basket Italy",
+      "date": "2026-07-18",
+      "homeTeam": "PKKU",
+      "awayTeam": "OLS",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb-schedule",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb-schedule"
+      ],
+      "multiSourceValidated": false
+    }
+  ],
+  "cachedAt": 1784265419396
+}
