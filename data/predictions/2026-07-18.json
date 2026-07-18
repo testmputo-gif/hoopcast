@@ -1,18 +1,18 @@
 [
   {
-    "id": "tsdb-2450386-2026-07-18",
+    "id": "tsdb-2427963-2026-07-18",
     "date": "2026-07-18",
-    "league": "NBL1 East",
-    "homeTeam": "Sutherland Sharks Basketball",
-    "awayTeam": "Norths Bears",
+    "league": "Lega Basket Italy",
+    "homeTeam": "PKKU",
+    "awayTeam": "OLS",
     "line": 215,
     "lineSource": "model-estimated",
     "multiSourceValidated": false,
     "prediction": "OVER",
     "expectedTotal": 215.2,
-    "overProbability": 50.9,
-    "underProbability": 49.1,
-    "confidence": 45,
+    "overProbability": 50.6,
+    "underProbability": 49.4,
+    "confidence": 44.6,
     "confidenceColor": "red",
     "components": {
       "possession": 215,
@@ -25,7 +25,7 @@
     "status": "scheduled",
     "result": null,
     "actualTotal": null,
-    "generatedAt": "2026-07-17T05:17:16.878Z"
+    "generatedAt": "2026-07-18T04:52:15.890Z"
   },
   {
     "id": "tsdb-2450385-2026-07-18",
@@ -38,9 +38,9 @@
     "multiSourceValidated": false,
     "prediction": "OVER",
     "expectedTotal": 215.2,
-    "overProbability": 50.1,
-    "underProbability": 49.9,
-    "confidence": 44,
+    "overProbability": 50.5,
+    "underProbability": 49.5,
+    "confidence": 44.5,
     "confidenceColor": "red",
     "components": {
       "possession": 215,
@@ -53,21 +53,21 @@
     "status": "scheduled",
     "result": null,
     "actualTotal": null,
-    "generatedAt": "2026-07-17T05:17:16.369Z"
+    "generatedAt": "2026-07-18T04:52:15.174Z"
   },
   {
-    "id": "tsdb-2427963-2026-07-18",
+    "id": "tsdb-2450386-2026-07-18",
     "date": "2026-07-18",
-    "league": "Lega Basket Italy",
-    "homeTeam": "PKKU",
-    "awayTeam": "OLS",
+    "league": "NBL1 East",
+    "homeTeam": "Sutherland Sharks Basketball",
+    "awayTeam": "Norths Bears",
     "line": 215,
     "lineSource": "model-estimated",
     "multiSourceValidated": false,
     "prediction": "UNDER",
     "expectedTotal": 215.2,
-    "overProbability": 49.9,
-    "underProbability": 50.1,
+    "overProbability": 50,
+    "underProbability": 50,
     "confidence": 44,
     "confidenceColor": "red",
     "components": {
@@ -81,7 +81,7 @@
     "status": "scheduled",
     "result": null,
     "actualTotal": null,
-    "generatedAt": "2026-07-17T05:17:17.375Z"
+    "generatedAt": "2026-07-18T04:52:15.524Z"
   },
   {
     "id": "tsdb-2449116-2026-07-18",
@@ -92,11 +92,11 @@
     "line": 167,
     "lineSource": "model-estimated",
     "multiSourceValidated": false,
-    "prediction": "UNDER",
+    "prediction": "OVER",
     "expectedTotal": 166.8,
-    "overProbability": 49.3,
-    "underProbability": 50.7,
-    "confidence": 41.6,
+    "overProbability": 50.3,
+    "underProbability": 49.7,
+    "confidence": 41.2,
     "confidenceColor": "red",
     "components": {
       "possession": 165,
@@ -109,6 +109,6 @@
     "status": "scheduled",
     "result": null,
     "actualTotal": null,
-    "generatedAt": "2026-07-17T05:17:15.834Z"
+    "generatedAt": "2026-07-18T04:52:14.838Z"
   }
 ]
