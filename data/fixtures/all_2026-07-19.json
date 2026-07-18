@@ -1,0 +1,39 @@
+{
+  "fixtures": [
+    {
+      "id": "tsdb-2449117",
+      "league": "WNBA",
+      "date": "2026-07-19",
+      "homeTeam": "Indiana Fever",
+      "awayTeam": "New York Liberty",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb"
+      ],
+      "multiSourceValidated": false
+    },
+    {
+      "id": "tsdb-2449118",
+      "league": "WNBA",
+      "date": "2026-07-19",
+      "homeTeam": "Golden State Valkyries",
+      "awayTeam": "Washington Mystics",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb"
+      ],
+      "multiSourceValidated": false
+    }
+  ],
+  "cachedAt": 1784350317941
+}
