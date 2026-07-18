@@ -6,9 +6,9 @@
       "date": "2026-07-18",
       "homeTeam": "Phoenix Mercury",
       "awayTeam": "Connecticut Sun",
-      "homeScore": null,
-      "awayScore": null,
-      "totalScore": null,
+      "homeScore": 83,
+      "awayScore": 96,
+      "totalScore": 179,
       "status": "scheduled",
       "source": "thesportsdb",
       "sourceCount": 1,
@@ -69,5 +69,5 @@
       "multiSourceValidated": false
     }
   ],
-  "cachedAt": 1784265419396
+  "cachedAt": 1784350311253
 }
