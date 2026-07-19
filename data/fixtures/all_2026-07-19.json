@@ -6,9 +6,9 @@
       "date": "2026-07-19",
       "homeTeam": "Indiana Fever",
       "awayTeam": "New York Liberty",
-      "homeScore": null,
-      "awayScore": null,
-      "totalScore": null,
+      "homeScore": 108,
+      "awayScore": 88,
+      "totalScore": 196,
       "status": "scheduled",
       "source": "thesportsdb",
       "sourceCount": 1,
@@ -23,9 +23,9 @@
       "date": "2026-07-19",
       "homeTeam": "Golden State Valkyries",
       "awayTeam": "Washington Mystics",
-      "homeScore": null,
-      "awayScore": null,
-      "totalScore": null,
+      "homeScore": 74,
+      "awayScore": 69,
+      "totalScore": 143,
       "status": "scheduled",
       "source": "thesportsdb",
       "sourceCount": 1,
@@ -35,5 +35,5 @@
       "multiSourceValidated": false
     }
   ],
-  "cachedAt": 1784350317941
+  "cachedAt": 1784438745071
 }
