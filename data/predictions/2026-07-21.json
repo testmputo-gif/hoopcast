@@ -1,1 +1,86 @@
-[]
+[
+  {
+    "id": "tsdb-2449113-2026-07-21",
+    "date": "2026-07-21",
+    "league": "WNBA",
+    "homeTeam": "Dallas Wings",
+    "awayTeam": "New York Liberty",
+    "line": 172,
+    "lineSource": "model-estimated",
+    "multiSourceValidated": false,
+    "prediction": "OVER",
+    "expectedTotal": 173.1,
+    "overProbability": 51.6,
+    "underProbability": 48.4,
+    "confidence": 42.9,
+    "confidenceColor": "red",
+    "components": {
+      "possession": 174,
+      "trend": 176,
+      "pace": 172,
+      "league": 169,
+      "blended": 173
+    },
+    "monteCarloRuns": 5000,
+    "status": "scheduled",
+    "result": null,
+    "actualTotal": null,
+    "generatedAt": "2026-07-20T05:43:42.094Z"
+  },
+  {
+    "id": "tsdb-2449122-2026-07-21",
+    "date": "2026-07-21",
+    "league": "WNBA",
+    "homeTeam": "Golden State Valkyries",
+    "awayTeam": "Washington Mystics",
+    "line": 166,
+    "lineSource": "model-estimated",
+    "multiSourceValidated": false,
+    "prediction": "UNDER",
+    "expectedTotal": 165.5,
+    "overProbability": 48.6,
+    "underProbability": 51.4,
+    "confidence": 42.8,
+    "confidenceColor": "red",
+    "components": {
+      "possession": 163,
+      "trend": 166,
+      "pace": 166,
+      "league": 169,
+      "blended": 166
+    },
+    "monteCarloRuns": 5000,
+    "status": "scheduled",
+    "result": null,
+    "actualTotal": null,
+    "generatedAt": "2026-07-20T05:43:42.095Z"
+  },
+  {
+    "id": "tsdb-2449123-2026-07-21",
+    "date": "2026-07-21",
+    "league": "WNBA",
+    "homeTeam": "Seattle Storm",
+    "awayTeam": "Minnesota Lynx",
+    "line": 162.5,
+    "lineSource": "model-estimated",
+    "multiSourceValidated": false,
+    "prediction": "OVER",
+    "expectedTotal": 163,
+    "overProbability": 51.7,
+    "underProbability": 48.3,
+    "confidence": 40,
+    "confidenceColor": "red",
+    "components": {
+      "possession": 157,
+      "trend": 165,
+      "pace": 163,
+      "league": 169,
+      "blended": 163
+    },
+    "monteCarloRuns": 5000,
+    "status": "scheduled",
+    "result": null,
+    "actualTotal": null,
+    "generatedAt": "2026-07-20T05:43:42.096Z"
+  }
+]
