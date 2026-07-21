@@ -6,9 +6,9 @@
       "date": "2026-07-21",
       "homeTeam": "Dallas Wings",
       "awayTeam": "New York Liberty",
-      "homeScore": null,
-      "awayScore": null,
-      "totalScore": null,
+      "homeScore": 98,
+      "awayScore": 99,
+      "totalScore": 197,
       "status": "scheduled",
       "source": "thesportsdb",
       "sourceCount": 1,
@@ -23,9 +23,9 @@
       "date": "2026-07-21",
       "homeTeam": "Golden State Valkyries",
       "awayTeam": "Washington Mystics",
-      "homeScore": null,
-      "awayScore": null,
-      "totalScore": null,
+      "homeScore": 82,
+      "awayScore": 90,
+      "totalScore": 172,
       "status": "scheduled",
       "source": "thesportsdb",
       "sourceCount": 1,
@@ -40,9 +40,9 @@
       "date": "2026-07-21",
       "homeTeam": "Seattle Storm",
       "awayTeam": "Minnesota Lynx",
-      "homeScore": null,
-      "awayScore": null,
-      "totalScore": null,
+      "homeScore": 102,
+      "awayScore": 105,
+      "totalScore": 207,
       "status": "scheduled",
       "source": "thesportsdb",
       "sourceCount": 1,
@@ -52,5 +52,5 @@
       "multiSourceValidated": false
     }
   ],
-  "cachedAt": 1784526205584
+  "cachedAt": 1784611443519
 }
