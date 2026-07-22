@@ -1,0 +1,56 @@
+{
+  "fixtures": [
+    {
+      "id": "tsdb-2449128",
+      "league": "WNBA",
+      "date": "2026-07-23",
+      "homeTeam": "Indiana Fever",
+      "awayTeam": "Connecticut Sun",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb"
+      ],
+      "multiSourceValidated": false
+    },
+    {
+      "id": "tsdb-2467099",
+      "league": "New Zealand NBL",
+      "date": "2026-07-23",
+      "homeTeam": "Hawkes Bay Hawks",
+      "awayTeam": "Wellington Saints",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb"
+      ],
+      "multiSourceValidated": false
+    },
+    {
+      "id": "tsdb-2469377",
+      "league": "WNBA",
+      "date": "2026-07-23",
+      "homeTeam": "Portland Fire",
+      "awayTeam": "Dallas Wings",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb"
+      ],
+      "multiSourceValidated": false
+    }
+  ],
+  "cachedAt": 1784697770568
+}
