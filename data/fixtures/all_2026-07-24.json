@@ -1,0 +1,73 @@
+{
+  "fixtures": [
+    {
+      "id": "tsdb-2450645",
+      "league": "NBL1 West",
+      "date": "2026-07-24",
+      "homeTeam": "Willetton Tigers",
+      "awayTeam": "Kalamunda Eastern Suns",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb"
+      ],
+      "multiSourceValidated": false
+    },
+    {
+      "id": "tsdb-2450646",
+      "league": "NBL1 West",
+      "date": "2026-07-24",
+      "homeTeam": "East Perth Eagles",
+      "awayTeam": "Beeliar Boodjar",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb"
+      ],
+      "multiSourceValidated": false
+    },
+    {
+      "id": "tsdb-2450647",
+      "league": "NBL1 West",
+      "date": "2026-07-24",
+      "homeTeam": "Joondalup Wolves",
+      "awayTeam": "Mandurah Magic",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb"
+      ],
+      "multiSourceValidated": false
+    },
+    {
+      "id": "tsdb-2427970",
+      "league": "Lega Basket Italy",
+      "date": "2026-07-24",
+      "homeTeam": "Jazz",
+      "awayTeam": "TPV",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb-schedule",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb-schedule"
+      ],
+      "multiSourceValidated": false
+    }
+  ],
+  "cachedAt": 1784784525826
+}
