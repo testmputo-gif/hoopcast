@@ -10,9 +10,9 @@
     "multiSourceValidated": false,
     "prediction": "OVER",
     "expectedTotal": 171.5,
-    "overProbability": 52.3,
-    "underProbability": 47.7,
-    "confidence": 46,
+    "overProbability": 51.6,
+    "underProbability": 48.4,
+    "confidence": 45.3,
     "confidenceColor": "red",
     "components": {
       "possession": 172,
@@ -25,35 +25,7 @@
     "status": "scheduled",
     "result": null,
     "actualTotal": null,
-    "generatedAt": "2026-07-22T05:23:05.193Z"
-  },
-  {
-    "id": "tsdb-2469377-2026-07-23",
-    "date": "2026-07-23",
-    "league": "WNBA",
-    "homeTeam": "Portland Fire",
-    "awayTeam": "Dallas Wings",
-    "line": 170.5,
-    "lineSource": "model-estimated",
-    "multiSourceValidated": false,
-    "prediction": "OVER",
-    "expectedTotal": 171.3,
-    "overProbability": 51.3,
-    "underProbability": 48.7,
-    "confidence": 44.6,
-    "confidenceColor": "red",
-    "components": {
-      "possession": 171,
-      "trend": 172,
-      "pace": 170,
-      "league": 169,
-      "blended": 171
-    },
-    "monteCarloRuns": 5000,
-    "status": "scheduled",
-    "result": null,
-    "actualTotal": null,
-    "generatedAt": "2026-07-22T05:23:05.404Z"
+    "generatedAt": "2026-07-23T05:29:02.404Z"
   },
   {
     "id": "tsdb-2467099-2026-07-23",
@@ -66,8 +38,36 @@
     "multiSourceValidated": false,
     "prediction": "OVER",
     "expectedTotal": 215.2,
-    "overProbability": 50,
-    "underProbability": 50,
+    "overProbability": 50.2,
+    "underProbability": 49.8,
+    "confidence": 44.1,
+    "confidenceColor": "red",
+    "components": {
+      "possession": 215,
+      "trend": 214,
+      "pace": 215,
+      "league": 215,
+      "blended": 215
+    },
+    "monteCarloRuns": 5000,
+    "status": "scheduled",
+    "result": null,
+    "actualTotal": null,
+    "generatedAt": "2026-07-23T05:29:02.863Z"
+  },
+  {
+    "id": "tsdb-2544706-2026-07-23",
+    "date": "2026-07-23",
+    "league": "France LNB Elite",
+    "homeTeam": "Toktogul",
+    "awayTeam": "Alay Osh",
+    "line": 215,
+    "lineSource": "model-estimated",
+    "multiSourceValidated": false,
+    "prediction": "UNDER",
+    "expectedTotal": 215.2,
+    "overProbability": 49.9,
+    "underProbability": 50.1,
     "confidence": 44,
     "confidenceColor": "red",
     "components": {
@@ -81,6 +81,34 @@
     "status": "scheduled",
     "result": null,
     "actualTotal": null,
-    "generatedAt": "2026-07-22T05:23:05.404Z"
+    "generatedAt": "2026-07-23T05:29:03.335Z"
+  },
+  {
+    "id": "tsdb-2469377-2026-07-23",
+    "date": "2026-07-23",
+    "league": "WNBA",
+    "homeTeam": "Portland Fire",
+    "awayTeam": "Dallas Wings",
+    "line": 170.5,
+    "lineSource": "model-estimated",
+    "multiSourceValidated": false,
+    "prediction": "OVER",
+    "expectedTotal": 171.3,
+    "overProbability": 50.3,
+    "underProbability": 49.7,
+    "confidence": 43.5,
+    "confidenceColor": "red",
+    "components": {
+      "possession": 171,
+      "trend": 172,
+      "pace": 170,
+      "league": 169,
+      "blended": 171
+    },
+    "monteCarloRuns": 5000,
+    "status": "scheduled",
+    "result": null,
+    "actualTotal": null,
+    "generatedAt": "2026-07-23T05:29:02.864Z"
   }
 ]
