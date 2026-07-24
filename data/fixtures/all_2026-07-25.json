@@ -1,0 +1,56 @@
+{
+  "fixtures": [
+    {
+      "id": "tsdb-2450650",
+      "league": "NBL1 West",
+      "date": "2026-07-25",
+      "homeTeam": "Perry Lakes Hawks",
+      "awayTeam": "Geraldton Buccaneers",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb"
+      ],
+      "multiSourceValidated": false
+    },
+    {
+      "id": "tsdb-2450651",
+      "league": "NBL1 West",
+      "date": "2026-07-25",
+      "homeTeam": "Warwick Senators",
+      "awayTeam": "Goldfields Giants",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb"
+      ],
+      "multiSourceValidated": false
+    },
+    {
+      "id": "tsdb-2450882",
+      "league": "Canadian Elite Basketball League",
+      "date": "2026-07-25",
+      "homeTeam": "Calgary Surge",
+      "awayTeam": "Edmonton Stingers",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb"
+      ],
+      "multiSourceValidated": false
+    }
+  ],
+  "cachedAt": 1784870628151
+}
