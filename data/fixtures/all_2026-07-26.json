@@ -1,0 +1,56 @@
+{
+  "fixtures": [
+    {
+      "id": "tsdb-2467103",
+      "league": "New Zealand NBL",
+      "date": "2026-07-26",
+      "homeTeam": "Auckland Tuatara",
+      "awayTeam": "Taranaki Airs",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb"
+      ],
+      "multiSourceValidated": false
+    },
+    {
+      "id": "tsdb-2467104",
+      "league": "New Zealand NBL",
+      "date": "2026-07-26",
+      "homeTeam": "Canterbury Rams",
+      "awayTeam": "Franklin Bulls",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb"
+      ],
+      "multiSourceValidated": false
+    },
+    {
+      "id": "tsdb-2470366",
+      "league": "Vietnam Basketball Association",
+      "date": "2026-07-26",
+      "homeTeam": "Ho Chi Minh City Wings",
+      "awayTeam": "Da Nang Dragons",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb"
+      ],
+      "multiSourceValidated": false
+    }
+  ],
+  "cachedAt": 1784956679474
+}
