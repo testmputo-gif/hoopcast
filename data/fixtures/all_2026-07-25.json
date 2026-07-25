@@ -6,9 +6,9 @@
       "date": "2026-07-25",
       "homeTeam": "Perry Lakes Hawks",
       "awayTeam": "Geraldton Buccaneers",
-      "homeScore": null,
-      "awayScore": null,
-      "totalScore": null,
+      "homeScore": 26,
+      "awayScore": 26,
+      "totalScore": 52,
       "status": "scheduled",
       "source": "thesportsdb",
       "sourceCount": 1,
@@ -40,9 +40,9 @@
       "date": "2026-07-25",
       "homeTeam": "Calgary Surge",
       "awayTeam": "Edmonton Stingers",
-      "homeScore": null,
-      "awayScore": null,
-      "totalScore": null,
+      "homeScore": 101,
+      "awayScore": 88,
+      "totalScore": 189,
       "status": "scheduled",
       "source": "thesportsdb",
       "sourceCount": 1,
@@ -50,7 +50,41 @@
         "thesportsdb"
       ],
       "multiSourceValidated": false
+    },
+    {
+      "id": "tsdb-2427972",
+      "league": "Lega Basket Italy",
+      "date": "2026-07-25",
+      "homeTeam": "RoPS",
+      "awayTeam": "JJK",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb-schedule",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb-schedule"
+      ],
+      "multiSourceValidated": false
+    },
+    {
+      "id": "tsdb-2544710",
+      "league": "France LNB Elite",
+      "date": "2026-07-25",
+      "homeTeam": "Talant",
+      "awayTeam": "Kyrgyzaltyn",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb-schedule",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb-schedule"
+      ],
+      "multiSourceValidated": false
     }
   ],
-  "cachedAt": 1784870628151
+  "cachedAt": 1784956673675
 }
