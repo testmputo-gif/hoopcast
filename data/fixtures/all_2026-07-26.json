@@ -6,9 +6,9 @@
       "date": "2026-07-26",
       "homeTeam": "Auckland Tuatara",
       "awayTeam": "Taranaki Airs",
-      "homeScore": null,
-      "awayScore": null,
-      "totalScore": null,
+      "homeScore": 109,
+      "awayScore": 85,
+      "totalScore": 194,
       "status": "scheduled",
       "source": "thesportsdb",
       "sourceCount": 1,
@@ -50,7 +50,41 @@
         "thesportsdb"
       ],
       "multiSourceValidated": false
+    },
+    {
+      "id": "tsdb-2427974",
+      "league": "Lega Basket Italy",
+      "date": "2026-07-26",
+      "homeTeam": "KuPS II",
+      "awayTeam": "VJS",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb-schedule",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb-schedule"
+      ],
+      "multiSourceValidated": false
+    },
+    {
+      "id": "tsdb-2544712",
+      "league": "France LNB Elite",
+      "date": "2026-07-26",
+      "homeTeam": "Dordoi Bishkek",
+      "awayTeam": "Alga Bishkek",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb-schedule",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb-schedule"
+      ],
+      "multiSourceValidated": false
     }
   ],
-  "cachedAt": 1784956679474
+  "cachedAt": 1785044180146
 }
