@@ -1,0 +1,56 @@
+{
+  "fixtures": [
+    {
+      "id": "tsdb-2546620",
+      "league": "Commonwealth Games 3x3 Basketball Women",
+      "date": "2026-07-27",
+      "homeTeam": "Singapore 3x3 Basketball Women",
+      "awayTeam": "Tonga 3x3 Basketball Women",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb"
+      ],
+      "multiSourceValidated": false
+    },
+    {
+      "id": "tsdb-2546621",
+      "league": "Commonwealth Games 3x3 Basketball Women",
+      "date": "2026-07-27",
+      "homeTeam": "New Zealand 3x3 Basketball Women",
+      "awayTeam": "Scotland 3x3 Basketball Women",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb"
+      ],
+      "multiSourceValidated": false
+    },
+    {
+      "id": "tsdb-2546622",
+      "league": "Commonwealth Games 3x3 Basketball Women",
+      "date": "2026-07-27",
+      "homeTeam": "England 3x3 Basketball Women",
+      "awayTeam": "Papua New Guinea 3x3 Basketball Women",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb"
+      ],
+      "multiSourceValidated": false
+    }
+  ],
+  "cachedAt": 1785044185608
+}
