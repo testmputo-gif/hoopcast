@@ -1,1 +1,86 @@
-[]
+[
+  {
+    "id": "tsdb-2546620-2026-07-27",
+    "date": "2026-07-27",
+    "league": "Commonwealth Games 3x3 Basketball Women",
+    "homeTeam": "Singapore 3x3 Basketball Women",
+    "awayTeam": "Tonga 3x3 Basketball Women",
+    "line": 215,
+    "lineSource": "model-estimated",
+    "multiSourceValidated": false,
+    "prediction": "OVER",
+    "expectedTotal": 215.2,
+    "overProbability": 50.9,
+    "underProbability": 49.1,
+    "confidence": 44.9,
+    "confidenceColor": "red",
+    "components": {
+      "possession": 215,
+      "trend": 214,
+      "pace": 215,
+      "league": 215,
+      "blended": 215
+    },
+    "monteCarloRuns": 5000,
+    "status": "scheduled",
+    "result": null,
+    "actualTotal": null,
+    "generatedAt": "2026-07-26T05:36:41.628Z"
+  },
+  {
+    "id": "tsdb-2546622-2026-07-27",
+    "date": "2026-07-27",
+    "league": "Commonwealth Games 3x3 Basketball Women",
+    "homeTeam": "England 3x3 Basketball Women",
+    "awayTeam": "Papua New Guinea 3x3 Basketball Women",
+    "line": 215,
+    "lineSource": "model-estimated",
+    "multiSourceValidated": false,
+    "prediction": "OVER",
+    "expectedTotal": 215.2,
+    "overProbability": 50.8,
+    "underProbability": 49.2,
+    "confidence": 44.8,
+    "confidenceColor": "red",
+    "components": {
+      "possession": 215,
+      "trend": 214,
+      "pace": 215,
+      "league": 215,
+      "blended": 215
+    },
+    "monteCarloRuns": 5000,
+    "status": "scheduled",
+    "result": null,
+    "actualTotal": null,
+    "generatedAt": "2026-07-26T05:36:42.080Z"
+  },
+  {
+    "id": "tsdb-2546621-2026-07-27",
+    "date": "2026-07-27",
+    "league": "Commonwealth Games 3x3 Basketball Women",
+    "homeTeam": "New Zealand 3x3 Basketball Women",
+    "awayTeam": "Scotland 3x3 Basketball Women",
+    "line": 215,
+    "lineSource": "model-estimated",
+    "multiSourceValidated": false,
+    "prediction": "UNDER",
+    "expectedTotal": 215.2,
+    "overProbability": 49.5,
+    "underProbability": 50.5,
+    "confidence": 44.5,
+    "confidenceColor": "red",
+    "components": {
+      "possession": 215,
+      "trend": 214,
+      "pace": 215,
+      "league": 215,
+      "blended": 215
+    },
+    "monteCarloRuns": 5000,
+    "status": "scheduled",
+    "result": null,
+    "actualTotal": null,
+    "generatedAt": "2026-07-26T05:36:41.854Z"
+  }
+]
