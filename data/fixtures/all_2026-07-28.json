@@ -1,0 +1,39 @@
+{
+  "fixtures": [
+    {
+      "id": "tsdb-2474259",
+      "league": "Canadian Elite Basketball League",
+      "date": "2026-07-28",
+      "homeTeam": "Montreal Alliance",
+      "awayTeam": "Vancouver Bandits",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb"
+      ],
+      "multiSourceValidated": false
+    },
+    {
+      "id": "tsdb-2505545",
+      "league": "Mexican LNBP",
+      "date": "2026-07-28",
+      "homeTeam": "Astros de Jalisco",
+      "awayTeam": "Correcaminos UAT Victoria",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb"
+      ],
+      "multiSourceValidated": false
+    }
+  ],
+  "cachedAt": 1785131663061
+}
