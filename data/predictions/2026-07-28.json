@@ -1,1 +1,58 @@
-[]
+[
+  {
+    "id": "tsdb-2474259-2026-07-28",
+    "date": "2026-07-28",
+    "league": "Canadian Elite Basketball League",
+    "homeTeam": "Montreal Alliance",
+    "awayTeam": "Vancouver Bandits",
+    "line": 215,
+    "lineSource": "model-estimated",
+    "multiSourceValidated": false,
+    "prediction": "OVER",
+    "expectedTotal": 215.2,
+    "overProbability": 50.5,
+    "underProbability": 49.5,
+    "confidence": 44.5,
+    "confidenceColor": "red",
+    "components": {
+      "possession": 215,
+      "trend": 214,
+      "pace": 215,
+      "league": 215,
+      "blended": 215
+    },
+    "monteCarloRuns": 5000,
+    "status": "scheduled",
+    "result": null,
+    "actualTotal": null,
+    "generatedAt": "2026-07-27T05:54:42.206Z"
+  },
+  {
+    "id": "tsdb-2505545-2026-07-28",
+    "date": "2026-07-28",
+    "league": "Mexican LNBP",
+    "homeTeam": "Astros de Jalisco",
+    "awayTeam": "Correcaminos UAT Victoria",
+    "line": 215,
+    "lineSource": "model-estimated",
+    "multiSourceValidated": false,
+    "prediction": "OVER",
+    "expectedTotal": 215.2,
+    "overProbability": 50.3,
+    "underProbability": 49.7,
+    "confidence": 44.3,
+    "confidenceColor": "red",
+    "components": {
+      "possession": 215,
+      "trend": 214,
+      "pace": 215,
+      "league": 215,
+      "blended": 215
+    },
+    "monteCarloRuns": 5000,
+    "status": "scheduled",
+    "result": null,
+    "actualTotal": null,
+    "generatedAt": "2026-07-27T05:54:42.658Z"
+  }
+]
