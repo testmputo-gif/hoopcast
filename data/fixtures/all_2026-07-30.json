@@ -1,0 +1,73 @@
+{
+  "fixtures": [
+    {
+      "id": "tsdb-2449132",
+      "league": "WNBA",
+      "date": "2026-07-30",
+      "homeTeam": "Dallas Wings",
+      "awayTeam": "Atlanta Dream",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb"
+      ],
+      "multiSourceValidated": false
+    },
+    {
+      "id": "tsdb-2449133",
+      "league": "WNBA",
+      "date": "2026-07-30",
+      "homeTeam": "Phoenix Mercury",
+      "awayTeam": "Golden State Valkyries",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb"
+      ],
+      "multiSourceValidated": false
+    },
+    {
+      "id": "tsdb-2470367",
+      "league": "Vietnam Basketball Association",
+      "date": "2026-07-30",
+      "homeTeam": "Nha Trang Dolphins",
+      "awayTeam": "Ho Chi Minh City Wings",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb"
+      ],
+      "multiSourceValidated": false
+    },
+    {
+      "id": "tsdb-2427976",
+      "league": "Lega Basket Italy",
+      "date": "2026-07-30",
+      "homeTeam": "Jazz",
+      "awayTeam": "KuPS II",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb-schedule",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb-schedule"
+      ],
+      "multiSourceValidated": false
+    }
+  ],
+  "cachedAt": 1785302731889
+}
