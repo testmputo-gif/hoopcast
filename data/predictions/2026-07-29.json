@@ -1,33 +1,5 @@
 [
   {
-    "id": "tsdb-2449321-2026-07-29",
-    "date": "2026-07-29",
-    "league": "WNBA",
-    "homeTeam": "Minnesota Lynx",
-    "awayTeam": "Toronto Tempo",
-    "line": 170,
-    "lineSource": "model-estimated",
-    "multiSourceValidated": false,
-    "prediction": "OVER",
-    "expectedTotal": 171.8,
-    "overProbability": 53.2,
-    "underProbability": 46.8,
-    "confidence": 43.7,
-    "confidenceColor": "red",
-    "components": {
-      "possession": 171,
-      "trend": 175,
-      "pace": 170,
-      "league": 169,
-      "blended": 172
-    },
-    "monteCarloRuns": 5000,
-    "status": "scheduled",
-    "result": null,
-    "actualTotal": null,
-    "generatedAt": "2026-07-28T05:18:49.429Z"
-  },
-  {
     "id": "tsdb-2449130-2026-07-29",
     "date": "2026-07-29",
     "league": "WNBA",
@@ -38,9 +10,9 @@
     "multiSourceValidated": false,
     "prediction": "UNDER",
     "expectedTotal": 167.3,
-    "overProbability": 50,
-    "underProbability": 50,
-    "confidence": 43.3,
+    "overProbability": 48.8,
+    "underProbability": 51.2,
+    "confidence": 44.6,
     "confidenceColor": "red",
     "components": {
       "possession": 166,
@@ -53,7 +25,35 @@
     "status": "scheduled",
     "result": null,
     "actualTotal": null,
-    "generatedAt": "2026-07-28T05:18:49.428Z"
+    "generatedAt": "2026-07-29T05:25:48.918Z"
+  },
+  {
+    "id": "tsdb-2449321-2026-07-29",
+    "date": "2026-07-29",
+    "league": "WNBA",
+    "homeTeam": "Minnesota Lynx",
+    "awayTeam": "Toronto Tempo",
+    "line": 170,
+    "lineSource": "model-estimated",
+    "multiSourceValidated": false,
+    "prediction": "OVER",
+    "expectedTotal": 171.8,
+    "overProbability": 53.5,
+    "underProbability": 46.5,
+    "confidence": 44,
+    "confidenceColor": "red",
+    "components": {
+      "possession": 171,
+      "trend": 175,
+      "pace": 170,
+      "league": 169,
+      "blended": 172
+    },
+    "monteCarloRuns": 5000,
+    "status": "scheduled",
+    "result": null,
+    "actualTotal": null,
+    "generatedAt": "2026-07-29T05:25:48.920Z"
   },
   {
     "id": "tsdb-2449131-2026-07-29",
@@ -66,9 +66,9 @@
     "multiSourceValidated": false,
     "prediction": "UNDER",
     "expectedTotal": 172.7,
-    "overProbability": 48,
-    "underProbability": 52,
-    "confidence": 42,
+    "overProbability": 49.6,
+    "underProbability": 50.4,
+    "confidence": 40.2,
     "confidenceColor": "red",
     "components": {
       "possession": 177,
@@ -81,6 +81,6 @@
     "status": "scheduled",
     "result": null,
     "actualTotal": null,
-    "generatedAt": "2026-07-28T05:18:49.429Z"
+    "generatedAt": "2026-07-29T05:25:48.919Z"
   }
 ]
