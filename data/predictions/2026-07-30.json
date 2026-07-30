@@ -10,9 +10,9 @@
     "multiSourceValidated": false,
     "prediction": "OVER",
     "expectedTotal": 168.3,
-    "overProbability": 53.8,
-    "underProbability": 46.2,
-    "confidence": 46.1,
+    "overProbability": 52.6,
+    "underProbability": 47.4,
+    "confidence": 44.9,
     "confidenceColor": "red",
     "components": {
       "possession": 165,
@@ -25,35 +25,7 @@
     "status": "scheduled",
     "result": null,
     "actualTotal": null,
-    "generatedAt": "2026-07-29T05:25:49.810Z"
-  },
-  {
-    "id": "tsdb-2427976-2026-07-30",
-    "date": "2026-07-30",
-    "league": "Lega Basket Italy",
-    "homeTeam": "Jazz",
-    "awayTeam": "KuPS II",
-    "line": 215,
-    "lineSource": "model-estimated",
-    "multiSourceValidated": false,
-    "prediction": "OVER",
-    "expectedTotal": 215.2,
-    "overProbability": 51.6,
-    "underProbability": 48.4,
-    "confidence": 45.7,
-    "confidenceColor": "red",
-    "components": {
-      "possession": 215,
-      "trend": 214,
-      "pace": 215,
-      "league": 215,
-      "blended": 215
-    },
-    "monteCarloRuns": 5000,
-    "status": "scheduled",
-    "result": null,
-    "actualTotal": null,
-    "generatedAt": "2026-07-29T05:25:50.897Z"
+    "generatedAt": "2026-07-30T05:12:45.123Z"
   },
   {
     "id": "tsdb-2470367-2026-07-30",
@@ -64,11 +36,11 @@
     "line": 215,
     "lineSource": "model-estimated",
     "multiSourceValidated": false,
-    "prediction": "OVER",
+    "prediction": "UNDER",
     "expectedTotal": 215.2,
-    "overProbability": 50.2,
-    "underProbability": 49.8,
-    "confidence": 44.1,
+    "overProbability": 49.6,
+    "underProbability": 50.4,
+    "confidence": 44.4,
     "confidenceColor": "red",
     "components": {
       "possession": 215,
@@ -81,7 +53,35 @@
     "status": "scheduled",
     "result": null,
     "actualTotal": null,
-    "generatedAt": "2026-07-29T05:25:50.314Z"
+    "generatedAt": "2026-07-30T05:12:45.364Z"
+  },
+  {
+    "id": "tsdb-2427976-2026-07-30",
+    "date": "2026-07-30",
+    "league": "Lega Basket Italy",
+    "homeTeam": "Jazz",
+    "awayTeam": "KuPS II",
+    "line": 215,
+    "lineSource": "model-estimated",
+    "multiSourceValidated": false,
+    "prediction": "UNDER",
+    "expectedTotal": 215.2,
+    "overProbability": 49.6,
+    "underProbability": 50.4,
+    "confidence": 44.4,
+    "confidenceColor": "red",
+    "components": {
+      "possession": 215,
+      "trend": 214,
+      "pace": 215,
+      "league": 215,
+      "blended": 215
+    },
+    "monteCarloRuns": 5000,
+    "status": "scheduled",
+    "result": null,
+    "actualTotal": null,
+    "generatedAt": "2026-07-30T05:12:45.705Z"
   },
   {
     "id": "tsdb-2449132-2026-07-30",
@@ -94,8 +94,8 @@
     "multiSourceValidated": false,
     "prediction": "OVER",
     "expectedTotal": 169.9,
-    "overProbability": 51.9,
-    "underProbability": 48.1,
+    "overProbability": 51.3,
+    "underProbability": 48.7,
     "confidence": 40,
     "confidenceColor": "red",
     "components": {
@@ -109,6 +109,6 @@
     "status": "scheduled",
     "result": null,
     "actualTotal": null,
-    "generatedAt": "2026-07-29T05:25:49.810Z"
+    "generatedAt": "2026-07-30T05:12:45.122Z"
   }
 ]
