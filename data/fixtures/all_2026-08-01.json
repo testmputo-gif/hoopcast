@@ -1,0 +1,22 @@
+{
+  "fixtures": [
+    {
+      "id": "tsdb-2469379",
+      "league": "WNBA",
+      "date": "2026-08-01",
+      "homeTeam": "Portland Fire",
+      "awayTeam": "Indiana Fever",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb"
+      ],
+      "multiSourceValidated": false
+    }
+  ],
+  "cachedAt": 1785476341803
+}
