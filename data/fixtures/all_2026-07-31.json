@@ -6,9 +6,9 @@
       "date": "2026-07-31",
       "homeTeam": "Chicago Sky",
       "awayTeam": "Connecticut Sun",
-      "homeScore": null,
-      "awayScore": null,
-      "totalScore": null,
+      "homeScore": 94,
+      "awayScore": 88,
+      "totalScore": 182,
       "status": "scheduled",
       "source": "thesportsdb",
       "sourceCount": 1,
@@ -23,9 +23,9 @@
       "date": "2026-07-31",
       "homeTeam": "Las Vegas Aces",
       "awayTeam": "New York Liberty",
-      "homeScore": null,
-      "awayScore": null,
-      "totalScore": null,
+      "homeScore": 104,
+      "awayScore": 99,
+      "totalScore": 203,
       "status": "scheduled",
       "source": "thesportsdb",
       "sourceCount": 1,
@@ -33,7 +33,24 @@
         "thesportsdb"
       ],
       "multiSourceValidated": false
+    },
+    {
+      "id": "tsdb-2427977",
+      "league": "Lega Basket Italy",
+      "date": "2026-07-31",
+      "homeTeam": "Inter Turku II",
+      "awayTeam": "VJS",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb-schedule",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb-schedule"
+      ],
+      "multiSourceValidated": false
     }
   ],
-  "cachedAt": 1785388351043
+  "cachedAt": 1785476335525
 }
