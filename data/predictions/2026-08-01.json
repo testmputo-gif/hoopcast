@@ -1,1 +1,30 @@
-[]
+[
+  {
+    "id": "tsdb-2469379-2026-08-01",
+    "date": "2026-08-01",
+    "league": "WNBA",
+    "homeTeam": "Portland Fire",
+    "awayTeam": "Indiana Fever",
+    "line": 171,
+    "lineSource": "model-estimated",
+    "multiSourceValidated": false,
+    "prediction": "OVER",
+    "expectedTotal": 171.2,
+    "overProbability": 50.8,
+    "underProbability": 49.2,
+    "confidence": 43.9,
+    "confidenceColor": "red",
+    "components": {
+      "possession": 173,
+      "trend": 171,
+      "pace": 171,
+      "league": 169,
+      "blended": 171
+    },
+    "monteCarloRuns": 5000,
+    "status": "scheduled",
+    "result": null,
+    "actualTotal": null,
+    "generatedAt": "2026-07-31T05:39:18.708Z"
+  }
+]
