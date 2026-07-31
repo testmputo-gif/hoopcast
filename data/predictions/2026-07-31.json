@@ -10,9 +10,9 @@
     "multiSourceValidated": false,
     "prediction": "UNDER",
     "expectedTotal": 164.1,
-    "overProbability": 40.6,
-    "underProbability": 59.4,
-    "confidence": 47.5,
+    "overProbability": 42.1,
+    "underProbability": 57.9,
+    "confidence": 45.8,
     "confidenceColor": "red",
     "components": {
       "possession": 165,
@@ -25,7 +25,35 @@
     "status": "scheduled",
     "result": null,
     "actualTotal": null,
-    "generatedAt": "2026-07-30T05:12:46.397Z"
+    "generatedAt": "2026-07-31T05:39:17.702Z"
+  },
+  {
+    "id": "tsdb-2427977-2026-07-31",
+    "date": "2026-07-31",
+    "league": "Lega Basket Italy",
+    "homeTeam": "Inter Turku II",
+    "awayTeam": "VJS",
+    "line": 215,
+    "lineSource": "model-estimated",
+    "multiSourceValidated": false,
+    "prediction": "UNDER",
+    "expectedTotal": 215.2,
+    "overProbability": 49.8,
+    "underProbability": 50.2,
+    "confidence": 44.2,
+    "confidenceColor": "red",
+    "components": {
+      "possession": 215,
+      "trend": 214,
+      "pace": 215,
+      "league": 215,
+      "blended": 215
+    },
+    "monteCarloRuns": 5000,
+    "status": "scheduled",
+    "result": null,
+    "actualTotal": null,
+    "generatedAt": "2026-07-31T05:39:17.998Z"
   },
   {
     "id": "tsdb-2449135-2026-07-31",
@@ -38,9 +66,9 @@
     "multiSourceValidated": false,
     "prediction": "OVER",
     "expectedTotal": 173.5,
-    "overProbability": 50.9,
-    "underProbability": 49.1,
-    "confidence": 42.4,
+    "overProbability": 51.3,
+    "underProbability": 48.7,
+    "confidence": 42.9,
     "confidenceColor": "red",
     "components": {
       "possession": 177,
@@ -53,6 +81,6 @@
     "status": "scheduled",
     "result": null,
     "actualTotal": null,
-    "generatedAt": "2026-07-30T05:12:46.398Z"
+    "generatedAt": "2026-07-31T05:39:17.702Z"
   }
 ]
