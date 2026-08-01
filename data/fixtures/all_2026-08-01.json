@@ -6,9 +6,9 @@
       "date": "2026-08-01",
       "homeTeam": "Portland Fire",
       "awayTeam": "Indiana Fever",
-      "homeScore": null,
-      "awayScore": null,
-      "totalScore": null,
+      "homeScore": 98,
+      "awayScore": 112,
+      "totalScore": 210,
       "status": "scheduled",
       "source": "thesportsdb",
       "sourceCount": 1,
@@ -16,7 +16,41 @@
         "thesportsdb"
       ],
       "multiSourceValidated": false
+    },
+    {
+      "id": "tsdb-2427979",
+      "league": "Lega Basket Italy",
+      "date": "2026-08-01",
+      "homeTeam": "KPV",
+      "awayTeam": "SalPa",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb-schedule",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb-schedule"
+      ],
+      "multiSourceValidated": false
+    },
+    {
+      "id": "tsdb-2554142",
+      "league": "France LNB Elite",
+      "date": "2026-08-01",
+      "homeTeam": "Alga Bishkek",
+      "awayTeam": "Abdysh-Ata Kant",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb-schedule",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb-schedule"
+      ],
+      "multiSourceValidated": false
     }
   ],
-  "cachedAt": 1785476341803
+  "cachedAt": 1785562338632
 }
