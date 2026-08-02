@@ -1,0 +1,22 @@
+{
+  "fixtures": [
+    {
+      "id": "tsdb-2554144",
+      "league": "France LNB Elite",
+      "date": "2026-08-02",
+      "homeTeam": "Asiagoal Bishkek",
+      "awayTeam": "Muras United",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb-schedule",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb-schedule"
+      ],
+      "multiSourceValidated": false
+    }
+  ],
+  "cachedAt": 1785649050740
+}
