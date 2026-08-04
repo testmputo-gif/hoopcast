@@ -1,0 +1,22 @@
+{
+  "fixtures": [
+    {
+      "id": "tsdb-2427981",
+      "league": "Lega Basket Italy",
+      "date": "2026-08-05",
+      "homeTeam": "OLS",
+      "awayTeam": "TPV",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb-schedule",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb-schedule"
+      ],
+      "multiSourceValidated": false
+    }
+  ],
+  "cachedAt": 1785820685006
+}
