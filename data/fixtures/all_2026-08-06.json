@@ -1,0 +1,56 @@
+{
+  "fixtures": [
+    {
+      "id": "tsdb-2449148",
+      "league": "WNBA",
+      "date": "2026-08-06",
+      "homeTeam": "Chicago Sky",
+      "awayTeam": "Los Angeles Sparks",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb"
+      ],
+      "multiSourceValidated": false
+    },
+    {
+      "id": "tsdb-2470371",
+      "league": "Vietnam Basketball Association",
+      "date": "2026-08-06",
+      "homeTeam": "Ho Chi Minh City Wings",
+      "awayTeam": "Saigon Heat",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb"
+      ],
+      "multiSourceValidated": false
+    },
+    {
+      "id": "tsdb-2546870",
+      "league": "LKL Lithuania",
+      "date": "2026-08-06",
+      "homeTeam": "Triesenberg II",
+      "awayTeam": "Ruggell II",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb-schedule",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb-schedule"
+      ],
+      "multiSourceValidated": false
+    }
+  ],
+  "cachedAt": 1785907072618
+}
