@@ -6,9 +6,9 @@
       "date": "2026-08-06",
       "homeTeam": "Chicago Sky",
       "awayTeam": "Los Angeles Sparks",
-      "homeScore": null,
-      "awayScore": null,
-      "totalScore": null,
+      "homeScore": 95,
+      "awayScore": 88,
+      "totalScore": 183,
       "status": "scheduled",
       "source": "thesportsdb",
       "sourceCount": 1,
@@ -52,5 +52,5 @@
       "multiSourceValidated": false
     }
   ],
-  "cachedAt": 1785907072618
+  "cachedAt": 1785993601793
 }
