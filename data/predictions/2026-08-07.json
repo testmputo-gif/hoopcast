@@ -1,1 +1,58 @@
-[]
+[
+  {
+    "id": "tsdb-2449150-2026-08-07",
+    "date": "2026-08-07",
+    "league": "WNBA",
+    "homeTeam": "Minnesota Lynx",
+    "awayTeam": "Los Angeles Sparks",
+    "line": 170.5,
+    "lineSource": "model-estimated",
+    "multiSourceValidated": false,
+    "prediction": "OVER",
+    "expectedTotal": 172,
+    "overProbability": 54.2,
+    "underProbability": 45.8,
+    "confidence": 46.7,
+    "confidenceColor": "red",
+    "components": {
+      "possession": 172,
+      "trend": 174,
+      "pace": 171,
+      "league": 169,
+      "blended": 172
+    },
+    "monteCarloRuns": 5000,
+    "status": "scheduled",
+    "result": null,
+    "actualTotal": null,
+    "generatedAt": "2026-08-06T05:20:27.555Z"
+  },
+  {
+    "id": "tsdb-2427986-2026-08-07",
+    "date": "2026-08-07",
+    "league": "Lega Basket Italy",
+    "homeTeam": "KuPS II",
+    "awayTeam": "Inter Turku II",
+    "line": 215,
+    "lineSource": "model-estimated",
+    "multiSourceValidated": false,
+    "prediction": "OVER",
+    "expectedTotal": 215.2,
+    "overProbability": 51.2,
+    "underProbability": 48.8,
+    "confidence": 45.2,
+    "confidenceColor": "red",
+    "components": {
+      "possession": 215,
+      "trend": 214,
+      "pace": 215,
+      "league": 215,
+      "blended": 215
+    },
+    "monteCarloRuns": 5000,
+    "status": "scheduled",
+    "result": null,
+    "actualTotal": null,
+    "generatedAt": "2026-08-06T05:20:27.986Z"
+  }
+]
