@@ -6,9 +6,9 @@
       "date": "2026-08-07",
       "homeTeam": "Minnesota Lynx",
       "awayTeam": "Los Angeles Sparks",
-      "homeScore": null,
-      "awayScore": null,
-      "totalScore": null,
+      "homeScore": 82,
+      "awayScore": 89,
+      "totalScore": 171,
       "status": "scheduled",
       "source": "thesportsdb",
       "sourceCount": 1,
@@ -33,7 +33,24 @@
         "thesportsdb-schedule"
       ],
       "multiSourceValidated": false
+    },
+    {
+      "id": "tsdb-2559647",
+      "league": "France LNB Elite",
+      "date": "2026-08-07",
+      "homeTeam": "Bars Issyk-Kul",
+      "awayTeam": "Alga Bishkek",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb-schedule",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb-schedule"
+      ],
+      "multiSourceValidated": false
     }
   ],
-  "cachedAt": 1785993608863
+  "cachedAt": 1786076868581
 }
