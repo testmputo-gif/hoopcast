@@ -1,0 +1,39 @@
+{
+  "fixtures": [
+    {
+      "id": "tsdb-2427987",
+      "league": "Lega Basket Italy",
+      "date": "2026-08-09",
+      "homeTeam": "KPV",
+      "awayTeam": "VJS",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb-schedule",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb-schedule"
+      ],
+      "multiSourceValidated": false
+    },
+    {
+      "id": "tsdb-2546866",
+      "league": "LKL Lithuania",
+      "date": "2026-08-09",
+      "homeTeam": "Balzers II",
+      "awayTeam": "Eschen-Mauren III",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb-schedule",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb-schedule"
+      ],
+      "multiSourceValidated": false
+    }
+  ],
+  "cachedAt": 1786160162136
+}
