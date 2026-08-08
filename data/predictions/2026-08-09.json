@@ -1,1 +1,58 @@
-[]
+[
+  {
+    "id": "tsdb-2427987-2026-08-09",
+    "date": "2026-08-09",
+    "league": "Lega Basket Italy",
+    "homeTeam": "KPV",
+    "awayTeam": "VJS",
+    "line": 215,
+    "lineSource": "model-estimated",
+    "multiSourceValidated": false,
+    "prediction": "OVER",
+    "expectedTotal": 215.2,
+    "overProbability": 50.8,
+    "underProbability": 49.2,
+    "confidence": 44.8,
+    "confidenceColor": "red",
+    "components": {
+      "possession": 215,
+      "trend": 214,
+      "pace": 215,
+      "league": 215,
+      "blended": 215
+    },
+    "monteCarloRuns": 5000,
+    "status": "scheduled",
+    "result": null,
+    "actualTotal": null,
+    "generatedAt": "2026-08-08T03:36:17.509Z"
+  },
+  {
+    "id": "tsdb-2546866-2026-08-09",
+    "date": "2026-08-09",
+    "league": "LKL Lithuania",
+    "homeTeam": "Balzers II",
+    "awayTeam": "Eschen-Mauren III",
+    "line": 215,
+    "lineSource": "model-estimated",
+    "multiSourceValidated": false,
+    "prediction": "OVER",
+    "expectedTotal": 215.2,
+    "overProbability": 50.4,
+    "underProbability": 49.6,
+    "confidence": 44.4,
+    "confidenceColor": "red",
+    "components": {
+      "possession": 215,
+      "trend": 214,
+      "pace": 215,
+      "league": 215,
+      "blended": 215
+    },
+    "monteCarloRuns": 5000,
+    "status": "scheduled",
+    "result": null,
+    "actualTotal": null,
+    "generatedAt": "2026-08-08T03:36:17.747Z"
+  }
+]
