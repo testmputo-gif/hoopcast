@@ -1,18 +1,18 @@
 [
   {
-    "id": "tsdb-2491617-2026-08-08",
+    "id": "tsdb-2559651-2026-08-08",
     "date": "2026-08-08",
-    "league": "NBL Australia",
-    "homeTeam": "FC Ryukyu",
-    "awayTeam": "Giravanz Kitakyushu",
+    "league": "France LNB Elite",
+    "homeTeam": "Abdysh-Ata Kant",
+    "awayTeam": "Kyrgyzaltyn",
     "line": 215,
     "lineSource": "model-estimated",
     "multiSourceValidated": false,
-    "prediction": "UNDER",
+    "prediction": "OVER",
     "expectedTotal": 215.2,
-    "overProbability": 50,
-    "underProbability": 50,
-    "confidence": 44,
+    "overProbability": 51.6,
+    "underProbability": 48.4,
+    "confidence": 45.7,
     "confidenceColor": "red",
     "components": {
       "possession": 215,
@@ -25,7 +25,35 @@
     "status": "scheduled",
     "result": null,
     "actualTotal": null,
-    "generatedAt": "2026-08-07T04:28:10.280Z"
+    "generatedAt": "2026-08-08T03:36:16.613Z"
+  },
+  {
+    "id": "tsdb-2491617-2026-08-08",
+    "date": "2026-08-08",
+    "league": "NBL Australia",
+    "homeTeam": "FC Ryukyu",
+    "awayTeam": "Giravanz Kitakyushu",
+    "line": 215,
+    "lineSource": "model-estimated",
+    "multiSourceValidated": false,
+    "prediction": "OVER",
+    "expectedTotal": 215.2,
+    "overProbability": 50.2,
+    "underProbability": 49.8,
+    "confidence": 44.1,
+    "confidenceColor": "red",
+    "components": {
+      "possession": 215,
+      "trend": 214,
+      "pace": 215,
+      "league": 215,
+      "blended": 215
+    },
+    "monteCarloRuns": 5000,
+    "status": "scheduled",
+    "result": null,
+    "actualTotal": null,
+    "generatedAt": "2026-08-08T03:36:16.337Z"
   },
   {
     "id": "tsdb-2449153-2026-08-08",
@@ -38,9 +66,9 @@
     "multiSourceValidated": false,
     "prediction": "OVER",
     "expectedTotal": 171.3,
-    "overProbability": 54.4,
-    "underProbability": 45.6,
-    "confidence": 41.9,
+    "overProbability": 53.9,
+    "underProbability": 46.1,
+    "confidence": 41.4,
     "confidenceColor": "red",
     "components": {
       "possession": 170,
@@ -53,6 +81,6 @@
     "status": "scheduled",
     "result": null,
     "actualTotal": null,
-    "generatedAt": "2026-08-07T04:28:09.943Z"
+    "generatedAt": "2026-08-08T03:36:16.076Z"
   }
 ]
