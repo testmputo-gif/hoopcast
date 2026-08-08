@@ -33,7 +33,24 @@
         "thesportsdb-schedule"
       ],
       "multiSourceValidated": false
+    },
+    {
+      "id": "tsdb-2559651",
+      "league": "France LNB Elite",
+      "date": "2026-08-08",
+      "homeTeam": "Abdysh-Ata Kant",
+      "awayTeam": "Kyrgyzaltyn",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb-schedule",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb-schedule"
+      ],
+      "multiSourceValidated": false
     }
   ],
-  "cachedAt": 1786076874237
+  "cachedAt": 1786160156647
 }
