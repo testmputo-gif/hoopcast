@@ -1,6 +1,23 @@
 {
   "fixtures": [
     {
+      "id": "tsdb-2491619",
+      "league": "NBL Australia",
+      "date": "2026-08-09",
+      "homeTeam": "Fukushima United",
+      "awayTeam": "Kamatamare Sanuki",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb-schedule",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb-schedule"
+      ],
+      "multiSourceValidated": false
+    },
+    {
       "id": "tsdb-2427987",
       "league": "Lega Basket Italy",
       "date": "2026-08-09",
@@ -35,5 +52,5 @@
       "multiSourceValidated": false
     }
   ],
-  "cachedAt": 1786160162136
+  "cachedAt": 1786247170192
 }
