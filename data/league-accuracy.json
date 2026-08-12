@@ -4,8 +4,8 @@
     "gamesTracked": 335
   },
   "WNBA": {
-    "accuracy": null,
-    "gamesTracked": 108
+    "accuracy": 100,
+    "gamesTracked": 109
   },
   "EuroLeague Basketball": {
     "accuracy": null,
