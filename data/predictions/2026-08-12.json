@@ -10,9 +10,9 @@
     "multiSourceValidated": false,
     "prediction": "OVER",
     "expectedTotal": 215.2,
-    "overProbability": 50.2,
-    "underProbability": 49.8,
-    "confidence": 44.2,
+    "overProbability": 51.6,
+    "underProbability": 48.4,
+    "confidence": 45.7,
     "confidenceColor": "red",
     "components": {
       "possession": 215,
@@ -25,62 +25,6 @@
     "status": "scheduled",
     "result": null,
     "actualTotal": null,
-    "generatedAt": "2026-08-11T03:48:04.705Z"
-  },
-  {
-    "id": "tsdb-2449163-2026-08-12",
-    "date": "2026-08-12",
-    "league": "WNBA",
-    "homeTeam": "Las Vegas Aces",
-    "awayTeam": "Washington Mystics",
-    "line": 171,
-    "lineSource": "model-estimated",
-    "multiSourceValidated": false,
-    "prediction": "UNDER",
-    "expectedTotal": 170.1,
-    "overProbability": 47.8,
-    "underProbability": 52.2,
-    "confidence": 43.1,
-    "confidenceColor": "red",
-    "components": {
-      "possession": 173,
-      "trend": 168,
-      "pace": 171,
-      "league": 169,
-      "blended": 170
-    },
-    "monteCarloRuns": 5000,
-    "status": "scheduled",
-    "result": null,
-    "actualTotal": null,
-    "generatedAt": "2026-08-11T03:48:04.416Z"
-  },
-  {
-    "id": "tsdb-2449162-2026-08-12",
-    "date": "2026-08-12",
-    "league": "WNBA",
-    "homeTeam": "Los Angeles Sparks",
-    "awayTeam": "Phoenix Mercury",
-    "line": 172,
-    "lineSource": "model-estimated",
-    "multiSourceValidated": false,
-    "prediction": "UNDER",
-    "expectedTotal": 170.6,
-    "overProbability": 46.4,
-    "underProbability": 53.6,
-    "confidence": 41.5,
-    "confidenceColor": "red",
-    "components": {
-      "possession": 175,
-      "trend": 167,
-      "pace": 172,
-      "league": 169,
-      "blended": 171
-    },
-    "monteCarloRuns": 5000,
-    "status": "scheduled",
-    "result": null,
-    "actualTotal": null,
-    "generatedAt": "2026-08-11T03:48:04.415Z"
+    "generatedAt": "2026-08-12T04:10:55.404Z"
   }
 ]
