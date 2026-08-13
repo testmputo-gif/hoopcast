@@ -23,9 +23,9 @@
       "date": "2026-08-13",
       "homeTeam": "Dallas Wings",
       "awayTeam": "Toronto Tempo",
-      "homeScore": null,
-      "awayScore": null,
-      "totalScore": null,
+      "homeScore": 94,
+      "awayScore": 88,
+      "totalScore": 182,
       "status": "scheduled",
       "source": "thesportsdb",
       "sourceCount": 1,
@@ -35,5 +35,5 @@
       "multiSourceValidated": false
     }
   ],
-  "cachedAt": 1786507837264
+  "cachedAt": 1786594465876
 }
