@@ -6,9 +6,9 @@
       "date": "2026-08-14",
       "homeTeam": "New York Liberty",
       "awayTeam": "Los Angeles Sparks",
-      "homeScore": null,
-      "awayScore": null,
-      "totalScore": null,
+      "homeScore": 85,
+      "awayScore": 81,
+      "totalScore": 166,
       "status": "scheduled",
       "source": "thesportsdb",
       "sourceCount": 1,
@@ -23,9 +23,9 @@
       "date": "2026-08-14",
       "homeTeam": "Las Vegas Aces",
       "awayTeam": "Washington Mystics",
-      "homeScore": null,
-      "awayScore": null,
-      "totalScore": null,
+      "homeScore": 42,
+      "awayScore": 32,
+      "totalScore": 74,
       "status": "scheduled",
       "source": "thesportsdb",
       "sourceCount": 1,
@@ -33,7 +33,41 @@
         "thesportsdb"
       ],
       "multiSourceValidated": false
+    },
+    {
+      "id": "tsdb-2553378",
+      "league": "Basketball Bundesliga",
+      "date": "2026-08-14",
+      "homeTeam": "Feronikeli",
+      "awayTeam": "Gjilani",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb-schedule",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb-schedule"
+      ],
+      "multiSourceValidated": false
+    },
+    {
+      "id": "tsdb-2571444",
+      "league": "France LNB Elite",
+      "date": "2026-08-14",
+      "homeTeam": "Neftchi Kochkor-Ata",
+      "awayTeam": "Abdysh-Ata Kant",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb-schedule",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb-schedule"
+      ],
+      "multiSourceValidated": false
     }
   ],
-  "cachedAt": 1786594472015
+  "cachedAt": 1786680666376
 }
