@@ -1,0 +1,56 @@
+{
+  "fixtures": [
+    {
+      "id": "tsdb-2469384",
+      "league": "WNBA",
+      "date": "2026-08-15",
+      "homeTeam": "Seattle Storm",
+      "awayTeam": "Portland Fire",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb"
+      ],
+      "multiSourceValidated": false
+    },
+    {
+      "id": "tsdb-2491625",
+      "league": "NBL Australia",
+      "date": "2026-08-15",
+      "homeTeam": "FC Gifu",
+      "awayTeam": "Kochi United",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb-schedule",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb-schedule"
+      ],
+      "multiSourceValidated": false
+    },
+    {
+      "id": "tsdb-2427993",
+      "league": "Lega Basket Italy",
+      "date": "2026-08-15",
+      "homeTeam": "SalPa",
+      "awayTeam": "Jazz",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb-schedule",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb-schedule"
+      ],
+      "multiSourceValidated": false
+    }
+  ],
+  "cachedAt": 1786680672407
+}
