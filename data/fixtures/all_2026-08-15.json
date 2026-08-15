@@ -50,7 +50,41 @@
         "thesportsdb-schedule"
       ],
       "multiSourceValidated": false
+    },
+    {
+      "id": "tsdb-2553380",
+      "league": "Basketball Bundesliga",
+      "date": "2026-08-15",
+      "homeTeam": "Drenica",
+      "awayTeam": "Dukagjini",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb-schedule",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb-schedule"
+      ],
+      "multiSourceValidated": false
+    },
+    {
+      "id": "tsdb-2571446",
+      "league": "France LNB Elite",
+      "date": "2026-08-15",
+      "homeTeam": "Ilbirs Bishkek",
+      "awayTeam": "Dordoi Bishkek",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb-schedule",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb-schedule"
+      ],
+      "multiSourceValidated": false
     }
   ],
-  "cachedAt": 1786680672407
+  "cachedAt": 1786762456119
 }
