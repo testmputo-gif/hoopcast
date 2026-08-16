@@ -1,0 +1,56 @@
+{
+  "fixtures": [
+    {
+      "id": "tsdb-2505533",
+      "league": "Mexican LNBP",
+      "date": "2026-08-17",
+      "homeTeam": "Gambusinos de Fresnillo",
+      "awayTeam": "Diablos Rojos del México",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb"
+      ],
+      "multiSourceValidated": false
+    },
+    {
+      "id": "tsdb-2505534",
+      "league": "Mexican LNBP",
+      "date": "2026-08-17",
+      "homeTeam": "Abejas de León",
+      "awayTeam": "Panteras de Aguascalientes",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb"
+      ],
+      "multiSourceValidated": false
+    },
+    {
+      "id": "tsdb-2505535",
+      "league": "Mexican LNBP",
+      "date": "2026-08-17",
+      "homeTeam": "Mineros de Zacatecas",
+      "awayTeam": "Astros de Jalisco",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb"
+      ],
+      "multiSourceValidated": false
+    }
+  ],
+  "cachedAt": 1786849378420
+}
