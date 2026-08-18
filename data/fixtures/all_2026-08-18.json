@@ -18,6 +18,40 @@
       "multiSourceValidated": false
     },
     {
+      "id": "tsdb-2449175",
+      "league": "WNBA",
+      "date": "2026-08-18",
+      "homeTeam": "Connecticut Sun",
+      "awayTeam": "Los Angeles Sparks",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb"
+      ],
+      "multiSourceValidated": false
+    },
+    {
+      "id": "tsdb-2449327",
+      "league": "WNBA",
+      "date": "2026-08-18",
+      "homeTeam": "Toronto Tempo",
+      "awayTeam": "Indiana Fever",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb"
+      ],
+      "multiSourceValidated": false
+    },
+    {
       "id": "tsdb-2493731",
       "league": "EuroLeague",
       "date": "2026-08-18",
@@ -33,7 +67,24 @@
         "thesportsdb-schedule"
       ],
       "multiSourceValidated": false
+    },
+    {
+      "id": "tsdb-2571450",
+      "league": "France LNB Elite",
+      "date": "2026-08-18",
+      "homeTeam": "Toktogul",
+      "awayTeam": "Asiagoal Bishkek",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb-schedule",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb-schedule"
+      ],
+      "multiSourceValidated": false
     }
   ],
-  "cachedAt": 1786935753965
+  "cachedAt": 1787021870646
 }
