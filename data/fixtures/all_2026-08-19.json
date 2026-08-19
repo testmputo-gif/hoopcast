@@ -6,9 +6,9 @@
       "date": "2026-08-19",
       "homeTeam": "Chicago Sky",
       "awayTeam": "New York Liberty",
-      "homeScore": null,
-      "awayScore": null,
-      "totalScore": null,
+      "homeScore": 53,
+      "awayScore": 61,
+      "totalScore": 114,
       "status": "scheduled",
       "source": "thesportsdb",
       "sourceCount": 1,
@@ -23,9 +23,9 @@
       "date": "2026-08-19",
       "homeTeam": "Las Vegas Aces",
       "awayTeam": "Atlanta Dream",
-      "homeScore": null,
-      "awayScore": null,
-      "totalScore": null,
+      "homeScore": 41,
+      "awayScore": 52,
+      "totalScore": 93,
       "status": "scheduled",
       "source": "thesportsdb",
       "sourceCount": 1,
@@ -52,5 +52,5 @@
       "multiSourceValidated": false
     }
   ],
-  "cachedAt": 1787021877199
+  "cachedAt": 1787108388667
 }
