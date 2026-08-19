@@ -7033,6 +7033,34 @@
       "confidenceColor": "red",
       "actualTotal": 198,
       "result": true
+    },
+    {
+      "id": "tsdb-2449175-2026-08-18",
+      "date": "2026-08-18",
+      "league": "WNBA",
+      "homeTeam": "Connecticut Sun",
+      "awayTeam": "Los Angeles Sparks",
+      "prediction": "UNDER",
+      "line": 171,
+      "expectedTotal": 170.5,
+      "confidence": 46.6,
+      "confidenceColor": "red",
+      "actualTotal": 162,
+      "result": true
+    },
+    {
+      "id": "tsdb-2449327-2026-08-18",
+      "date": "2026-08-18",
+      "league": "WNBA",
+      "homeTeam": "Toronto Tempo",
+      "awayTeam": "Indiana Fever",
+      "prediction": "OVER",
+      "line": 175,
+      "expectedTotal": 175.5,
+      "confidence": 45.4,
+      "confidenceColor": "red",
+      "actualTotal": 196,
+      "result": true
     }
   ],
   "accuracy": {
