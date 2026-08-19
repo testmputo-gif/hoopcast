@@ -1,1 +1,86 @@
-[]
+[
+  {
+    "id": "tsdb-2470379-2026-08-20",
+    "date": "2026-08-20",
+    "league": "Vietnam Basketball Association",
+    "homeTeam": "Nha Trang Dolphins",
+    "awayTeam": "Da Nang Dragons",
+    "line": 215,
+    "lineSource": "model-estimated",
+    "multiSourceValidated": false,
+    "prediction": "OVER",
+    "expectedTotal": 215.2,
+    "overProbability": 50.3,
+    "underProbability": 49.7,
+    "confidence": 44.2,
+    "confidenceColor": "red",
+    "components": {
+      "possession": 215,
+      "trend": 214,
+      "pace": 215,
+      "league": 215,
+      "blended": 215
+    },
+    "monteCarloRuns": 5000,
+    "status": "scheduled",
+    "result": null,
+    "actualTotal": null,
+    "generatedAt": "2026-08-19T03:00:11.883Z"
+  },
+  {
+    "id": "tsdb-2505538-2026-08-20",
+    "date": "2026-08-20",
+    "league": "Mexican LNBP",
+    "homeTeam": "Dorados de Chihuahua",
+    "awayTeam": "Abejas de León",
+    "line": 215,
+    "lineSource": "model-estimated",
+    "multiSourceValidated": false,
+    "prediction": "UNDER",
+    "expectedTotal": 215.2,
+    "overProbability": 49.9,
+    "underProbability": 50.1,
+    "confidence": 44,
+    "confidenceColor": "red",
+    "components": {
+      "possession": 215,
+      "trend": 214,
+      "pace": 215,
+      "league": 215,
+      "blended": 215
+    },
+    "monteCarloRuns": 5000,
+    "status": "scheduled",
+    "result": null,
+    "actualTotal": null,
+    "generatedAt": "2026-08-19T03:00:12.239Z"
+  },
+  {
+    "id": "tsdb-2449178-2026-08-20",
+    "date": "2026-08-20",
+    "league": "WNBA",
+    "homeTeam": "Golden State Valkyries",
+    "awayTeam": "Minnesota Lynx",
+    "line": 165.5,
+    "lineSource": "model-estimated",
+    "multiSourceValidated": false,
+    "prediction": "OVER",
+    "expectedTotal": 167.5,
+    "overProbability": 52.5,
+    "underProbability": 47.5,
+    "confidence": 40.4,
+    "confidenceColor": "red",
+    "components": {
+      "possession": 161,
+      "trend": 175,
+      "pace": 165,
+      "league": 169,
+      "blended": 167
+    },
+    "monteCarloRuns": 5000,
+    "status": "scheduled",
+    "result": null,
+    "actualTotal": null,
+    "generatedAt": "2026-08-19T03:00:11.530Z"
+  }
+]
