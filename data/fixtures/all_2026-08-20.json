@@ -1,0 +1,56 @@
+{
+  "fixtures": [
+    {
+      "id": "tsdb-2449178",
+      "league": "WNBA",
+      "date": "2026-08-20",
+      "homeTeam": "Golden State Valkyries",
+      "awayTeam": "Minnesota Lynx",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb"
+      ],
+      "multiSourceValidated": false
+    },
+    {
+      "id": "tsdb-2470379",
+      "league": "Vietnam Basketball Association",
+      "date": "2026-08-20",
+      "homeTeam": "Nha Trang Dolphins",
+      "awayTeam": "Da Nang Dragons",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb"
+      ],
+      "multiSourceValidated": false
+    },
+    {
+      "id": "tsdb-2505538",
+      "league": "Mexican LNBP",
+      "date": "2026-08-20",
+      "homeTeam": "Dorados de Chihuahua",
+      "awayTeam": "Abejas de León",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb"
+      ],
+      "multiSourceValidated": false
+    }
+  ],
+  "cachedAt": 1787108394184
+}
