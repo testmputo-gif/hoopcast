@@ -50,10 +50,12 @@
       "blended": 171
     },
     "monteCarloRuns": 5000,
-    "status": "scheduled",
-    "result": null,
-    "actualTotal": null,
-    "generatedAt": "2026-08-18T02:58:09.814Z"
+    "status": "completed",
+    "result": true,
+    "actualTotal": 162,
+    "generatedAt": "2026-08-18T02:58:09.814Z",
+    "actualHome": 85,
+    "actualAway": 77
   },
   {
     "id": "tsdb-2449327-2026-08-18",
@@ -78,10 +80,12 @@
       "blended": 176
     },
     "monteCarloRuns": 5000,
-    "status": "scheduled",
-    "result": null,
-    "actualTotal": null,
-    "generatedAt": "2026-08-18T02:58:09.815Z"
+    "status": "completed",
+    "result": true,
+    "actualTotal": 196,
+    "generatedAt": "2026-08-18T02:58:09.815Z",
+    "actualHome": 95,
+    "actualAway": 101
   },
   {
     "id": "tsdb-2571450-2026-08-18",
