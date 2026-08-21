@@ -6,9 +6,9 @@
       "date": "2026-08-21",
       "homeTeam": "Dallas Wings",
       "awayTeam": "Indiana Fever",
-      "homeScore": null,
-      "awayScore": null,
-      "totalScore": null,
+      "homeScore": 91,
+      "awayScore": 85,
+      "totalScore": 176,
       "status": "scheduled",
       "source": "thesportsdb",
       "sourceCount": 1,
@@ -23,9 +23,9 @@
       "date": "2026-08-21",
       "homeTeam": "Los Angeles Sparks",
       "awayTeam": "Atlanta Dream",
-      "homeScore": null,
-      "awayScore": null,
-      "totalScore": null,
+      "homeScore": 23,
+      "awayScore": 47,
+      "totalScore": 70,
       "status": "scheduled",
       "source": "thesportsdb",
       "sourceCount": 1,
@@ -40,9 +40,9 @@
       "date": "2026-08-21",
       "homeTeam": "Las Vegas Aces",
       "awayTeam": "Connecticut Sun",
-      "homeScore": null,
-      "awayScore": null,
-      "totalScore": null,
+      "homeScore": 37,
+      "awayScore": 37,
+      "totalScore": 74,
       "status": "scheduled",
       "source": "thesportsdb",
       "sourceCount": 1,
@@ -84,7 +84,24 @@
         "thesportsdb-schedule"
       ],
       "multiSourceValidated": false
+    },
+    {
+      "id": "tsdb-2579876",
+      "league": "Basketball Bundesliga",
+      "date": "2026-08-21",
+      "homeTeam": "Malisheva",
+      "awayTeam": "Drenica",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb-schedule",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb-schedule"
+      ],
+      "multiSourceValidated": false
     }
   ],
-  "cachedAt": 1787194755884
+  "cachedAt": 1787281538785
 }
