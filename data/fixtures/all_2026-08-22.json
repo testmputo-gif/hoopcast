@@ -1,31 +1,14 @@
 {
   "fixtures": [
     {
-      "id": "tsdb-2449184",
-      "league": "WNBA",
-      "date": "2026-08-22",
-      "homeTeam": "New York Liberty",
-      "awayTeam": "Indiana Fever",
-      "homeScore": null,
-      "awayScore": null,
-      "totalScore": null,
-      "status": "scheduled",
-      "source": "thesportsdb",
-      "sourceCount": 1,
-      "sources": [
-        "thesportsdb"
-      ],
-      "multiSourceValidated": false
-    },
-    {
       "id": "tsdb-2469386",
       "league": "WNBA",
       "date": "2026-08-22",
       "homeTeam": "Toronto Tempo",
       "awayTeam": "Portland Fire",
-      "homeScore": null,
-      "awayScore": null,
-      "totalScore": null,
+      "homeScore": 25,
+      "awayScore": 30,
+      "totalScore": 55,
       "status": "scheduled",
       "source": "thesportsdb",
       "sourceCount": 1,
@@ -67,7 +50,58 @@
         "thesportsdb-schedule"
       ],
       "multiSourceValidated": false
+    },
+    {
+      "id": "tsdb-2569570",
+      "league": "ACB Spain",
+      "date": "2026-08-22",
+      "homeTeam": "Lions Gibraltar",
+      "awayTeam": "FCB Magpies",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb-schedule",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb-schedule"
+      ],
+      "multiSourceValidated": false
+    },
+    {
+      "id": "tsdb-2428001",
+      "league": "Lega Basket Italy",
+      "date": "2026-08-22",
+      "homeTeam": "Tampere United",
+      "awayTeam": "RoPS",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb-schedule",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb-schedule"
+      ],
+      "multiSourceValidated": false
+    },
+    {
+      "id": "tsdb-2579877",
+      "league": "Basketball Bundesliga",
+      "date": "2026-08-22",
+      "homeTeam": "Ballkani",
+      "awayTeam": "Vushtrria",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb-schedule",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb-schedule"
+      ],
+      "multiSourceValidated": false
     }
   ],
-  "cachedAt": 1787281544347
+  "cachedAt": 1787367394186
 }
