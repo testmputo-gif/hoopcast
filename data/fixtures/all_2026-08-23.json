@@ -67,7 +67,75 @@
         "thesportsdb-schedule"
       ],
       "multiSourceValidated": false
+    },
+    {
+      "id": "tsdb-2492410",
+      "league": "NBL Australia",
+      "date": "2026-08-23",
+      "homeTeam": "Sagamihara",
+      "awayTeam": "Zweigen Kanazawa",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb-schedule",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb-schedule"
+      ],
+      "multiSourceValidated": false
+    },
+    {
+      "id": "tsdb-2569572",
+      "league": "ACB Spain",
+      "date": "2026-08-23",
+      "homeTeam": "Lynx",
+      "awayTeam": "Europa Point",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb-schedule",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb-schedule"
+      ],
+      "multiSourceValidated": false
+    },
+    {
+      "id": "tsdb-2428003",
+      "league": "Lega Basket Italy",
+      "date": "2026-08-23",
+      "homeTeam": "VJS",
+      "awayTeam": "Jazz",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb-schedule",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb-schedule"
+      ],
+      "multiSourceValidated": false
+    },
+    {
+      "id": "tsdb-2579879",
+      "league": "Basketball Bundesliga",
+      "date": "2026-08-23",
+      "homeTeam": "Llapi",
+      "awayTeam": "Gjilani",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb-schedule",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb-schedule"
+      ],
+      "multiSourceValidated": false
     }
   ],
-  "cachedAt": 1787367400700
+  "cachedAt": 1787454324600
 }
