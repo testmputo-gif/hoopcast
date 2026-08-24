@@ -1,1 +1,58 @@
-[]
+[
+  {
+    "id": "tsdb-2449190-2026-08-25",
+    "date": "2026-08-25",
+    "league": "WNBA",
+    "homeTeam": "Los Angeles Sparks",
+    "awayTeam": "Atlanta Dream",
+    "line": 170,
+    "lineSource": "model-estimated",
+    "multiSourceValidated": false,
+    "prediction": "UNDER",
+    "expectedTotal": 169.5,
+    "overProbability": 49.3,
+    "underProbability": 50.7,
+    "confidence": 52,
+    "confidenceColor": "red",
+    "components": {
+      "possession": 170,
+      "trend": 171,
+      "pace": 170,
+      "league": 169,
+      "blended": 169
+    },
+    "monteCarloRuns": 5000,
+    "status": "scheduled",
+    "result": null,
+    "actualTotal": null,
+    "generatedAt": "2026-08-24T03:06:29.581Z"
+  },
+  {
+    "id": "tsdb-2449189-2026-08-25",
+    "date": "2026-08-25",
+    "league": "WNBA",
+    "homeTeam": "Minnesota Lynx",
+    "awayTeam": "Golden State Valkyries",
+    "line": 165.5,
+    "lineSource": "model-estimated",
+    "multiSourceValidated": false,
+    "prediction": "OVER",
+    "expectedTotal": 167.4,
+    "overProbability": 53.4,
+    "underProbability": 46.6,
+    "confidence": 41.7,
+    "confidenceColor": "red",
+    "components": {
+      "possession": 161,
+      "trend": 175,
+      "pace": 165,
+      "league": 169,
+      "blended": 167
+    },
+    "monteCarloRuns": 5000,
+    "status": "scheduled",
+    "result": null,
+    "actualTotal": null,
+    "generatedAt": "2026-08-24T03:06:29.580Z"
+  }
+]
