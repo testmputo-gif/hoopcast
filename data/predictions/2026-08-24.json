@@ -1,1 +1,58 @@
-[]
+[
+  {
+    "id": "tsdb-2582264-2026-08-24",
+    "date": "2026-08-24",
+    "league": "France LNB Elite",
+    "homeTeam": "Bishkek City",
+    "awayTeam": "Alga Bishkek",
+    "line": 215,
+    "lineSource": "model-estimated",
+    "multiSourceValidated": false,
+    "prediction": "OVER",
+    "expectedTotal": 215.2,
+    "overProbability": 52.1,
+    "underProbability": 47.9,
+    "confidence": 46.2,
+    "confidenceColor": "red",
+    "components": {
+      "possession": 215,
+      "trend": 214,
+      "pace": 215,
+      "league": 215,
+      "blended": 215
+    },
+    "monteCarloRuns": 5000,
+    "status": "scheduled",
+    "result": null,
+    "actualTotal": null,
+    "generatedAt": "2026-08-24T03:06:28.524Z"
+  },
+  {
+    "id": "tsdb-2493740-2026-08-24",
+    "date": "2026-08-24",
+    "league": "EuroLeague",
+    "homeTeam": "Maccabi Akhi Nazareth",
+    "awayTeam": "Hapoel Afula",
+    "line": 215,
+    "lineSource": "model-estimated",
+    "multiSourceValidated": false,
+    "prediction": "OVER",
+    "expectedTotal": 215.2,
+    "overProbability": 50.9,
+    "underProbability": 49.1,
+    "confidence": 44.9,
+    "confidenceColor": "red",
+    "components": {
+      "possession": 215,
+      "trend": 214,
+      "pace": 215,
+      "league": 215,
+      "blended": 215
+    },
+    "monteCarloRuns": 5000,
+    "status": "scheduled",
+    "result": null,
+    "actualTotal": null,
+    "generatedAt": "2026-08-24T03:06:27.974Z"
+  }
+]
