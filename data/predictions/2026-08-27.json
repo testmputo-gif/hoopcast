@@ -1,1 +1,86 @@
-[]
+[
+  {
+    "id": "tsdb-2449330-2026-08-27",
+    "date": "2026-08-27",
+    "league": "WNBA",
+    "homeTeam": "Seattle Storm",
+    "awayTeam": "Toronto Tempo",
+    "line": 167.5,
+    "lineSource": "model-estimated",
+    "multiSourceValidated": false,
+    "prediction": "UNDER",
+    "expectedTotal": 166.6,
+    "overProbability": 48.8,
+    "underProbability": 51.2,
+    "confidence": 49.9,
+    "confidenceColor": "red",
+    "components": {
+      "possession": 165,
+      "trend": 164,
+      "pace": 167,
+      "league": 169,
+      "blended": 167
+    },
+    "monteCarloRuns": 5000,
+    "status": "scheduled",
+    "result": null,
+    "actualTotal": null,
+    "generatedAt": "2026-08-26T03:08:38.537Z"
+  },
+  {
+    "id": "tsdb-2470383-2026-08-27",
+    "date": "2026-08-27",
+    "league": "Vietnam Basketball Association",
+    "homeTeam": "Ho Chi Minh City Wings",
+    "awayTeam": "Can Tho Catfish",
+    "line": 215,
+    "lineSource": "model-estimated",
+    "multiSourceValidated": false,
+    "prediction": "OVER",
+    "expectedTotal": 215.2,
+    "overProbability": 51.8,
+    "underProbability": 48.2,
+    "confidence": 45.9,
+    "confidenceColor": "red",
+    "components": {
+      "possession": 215,
+      "trend": 214,
+      "pace": 215,
+      "league": 215,
+      "blended": 215
+    },
+    "monteCarloRuns": 5000,
+    "status": "scheduled",
+    "result": null,
+    "actualTotal": null,
+    "generatedAt": "2026-08-26T03:08:39.096Z"
+  },
+  {
+    "id": "tsdb-2517654-2026-08-27",
+    "date": "2026-08-27",
+    "league": "FIBA Basketball World Cup",
+    "homeTeam": "Tunisia Basketball",
+    "awayTeam": "Cape Verde Basketball",
+    "line": 215,
+    "lineSource": "model-estimated",
+    "multiSourceValidated": false,
+    "prediction": "UNDER",
+    "expectedTotal": 215.2,
+    "overProbability": 49.7,
+    "underProbability": 50.3,
+    "confidence": 44.3,
+    "confidenceColor": "red",
+    "components": {
+      "possession": 215,
+      "trend": 214,
+      "pace": 215,
+      "league": 215,
+      "blended": 215
+    },
+    "monteCarloRuns": 5000,
+    "status": "scheduled",
+    "result": null,
+    "actualTotal": null,
+    "generatedAt": "2026-08-26T03:08:39.587Z"
+  }
+]
