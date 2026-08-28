@@ -10,9 +10,9 @@
     "multiSourceValidated": false,
     "prediction": "OVER",
     "expectedTotal": 171.5,
-    "overProbability": 51.7,
-    "underProbability": 48.3,
-    "confidence": 52.2,
+    "overProbability": 52.2,
+    "underProbability": 47.8,
+    "confidence": 52.9,
     "confidenceColor": "red",
     "components": {
       "possession": 172,
@@ -25,7 +25,7 @@
     "status": "scheduled",
     "result": null,
     "actualTotal": null,
-    "generatedAt": "2026-08-27T12:36:41.958Z"
+    "generatedAt": "2026-08-28T14:08:01.491Z"
   },
   {
     "id": "tsdb-2449195-2026-08-28",
@@ -38,9 +38,9 @@
     "multiSourceValidated": false,
     "prediction": "UNDER",
     "expectedTotal": 166.6,
-    "overProbability": 46.8,
-    "underProbability": 53.2,
-    "confidence": 49.3,
+    "overProbability": 47.6,
+    "underProbability": 52.4,
+    "confidence": 48.3,
     "confidenceColor": "red",
     "components": {
       "possession": 165,
@@ -53,7 +53,7 @@
     "status": "scheduled",
     "result": null,
     "actualTotal": null,
-    "generatedAt": "2026-08-27T12:36:41.958Z"
+    "generatedAt": "2026-08-28T14:08:01.491Z"
   },
   {
     "id": "tsdb-2449194-2026-08-28",
@@ -66,9 +66,9 @@
     "multiSourceValidated": false,
     "prediction": "UNDER",
     "expectedTotal": 167.4,
-    "overProbability": 49.5,
-    "underProbability": 50.5,
-    "confidence": 45.8,
+    "overProbability": 49,
+    "underProbability": 51,
+    "confidence": 46.5,
     "confidenceColor": "red",
     "components": {
       "possession": 166,
@@ -81,7 +81,7 @@
     "status": "scheduled",
     "result": null,
     "actualTotal": null,
-    "generatedAt": "2026-08-27T12:36:41.957Z"
+    "generatedAt": "2026-08-28T14:08:01.490Z"
   },
   {
     "id": "tsdb-2569573-2026-08-28",
@@ -94,9 +94,9 @@
     "multiSourceValidated": false,
     "prediction": "UNDER",
     "expectedTotal": 215.2,
-    "overProbability": 49.4,
-    "underProbability": 50.6,
-    "confidence": 44.6,
+    "overProbability": 49.3,
+    "underProbability": 50.7,
+    "confidence": 44.7,
     "confidenceColor": "red",
     "components": {
       "possession": 215,
@@ -109,6 +109,34 @@
     "status": "scheduled",
     "result": null,
     "actualTotal": null,
-    "generatedAt": "2026-08-27T12:36:42.578Z"
+    "generatedAt": "2026-08-28T14:08:01.987Z"
+  },
+  {
+    "id": "tsdb-2592838-2026-08-28",
+    "date": "2026-08-28",
+    "league": "Basketball Bundesliga",
+    "homeTeam": "Drenica",
+    "awayTeam": "Ballkani",
+    "line": 215,
+    "lineSource": "model-estimated",
+    "multiSourceValidated": false,
+    "prediction": "OVER",
+    "expectedTotal": 215.2,
+    "overProbability": 50,
+    "underProbability": 50,
+    "confidence": 44,
+    "confidenceColor": "red",
+    "components": {
+      "possession": 215,
+      "trend": 214,
+      "pace": 215,
+      "league": 215,
+      "blended": 215
+    },
+    "monteCarloRuns": 5000,
+    "status": "scheduled",
+    "result": null,
+    "actualTotal": null,
+    "generatedAt": "2026-08-28T14:08:02.329Z"
   }
 ]
