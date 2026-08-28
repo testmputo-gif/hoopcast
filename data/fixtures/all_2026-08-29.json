@@ -1,0 +1,73 @@
+{
+  "fixtures": [
+    {
+      "id": "tsdb-2449197",
+      "league": "WNBA",
+      "date": "2026-08-29",
+      "homeTeam": "Los Angeles Sparks",
+      "awayTeam": "Washington Mystics",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb"
+      ],
+      "multiSourceValidated": false
+    },
+    {
+      "id": "tsdb-2449331",
+      "league": "WNBA",
+      "date": "2026-08-29",
+      "homeTeam": "Las Vegas Aces",
+      "awayTeam": "Toronto Tempo",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb"
+      ],
+      "multiSourceValidated": false
+    },
+    {
+      "id": "tsdb-2491634",
+      "league": "NBL Australia",
+      "date": "2026-08-29",
+      "homeTeam": "Kamatamare Sanuki",
+      "awayTeam": "Kagoshima United",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb-schedule",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb-schedule"
+      ],
+      "multiSourceValidated": false
+    },
+    {
+      "id": "tsdb-2428005",
+      "league": "Lega Basket Italy",
+      "date": "2026-08-29",
+      "homeTeam": "Jazz",
+      "awayTeam": "Inter Turku II",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb-schedule",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb-schedule"
+      ],
+      "multiSourceValidated": false
+    }
+  ],
+  "cachedAt": 1787926064795
+}
