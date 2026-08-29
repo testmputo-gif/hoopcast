@@ -1,5 +1,33 @@
 [
   {
+    "id": "tsdb-2449198-2026-08-29",
+    "date": "2026-08-29",
+    "league": "WNBA",
+    "homeTeam": "New York Liberty",
+    "awayTeam": "Chicago Sky",
+    "line": 169.5,
+    "lineSource": "model-estimated",
+    "multiSourceValidated": false,
+    "prediction": "UNDER",
+    "expectedTotal": 166.5,
+    "overProbability": 43.4,
+    "underProbability": 56.6,
+    "confidence": 52.5,
+    "confidenceColor": "red",
+    "components": {
+      "possession": 170,
+      "trend": 163,
+      "pace": 170,
+      "league": 169,
+      "blended": 167
+    },
+    "monteCarloRuns": 5000,
+    "status": "scheduled",
+    "result": null,
+    "actualTotal": null,
+    "generatedAt": "2026-08-29T08:45:53.962Z"
+  },
+  {
     "id": "tsdb-2449197-2026-08-29",
     "date": "2026-08-29",
     "league": "WNBA",
@@ -10,9 +38,9 @@
     "multiSourceValidated": false,
     "prediction": "UNDER",
     "expectedTotal": 169.2,
-    "overProbability": 45.3,
-    "underProbability": 54.7,
-    "confidence": 49.8,
+    "overProbability": 46.3,
+    "underProbability": 53.7,
+    "confidence": 48.5,
     "confidenceColor": "red",
     "components": {
       "possession": 173,
@@ -25,7 +53,7 @@
     "status": "scheduled",
     "result": null,
     "actualTotal": null,
-    "generatedAt": "2026-08-28T14:08:03.164Z"
+    "generatedAt": "2026-08-29T08:45:53.961Z"
   },
   {
     "id": "tsdb-2449331-2026-08-29",
@@ -38,9 +66,9 @@
     "multiSourceValidated": false,
     "prediction": "OVER",
     "expectedTotal": 176.2,
-    "overProbability": 52,
-    "underProbability": 48,
-    "confidence": 46.4,
+    "overProbability": 51.3,
+    "underProbability": 48.7,
+    "confidence": 45.6,
     "confidenceColor": "red",
     "components": {
       "possession": 182,
@@ -53,7 +81,7 @@
     "status": "scheduled",
     "result": null,
     "actualTotal": null,
-    "generatedAt": "2026-08-28T14:08:03.165Z"
+    "generatedAt": "2026-08-29T08:45:53.963Z"
   },
   {
     "id": "tsdb-2491634-2026-08-29",
@@ -66,9 +94,9 @@
     "multiSourceValidated": false,
     "prediction": "OVER",
     "expectedTotal": 215.2,
-    "overProbability": 52,
-    "underProbability": 48,
-    "confidence": 46.1,
+    "overProbability": 51.5,
+    "underProbability": 48.5,
+    "confidence": 45.6,
     "confidenceColor": "red",
     "components": {
       "possession": 215,
@@ -81,7 +109,35 @@
     "status": "scheduled",
     "result": null,
     "actualTotal": null,
-    "generatedAt": "2026-08-28T14:08:03.676Z"
+    "generatedAt": "2026-08-29T08:45:54.335Z"
+  },
+  {
+    "id": "tsdb-2569574-2026-08-29",
+    "date": "2026-08-29",
+    "league": "ACB Spain",
+    "homeTeam": "College 1975",
+    "awayTeam": "Lions Gibraltar",
+    "line": 215,
+    "lineSource": "model-estimated",
+    "multiSourceValidated": false,
+    "prediction": "OVER",
+    "expectedTotal": 215.2,
+    "overProbability": 50.7,
+    "underProbability": 49.3,
+    "confidence": 44.7,
+    "confidenceColor": "red",
+    "components": {
+      "possession": 215,
+      "trend": 214,
+      "pace": 215,
+      "league": 215,
+      "blended": 215
+    },
+    "monteCarloRuns": 5000,
+    "status": "scheduled",
+    "result": null,
+    "actualTotal": null,
+    "generatedAt": "2026-08-29T08:45:54.707Z"
   },
   {
     "id": "tsdb-2428005-2026-08-29",
@@ -94,9 +150,9 @@
     "multiSourceValidated": false,
     "prediction": "OVER",
     "expectedTotal": 215.2,
-    "overProbability": 50.8,
-    "underProbability": 49.2,
-    "confidence": 44.8,
+    "overProbability": 50.6,
+    "underProbability": 49.4,
+    "confidence": 44.6,
     "confidenceColor": "red",
     "components": {
       "possession": 215,
@@ -109,6 +165,62 @@
     "status": "scheduled",
     "result": null,
     "actualTotal": null,
-    "generatedAt": "2026-08-28T14:08:04.151Z"
+    "generatedAt": "2026-08-29T08:45:55.095Z"
+  },
+  {
+    "id": "tsdb-2594445-2026-08-29",
+    "date": "2026-08-29",
+    "league": "France LNB Elite",
+    "homeTeam": "Toktogul",
+    "awayTeam": "Kyrgyzaltyn",
+    "line": 215,
+    "lineSource": "model-estimated",
+    "multiSourceValidated": false,
+    "prediction": "UNDER",
+    "expectedTotal": 215.2,
+    "overProbability": 49.8,
+    "underProbability": 50.2,
+    "confidence": 44.2,
+    "confidenceColor": "red",
+    "components": {
+      "possession": 215,
+      "trend": 214,
+      "pace": 215,
+      "league": 215,
+      "blended": 215
+    },
+    "monteCarloRuns": 5000,
+    "status": "scheduled",
+    "result": null,
+    "actualTotal": null,
+    "generatedAt": "2026-08-29T08:45:55.845Z"
+  },
+  {
+    "id": "tsdb-2592839-2026-08-29",
+    "date": "2026-08-29",
+    "league": "Basketball Bundesliga",
+    "homeTeam": "Feronikeli",
+    "awayTeam": "Malisheva",
+    "line": 215,
+    "lineSource": "model-estimated",
+    "multiSourceValidated": false,
+    "prediction": "OVER",
+    "expectedTotal": 215.2,
+    "overProbability": 50.1,
+    "underProbability": 49.9,
+    "confidence": 44.1,
+    "confidenceColor": "red",
+    "components": {
+      "possession": 215,
+      "trend": 214,
+      "pace": 215,
+      "league": 215,
+      "blended": 215
+    },
+    "monteCarloRuns": 5000,
+    "status": "scheduled",
+    "result": null,
+    "actualTotal": null,
+    "generatedAt": "2026-08-29T08:45:55.462Z"
   }
 ]
