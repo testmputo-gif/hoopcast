@@ -6,6 +6,23 @@
       "date": "2026-08-29",
       "homeTeam": "Los Angeles Sparks",
       "awayTeam": "Washington Mystics",
+      "homeScore": 82,
+      "awayScore": 88,
+      "totalScore": 170,
+      "status": "scheduled",
+      "source": "thesportsdb",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb"
+      ],
+      "multiSourceValidated": false
+    },
+    {
+      "id": "tsdb-2449198",
+      "league": "WNBA",
+      "date": "2026-08-29",
+      "homeTeam": "New York Liberty",
+      "awayTeam": "Chicago Sky",
       "homeScore": null,
       "awayScore": null,
       "totalScore": null,
@@ -23,9 +40,9 @@
       "date": "2026-08-29",
       "homeTeam": "Las Vegas Aces",
       "awayTeam": "Toronto Tempo",
-      "homeScore": null,
-      "awayScore": null,
-      "totalScore": null,
+      "homeScore": 93,
+      "awayScore": 73,
+      "totalScore": 166,
       "status": "scheduled",
       "source": "thesportsdb",
       "sourceCount": 1,
@@ -40,6 +57,23 @@
       "date": "2026-08-29",
       "homeTeam": "Kamatamare Sanuki",
       "awayTeam": "Kagoshima United",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb-schedule",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb-schedule"
+      ],
+      "multiSourceValidated": false
+    },
+    {
+      "id": "tsdb-2569574",
+      "league": "ACB Spain",
+      "date": "2026-08-29",
+      "homeTeam": "College 1975",
+      "awayTeam": "Lions Gibraltar",
       "homeScore": null,
       "awayScore": null,
       "totalScore": null,
@@ -67,7 +101,41 @@
         "thesportsdb-schedule"
       ],
       "multiSourceValidated": false
+    },
+    {
+      "id": "tsdb-2592839",
+      "league": "Basketball Bundesliga",
+      "date": "2026-08-29",
+      "homeTeam": "Feronikeli",
+      "awayTeam": "Malisheva",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb-schedule",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb-schedule"
+      ],
+      "multiSourceValidated": false
+    },
+    {
+      "id": "tsdb-2594445",
+      "league": "France LNB Elite",
+      "date": "2026-08-29",
+      "homeTeam": "Toktogul",
+      "awayTeam": "Kyrgyzaltyn",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb-schedule",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb-schedule"
+      ],
+      "multiSourceValidated": false
     }
   ],
-  "cachedAt": 1787926064795
+  "cachedAt": 1787993129277
 }
