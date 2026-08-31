@@ -8,11 +8,11 @@
     "line": 170,
     "lineSource": "model-estimated",
     "multiSourceValidated": false,
-    "prediction": "OVER",
+    "prediction": "UNDER",
     "expectedTotal": 170,
-    "overProbability": 50.3,
-    "underProbability": 49.7,
-    "confidence": 49.9,
+    "overProbability": 49.3,
+    "underProbability": 50.7,
+    "confidence": 50.5,
     "confidenceColor": "red",
     "components": {
       "possession": 171,
@@ -25,21 +25,49 @@
     "status": "scheduled",
     "result": null,
     "actualTotal": null,
-    "generatedAt": "2026-08-30T08:03:44.585Z"
+    "generatedAt": "2026-08-31T08:20:44.219Z"
   },
   {
-    "id": "tsdb-2505574-2026-08-31",
+    "id": "tsdb-2493747-2026-08-31",
     "date": "2026-08-31",
-    "league": "Mexican LNBP",
-    "homeTeam": "Freseros de Irapuato",
-    "awayTeam": "Astros de Jalisco",
+    "league": "EuroLeague",
+    "homeTeam": "Hapoel Akko",
+    "awayTeam": "Bnei Yehuda",
     "line": 215,
     "lineSource": "model-estimated",
     "multiSourceValidated": false,
     "prediction": "OVER",
     "expectedTotal": 215.2,
-    "overProbability": 50.8,
-    "underProbability": 49.2,
+    "overProbability": 51.1,
+    "underProbability": 48.9,
+    "confidence": 45.2,
+    "confidenceColor": "red",
+    "components": {
+      "possession": 215,
+      "trend": 214,
+      "pace": 215,
+      "league": 215,
+      "blended": 215
+    },
+    "monteCarloRuns": 5000,
+    "status": "scheduled",
+    "result": null,
+    "actualTotal": null,
+    "generatedAt": "2026-08-31T08:20:45.512Z"
+  },
+  {
+    "id": "tsdb-2594448-2026-08-31",
+    "date": "2026-08-31",
+    "league": "France LNB Elite",
+    "homeTeam": "Alay Osh",
+    "awayTeam": "Asiagoal Bishkek",
+    "line": 215,
+    "lineSource": "model-estimated",
+    "multiSourceValidated": false,
+    "prediction": "UNDER",
+    "expectedTotal": 215.2,
+    "overProbability": 49.2,
+    "underProbability": 50.8,
     "confidence": 44.8,
     "confidenceColor": "red",
     "components": {
@@ -53,7 +81,7 @@
     "status": "scheduled",
     "result": null,
     "actualTotal": null,
-    "generatedAt": "2026-08-30T08:03:45.042Z"
+    "generatedAt": "2026-08-31T08:20:45.929Z"
   },
   {
     "id": "tsdb-2505575-2026-08-31",
@@ -66,9 +94,9 @@
     "multiSourceValidated": false,
     "prediction": "OVER",
     "expectedTotal": 215.2,
-    "overProbability": 50.5,
-    "underProbability": 49.5,
-    "confidence": 44.5,
+    "overProbability": 50.3,
+    "underProbability": 49.7,
+    "confidence": 44.2,
     "confidenceColor": "red",
     "components": {
       "possession": 215,
@@ -81,6 +109,34 @@
     "status": "scheduled",
     "result": null,
     "actualTotal": null,
-    "generatedAt": "2026-08-30T08:03:45.485Z"
+    "generatedAt": "2026-08-31T08:20:44.981Z"
+  },
+  {
+    "id": "tsdb-2505574-2026-08-31",
+    "date": "2026-08-31",
+    "league": "Mexican LNBP",
+    "homeTeam": "Freseros de Irapuato",
+    "awayTeam": "Astros de Jalisco",
+    "line": 215,
+    "lineSource": "model-estimated",
+    "multiSourceValidated": false,
+    "prediction": "UNDER",
+    "expectedTotal": 215.2,
+    "overProbability": 49.9,
+    "underProbability": 50.1,
+    "confidence": 44.1,
+    "confidenceColor": "red",
+    "components": {
+      "possession": 215,
+      "trend": 214,
+      "pace": 215,
+      "league": 215,
+      "blended": 215
+    },
+    "monteCarloRuns": 5000,
+    "status": "scheduled",
+    "result": null,
+    "actualTotal": null,
+    "generatedAt": "2026-08-31T08:20:44.593Z"
   }
 ]
