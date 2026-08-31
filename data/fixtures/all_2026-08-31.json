@@ -6,9 +6,9 @@
       "date": "2026-08-31",
       "homeTeam": "Dallas Wings",
       "awayTeam": "Connecticut Sun",
-      "homeScore": null,
-      "awayScore": null,
-      "totalScore": null,
+      "homeScore": 97,
+      "awayScore": 71,
+      "totalScore": 168,
       "status": "scheduled",
       "source": "thesportsdb",
       "sourceCount": 1,
@@ -23,9 +23,9 @@
       "date": "2026-08-31",
       "homeTeam": "Freseros de Irapuato",
       "awayTeam": "Astros de Jalisco",
-      "homeScore": null,
-      "awayScore": null,
-      "totalScore": null,
+      "homeScore": 67,
+      "awayScore": 77,
+      "totalScore": 144,
       "status": "scheduled",
       "source": "thesportsdb",
       "sourceCount": 1,
@@ -40,9 +40,9 @@
       "date": "2026-08-31",
       "homeTeam": "Gambusinos de Fresnillo",
       "awayTeam": "Lobos de Puebla",
-      "homeScore": null,
-      "awayScore": null,
-      "totalScore": null,
+      "homeScore": 75,
+      "awayScore": 85,
+      "totalScore": 160,
       "status": "scheduled",
       "source": "thesportsdb",
       "sourceCount": 1,
@@ -50,7 +50,41 @@
         "thesportsdb"
       ],
       "multiSourceValidated": false
+    },
+    {
+      "id": "tsdb-2493747",
+      "league": "EuroLeague",
+      "date": "2026-08-31",
+      "homeTeam": "Hapoel Akko",
+      "awayTeam": "Bnei Yehuda",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb-schedule",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb-schedule"
+      ],
+      "multiSourceValidated": false
+    },
+    {
+      "id": "tsdb-2594448",
+      "league": "France LNB Elite",
+      "date": "2026-08-31",
+      "homeTeam": "Alay Osh",
+      "awayTeam": "Asiagoal Bishkek",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb-schedule",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb-schedule"
+      ],
+      "multiSourceValidated": false
     }
   ],
-  "cachedAt": 1788077004561
+  "cachedAt": 1788164419616
 }
