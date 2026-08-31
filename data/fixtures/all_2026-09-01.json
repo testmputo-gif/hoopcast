@@ -1,0 +1,56 @@
+{
+  "fixtures": [
+    {
+      "id": "tsdb-2519633",
+      "league": "FIBA Basketball World Cup",
+      "date": "2026-09-01",
+      "homeTeam": "Bahamas Basketball",
+      "awayTeam": "Panama Basketball",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb"
+      ],
+      "multiSourceValidated": false
+    },
+    {
+      "id": "tsdb-2526099",
+      "league": "FIBA Basketball World Cup",
+      "date": "2026-09-01",
+      "homeTeam": "Dominican Republic Basketball",
+      "awayTeam": "Chile Basketball",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb"
+      ],
+      "multiSourceValidated": false
+    },
+    {
+      "id": "tsdb-2526100",
+      "league": "FIBA Basketball World Cup",
+      "date": "2026-09-01",
+      "homeTeam": "Mexico Basketball",
+      "awayTeam": "Brazil Basketball",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb"
+      ],
+      "multiSourceValidated": false
+    }
+  ],
+  "cachedAt": 1788164426261
+}
