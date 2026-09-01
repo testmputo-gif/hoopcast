@@ -6,9 +6,9 @@
       "date": "2026-09-01",
       "homeTeam": "Bahamas Basketball",
       "awayTeam": "Panama Basketball",
-      "homeScore": null,
-      "awayScore": null,
-      "totalScore": null,
+      "homeScore": 100,
+      "awayScore": 82,
+      "totalScore": 182,
       "status": "scheduled",
       "source": "thesportsdb",
       "sourceCount": 1,
@@ -23,9 +23,9 @@
       "date": "2026-09-01",
       "homeTeam": "Dominican Republic Basketball",
       "awayTeam": "Chile Basketball",
-      "homeScore": null,
-      "awayScore": null,
-      "totalScore": null,
+      "homeScore": 101,
+      "awayScore": 66,
+      "totalScore": 167,
       "status": "scheduled",
       "source": "thesportsdb",
       "sourceCount": 1,
@@ -40,9 +40,9 @@
       "date": "2026-09-01",
       "homeTeam": "Mexico Basketball",
       "awayTeam": "Brazil Basketball",
-      "homeScore": null,
-      "awayScore": null,
-      "totalScore": null,
+      "homeScore": 79,
+      "awayScore": 74,
+      "totalScore": 153,
       "status": "scheduled",
       "source": "thesportsdb",
       "sourceCount": 1,
@@ -50,7 +50,24 @@
         "thesportsdb"
       ],
       "multiSourceValidated": false
+    },
+    {
+      "id": "tsdb-2594450",
+      "league": "France LNB Elite",
+      "date": "2026-09-01",
+      "homeTeam": "Neftchi Kochkor-Ata",
+      "awayTeam": "Alga Bishkek",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb-schedule",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb-schedule"
+      ],
+      "multiSourceValidated": false
     }
   ],
-  "cachedAt": 1788164426261
+  "cachedAt": 1788247750375
 }
