@@ -1,0 +1,22 @@
+{
+  "fixtures": [
+    {
+      "id": "tsdb-2546869",
+      "league": "LKL Lithuania",
+      "date": "2026-09-02",
+      "homeTeam": "Triesen II",
+      "awayTeam": "Vaduz III",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb-schedule",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb-schedule"
+      ],
+      "multiSourceValidated": false
+    }
+  ],
+  "cachedAt": 1788247757875
+}
