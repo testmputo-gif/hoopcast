@@ -1,33 +1,5 @@
 [
   {
-    "id": "tsdb-2519633-2026-09-01",
-    "date": "2026-09-01",
-    "league": "FIBA Basketball World Cup",
-    "homeTeam": "Bahamas Basketball",
-    "awayTeam": "Panama Basketball",
-    "line": 215,
-    "lineSource": "model-estimated",
-    "multiSourceValidated": false,
-    "prediction": "OVER",
-    "expectedTotal": 215.2,
-    "overProbability": 50.7,
-    "underProbability": 49.3,
-    "confidence": 44.7,
-    "confidenceColor": "red",
-    "components": {
-      "possession": 215,
-      "trend": 214,
-      "pace": 215,
-      "league": 215,
-      "blended": 215
-    },
-    "monteCarloRuns": 5000,
-    "status": "scheduled",
-    "result": null,
-    "actualTotal": null,
-    "generatedAt": "2026-08-31T08:20:47.223Z"
-  },
-  {
     "id": "tsdb-2526099-2026-09-01",
     "date": "2026-09-01",
     "league": "FIBA Basketball World Cup",
@@ -38,9 +10,9 @@
     "multiSourceValidated": false,
     "prediction": "OVER",
     "expectedTotal": 215.2,
-    "overProbability": 50.3,
-    "underProbability": 49.7,
-    "confidence": 44.3,
+    "overProbability": 51.7,
+    "underProbability": 48.3,
+    "confidence": 45.8,
     "confidenceColor": "red",
     "components": {
       "possession": 215,
@@ -53,7 +25,35 @@
     "status": "scheduled",
     "result": null,
     "actualTotal": null,
-    "generatedAt": "2026-08-31T08:20:47.597Z"
+    "generatedAt": "2026-09-01T07:29:36.815Z"
+  },
+  {
+    "id": "tsdb-2594450-2026-09-01",
+    "date": "2026-09-01",
+    "league": "France LNB Elite",
+    "homeTeam": "Neftchi Kochkor-Ata",
+    "awayTeam": "Alga Bishkek",
+    "line": 215,
+    "lineSource": "model-estimated",
+    "multiSourceValidated": false,
+    "prediction": "OVER",
+    "expectedTotal": 215.2,
+    "overProbability": 50.5,
+    "underProbability": 49.5,
+    "confidence": 44.5,
+    "confidenceColor": "red",
+    "components": {
+      "possession": 215,
+      "trend": 214,
+      "pace": 215,
+      "league": 215,
+      "blended": 215
+    },
+    "monteCarloRuns": 5000,
+    "status": "scheduled",
+    "result": null,
+    "actualTotal": null,
+    "generatedAt": "2026-09-01T07:29:37.434Z"
   },
   {
     "id": "tsdb-2526100-2026-09-01",
@@ -66,9 +66,9 @@
     "multiSourceValidated": false,
     "prediction": "OVER",
     "expectedTotal": 215.2,
-    "overProbability": 50.3,
-    "underProbability": 49.7,
-    "confidence": 44.2,
+    "overProbability": 50.4,
+    "underProbability": 49.6,
+    "confidence": 44.4,
     "confidenceColor": "red",
     "components": {
       "possession": 215,
@@ -81,6 +81,34 @@
     "status": "scheduled",
     "result": null,
     "actualTotal": null,
-    "generatedAt": "2026-08-31T08:20:47.966Z"
+    "generatedAt": "2026-09-01T07:29:37.106Z"
+  },
+  {
+    "id": "tsdb-2519633-2026-09-01",
+    "date": "2026-09-01",
+    "league": "FIBA Basketball World Cup",
+    "homeTeam": "Bahamas Basketball",
+    "awayTeam": "Panama Basketball",
+    "line": 215,
+    "lineSource": "model-estimated",
+    "multiSourceValidated": false,
+    "prediction": "UNDER",
+    "expectedTotal": 215.2,
+    "overProbability": 50,
+    "underProbability": 50,
+    "confidence": 44,
+    "confidenceColor": "red",
+    "components": {
+      "possession": 215,
+      "trend": 214,
+      "pace": 215,
+      "league": 215,
+      "blended": 215
+    },
+    "monteCarloRuns": 5000,
+    "status": "scheduled",
+    "result": null,
+    "actualTotal": null,
+    "generatedAt": "2026-09-01T07:29:36.503Z"
   }
 ]
