@@ -10,9 +10,9 @@
     "multiSourceValidated": false,
     "prediction": "OVER",
     "expectedTotal": 215.2,
-    "overProbability": 50.8,
-    "underProbability": 49.2,
-    "confidence": 44.9,
+    "overProbability": 51.3,
+    "underProbability": 48.7,
+    "confidence": 45.4,
     "confidenceColor": "red",
     "components": {
       "possession": 215,
@@ -25,6 +25,6 @@
     "status": "scheduled",
     "result": null,
     "actualTotal": null,
-    "generatedAt": "2026-09-01T07:29:38.544Z"
+    "generatedAt": "2026-09-02T06:56:16.258Z"
   }
 ]
