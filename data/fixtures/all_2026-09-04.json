@@ -1,0 +1,73 @@
+{
+  "fixtures": [
+    {
+      "id": "tsdb-2467611",
+      "league": "FIBA Womens World Cup",
+      "date": "2026-09-04",
+      "homeTeam": "Australia Basketball Women",
+      "awayTeam": "Puerto Rico Basketball Women",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb"
+      ],
+      "multiSourceValidated": false
+    },
+    {
+      "id": "tsdb-2467612",
+      "league": "FIBA Womens World Cup",
+      "date": "2026-09-04",
+      "homeTeam": "Czech Republic Basketball Women",
+      "awayTeam": "Italy Basketball Women",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb"
+      ],
+      "multiSourceValidated": false
+    },
+    {
+      "id": "tsdb-2467613",
+      "league": "FIBA Womens World Cup",
+      "date": "2026-09-04",
+      "homeTeam": "Hungary Basketball Women",
+      "awayTeam": "France Basketball Women",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb"
+      ],
+      "multiSourceValidated": false
+    },
+    {
+      "id": "tsdb-2569578",
+      "league": "ACB Spain",
+      "date": "2026-09-04",
+      "homeTeam": "Lincoln Red Imps",
+      "awayTeam": "Europa Point",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb-schedule",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb-schedule"
+      ],
+      "multiSourceValidated": false
+    }
+  ],
+  "cachedAt": 1788418786052
+}
