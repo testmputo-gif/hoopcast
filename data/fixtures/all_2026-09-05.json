@@ -1,0 +1,73 @@
+{
+  "fixtures": [
+    {
+      "id": "tsdb-2467619",
+      "league": "FIBA Womens World Cup",
+      "date": "2026-09-05",
+      "homeTeam": "France Basketball Women",
+      "awayTeam": "South Korea Basketball Women",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb"
+      ],
+      "multiSourceValidated": false
+    },
+    {
+      "id": "tsdb-2467620",
+      "league": "FIBA Womens World Cup",
+      "date": "2026-09-05",
+      "homeTeam": "Germany Basketball Women",
+      "awayTeam": "Japan Basketball Women",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb"
+      ],
+      "multiSourceValidated": false
+    },
+    {
+      "id": "tsdb-2467621",
+      "league": "FIBA Womens World Cup",
+      "date": "2026-09-05",
+      "homeTeam": "Mali Basketball Women",
+      "awayTeam": "Spain Basketball Women",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb"
+      ],
+      "multiSourceValidated": false
+    },
+    {
+      "id": "tsdb-2492423",
+      "league": "NBL Australia",
+      "date": "2026-09-05",
+      "homeTeam": "FC Gifu",
+      "awayTeam": "Zweigen Kanazawa",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb-schedule",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb-schedule"
+      ],
+      "multiSourceValidated": false
+    }
+  ],
+  "cachedAt": 1788505794199
+}
