@@ -1,18 +1,18 @@
 [
   {
-    "id": "tsdb-2467611-2026-09-04",
+    "id": "tsdb-2467612-2026-09-04",
     "date": "2026-09-04",
     "league": "FIBA Womens World Cup",
-    "homeTeam": "Australia Basketball Women",
-    "awayTeam": "Puerto Rico Basketball Women",
+    "homeTeam": "Czech Republic Basketball Women",
+    "awayTeam": "Italy Basketball Women",
     "line": 215,
     "lineSource": "model-estimated",
     "multiSourceValidated": false,
     "prediction": "OVER",
     "expectedTotal": 215.2,
-    "overProbability": 51.9,
-    "underProbability": 48.1,
-    "confidence": 46,
+    "overProbability": 51.2,
+    "underProbability": 48.8,
+    "confidence": 45.2,
     "confidenceColor": "red",
     "components": {
       "possession": 215,
@@ -25,7 +25,7 @@
     "status": "scheduled",
     "result": null,
     "actualTotal": null,
-    "generatedAt": "2026-09-03T07:00:05.540Z"
+    "generatedAt": "2026-09-04T07:10:08.694Z"
   },
   {
     "id": "tsdb-2467613-2026-09-04",
@@ -38,9 +38,9 @@
     "multiSourceValidated": false,
     "prediction": "OVER",
     "expectedTotal": 215.2,
-    "overProbability": 50.8,
-    "underProbability": 49.2,
-    "confidence": 44.8,
+    "overProbability": 51,
+    "underProbability": 49,
+    "confidence": 45.1,
     "confidenceColor": "red",
     "components": {
       "possession": 215,
@@ -53,22 +53,22 @@
     "status": "scheduled",
     "result": null,
     "actualTotal": null,
-    "generatedAt": "2026-09-03T07:00:06.204Z"
+    "generatedAt": "2026-09-04T07:10:09.075Z"
   },
   {
-    "id": "tsdb-2467612-2026-09-04",
+    "id": "tsdb-2598655-2026-09-04",
     "date": "2026-09-04",
-    "league": "FIBA Womens World Cup",
-    "homeTeam": "Czech Republic Basketball Women",
-    "awayTeam": "Italy Basketball Women",
+    "league": "Basketball Bundesliga",
+    "homeTeam": "Prishtina",
+    "awayTeam": "Vushtrria",
     "line": 215,
     "lineSource": "model-estimated",
     "multiSourceValidated": false,
-    "prediction": "UNDER",
+    "prediction": "OVER",
     "expectedTotal": 215.2,
-    "overProbability": 49.5,
-    "underProbability": 50.5,
-    "confidence": 44.5,
+    "overProbability": 51.1,
+    "underProbability": 48.9,
+    "confidence": 45.1,
     "confidenceColor": "red",
     "components": {
       "possession": 215,
@@ -81,7 +81,7 @@
     "status": "scheduled",
     "result": null,
     "actualTotal": null,
-    "generatedAt": "2026-09-03T07:00:05.888Z"
+    "generatedAt": "2026-09-04T07:10:09.935Z"
   },
   {
     "id": "tsdb-2569578-2026-09-04",
@@ -94,9 +94,9 @@
     "multiSourceValidated": false,
     "prediction": "OVER",
     "expectedTotal": 215.2,
-    "overProbability": 50.4,
-    "underProbability": 49.6,
-    "confidence": 44.4,
+    "overProbability": 50.7,
+    "underProbability": 49.3,
+    "confidence": 44.7,
     "confidenceColor": "red",
     "components": {
       "possession": 215,
@@ -109,6 +109,62 @@
     "status": "scheduled",
     "result": null,
     "actualTotal": null,
-    "generatedAt": "2026-09-03T07:00:06.557Z"
+    "generatedAt": "2026-09-04T07:10:09.478Z"
+  },
+  {
+    "id": "tsdb-2598986-2026-09-04",
+    "date": "2026-09-04",
+    "league": "France LNB Elite",
+    "homeTeam": "Toktogul",
+    "awayTeam": "Talant",
+    "line": 215,
+    "lineSource": "model-estimated",
+    "multiSourceValidated": false,
+    "prediction": "UNDER",
+    "expectedTotal": 215.2,
+    "overProbability": 49.7,
+    "underProbability": 50.3,
+    "confidence": 44.3,
+    "confidenceColor": "red",
+    "components": {
+      "possession": 215,
+      "trend": 214,
+      "pace": 215,
+      "league": 215,
+      "blended": 215
+    },
+    "monteCarloRuns": 5000,
+    "status": "scheduled",
+    "result": null,
+    "actualTotal": null,
+    "generatedAt": "2026-09-04T07:10:10.355Z"
+  },
+  {
+    "id": "tsdb-2467611-2026-09-04",
+    "date": "2026-09-04",
+    "league": "FIBA Womens World Cup",
+    "homeTeam": "Australia Basketball Women",
+    "awayTeam": "Puerto Rico Basketball Women",
+    "line": 215,
+    "lineSource": "model-estimated",
+    "multiSourceValidated": false,
+    "prediction": "UNDER",
+    "expectedTotal": 215.2,
+    "overProbability": 49.9,
+    "underProbability": 50.1,
+    "confidence": 44,
+    "confidenceColor": "red",
+    "components": {
+      "possession": 215,
+      "trend": 214,
+      "pace": 215,
+      "league": 215,
+      "blended": 215
+    },
+    "monteCarloRuns": 5000,
+    "status": "scheduled",
+    "result": null,
+    "actualTotal": null,
+    "generatedAt": "2026-09-04T07:10:08.297Z"
   }
 ]
