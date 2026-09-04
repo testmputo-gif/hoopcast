@@ -67,7 +67,41 @@
         "thesportsdb-schedule"
       ],
       "multiSourceValidated": false
+    },
+    {
+      "id": "tsdb-2598655",
+      "league": "Basketball Bundesliga",
+      "date": "2026-09-04",
+      "homeTeam": "Prishtina",
+      "awayTeam": "Vushtrria",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb-schedule",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb-schedule"
+      ],
+      "multiSourceValidated": false
+    },
+    {
+      "id": "tsdb-2598986",
+      "league": "France LNB Elite",
+      "date": "2026-09-04",
+      "homeTeam": "Toktogul",
+      "awayTeam": "Talant",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb-schedule",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb-schedule"
+      ],
+      "multiSourceValidated": false
     }
   ],
-  "cachedAt": 1788418786052
+  "cachedAt": 1788505788010
 }
