@@ -1,18 +1,18 @@
 [
   {
-    "id": "tsdb-2492423-2026-09-05",
+    "id": "tsdb-2467621-2026-09-05",
     "date": "2026-09-05",
-    "league": "NBL Australia",
-    "homeTeam": "FC Gifu",
-    "awayTeam": "Zweigen Kanazawa",
+    "league": "FIBA Womens World Cup",
+    "homeTeam": "Mali Basketball Women",
+    "awayTeam": "Spain Basketball Women",
     "line": 215,
     "lineSource": "model-estimated",
     "multiSourceValidated": false,
     "prediction": "OVER",
     "expectedTotal": 215.2,
-    "overProbability": 50.7,
-    "underProbability": 49.3,
-    "confidence": 44.7,
+    "overProbability": 52.2,
+    "underProbability": 47.8,
+    "confidence": 46.3,
     "confidenceColor": "red",
     "components": {
       "possession": 215,
@@ -25,7 +25,7 @@
     "status": "scheduled",
     "result": null,
     "actualTotal": null,
-    "generatedAt": "2026-09-04T07:10:13.018Z"
+    "generatedAt": "2026-09-05T06:48:03.491Z"
   },
   {
     "id": "tsdb-2467620-2026-09-05",
@@ -53,7 +53,35 @@
     "status": "scheduled",
     "result": null,
     "actualTotal": null,
-    "generatedAt": "2026-09-04T07:10:12.119Z"
+    "generatedAt": "2026-09-05T06:48:03.269Z"
+  },
+  {
+    "id": "tsdb-2598656-2026-09-05",
+    "date": "2026-09-05",
+    "league": "Basketball Bundesliga",
+    "homeTeam": "Llapi",
+    "awayTeam": "Dukagjini",
+    "line": 215,
+    "lineSource": "model-estimated",
+    "multiSourceValidated": false,
+    "prediction": "OVER",
+    "expectedTotal": 215.2,
+    "overProbability": 50.6,
+    "underProbability": 49.4,
+    "confidence": 44.6,
+    "confidenceColor": "red",
+    "components": {
+      "possession": 215,
+      "trend": 214,
+      "pace": 215,
+      "league": 215,
+      "blended": 215
+    },
+    "monteCarloRuns": 5000,
+    "status": "scheduled",
+    "result": null,
+    "actualTotal": null,
+    "generatedAt": "2026-09-05T06:48:04.250Z"
   },
   {
     "id": "tsdb-2467619-2026-09-05",
@@ -66,9 +94,9 @@
     "multiSourceValidated": false,
     "prediction": "OVER",
     "expectedTotal": 215.2,
-    "overProbability": 50.2,
-    "underProbability": 49.8,
-    "confidence": 44.1,
+    "overProbability": 50.5,
+    "underProbability": 49.5,
+    "confidence": 44.5,
     "confidenceColor": "red",
     "components": {
       "possession": 215,
@@ -81,22 +109,22 @@
     "status": "scheduled",
     "result": null,
     "actualTotal": null,
-    "generatedAt": "2026-09-04T07:10:11.685Z"
+    "generatedAt": "2026-09-05T06:48:03.053Z"
   },
   {
-    "id": "tsdb-2467621-2026-09-05",
+    "id": "tsdb-2492423-2026-09-05",
     "date": "2026-09-05",
-    "league": "FIBA Womens World Cup",
-    "homeTeam": "Mali Basketball Women",
-    "awayTeam": "Spain Basketball Women",
+    "league": "NBL Australia",
+    "homeTeam": "FC Gifu",
+    "awayTeam": "Zweigen Kanazawa",
     "line": 215,
     "lineSource": "model-estimated",
     "multiSourceValidated": false,
-    "prediction": "OVER",
+    "prediction": "UNDER",
     "expectedTotal": 215.2,
-    "overProbability": 50.1,
-    "underProbability": 49.9,
-    "confidence": 44,
+    "overProbability": 49.6,
+    "underProbability": 50.4,
+    "confidence": 44.4,
     "confidenceColor": "red",
     "components": {
       "possession": 215,
@@ -109,6 +137,62 @@
     "status": "scheduled",
     "result": null,
     "actualTotal": null,
-    "generatedAt": "2026-09-04T07:10:12.569Z"
+    "generatedAt": "2026-09-05T06:48:03.718Z"
+  },
+  {
+    "id": "tsdb-2569579-2026-09-05",
+    "date": "2026-09-05",
+    "league": "ACB Spain",
+    "homeTeam": "Europa FC",
+    "awayTeam": "FCB Magpies",
+    "line": 215,
+    "lineSource": "model-estimated",
+    "multiSourceValidated": false,
+    "prediction": "UNDER",
+    "expectedTotal": 215.2,
+    "overProbability": 49.6,
+    "underProbability": 50.4,
+    "confidence": 44.4,
+    "confidenceColor": "red",
+    "components": {
+      "possession": 215,
+      "trend": 214,
+      "pace": 215,
+      "league": 215,
+      "blended": 215
+    },
+    "monteCarloRuns": 5000,
+    "status": "scheduled",
+    "result": null,
+    "actualTotal": null,
+    "generatedAt": "2026-09-05T06:48:04.032Z"
+  },
+  {
+    "id": "tsdb-2598987-2026-09-05",
+    "date": "2026-09-05",
+    "league": "France LNB Elite",
+    "homeTeam": "Bars Issyk-Kul",
+    "awayTeam": "Alay Osh",
+    "line": 215,
+    "lineSource": "model-estimated",
+    "multiSourceValidated": false,
+    "prediction": "UNDER",
+    "expectedTotal": 215.2,
+    "overProbability": 49.8,
+    "underProbability": 50.2,
+    "confidence": 44.2,
+    "confidenceColor": "red",
+    "components": {
+      "possession": 215,
+      "trend": 214,
+      "pace": 215,
+      "league": 215,
+      "blended": 215
+    },
+    "monteCarloRuns": 5000,
+    "status": "scheduled",
+    "result": null,
+    "actualTotal": null,
+    "generatedAt": "2026-09-05T06:48:04.486Z"
   }
 ]
