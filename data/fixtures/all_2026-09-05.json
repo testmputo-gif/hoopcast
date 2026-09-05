@@ -67,7 +67,58 @@
         "thesportsdb-schedule"
       ],
       "multiSourceValidated": false
+    },
+    {
+      "id": "tsdb-2569579",
+      "league": "ACB Spain",
+      "date": "2026-09-05",
+      "homeTeam": "Europa FC",
+      "awayTeam": "FCB Magpies",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb-schedule",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb-schedule"
+      ],
+      "multiSourceValidated": false
+    },
+    {
+      "id": "tsdb-2598656",
+      "league": "Basketball Bundesliga",
+      "date": "2026-09-05",
+      "homeTeam": "Llapi",
+      "awayTeam": "Dukagjini",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb-schedule",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb-schedule"
+      ],
+      "multiSourceValidated": false
+    },
+    {
+      "id": "tsdb-2598987",
+      "league": "France LNB Elite",
+      "date": "2026-09-05",
+      "homeTeam": "Bars Issyk-Kul",
+      "awayTeam": "Alay Osh",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb-schedule",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb-schedule"
+      ],
+      "multiSourceValidated": false
     }
   ],
-  "cachedAt": 1788505794199
+  "cachedAt": 1788590862439
 }
