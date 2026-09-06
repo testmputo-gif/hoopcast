@@ -1,0 +1,73 @@
+{
+  "fixtures": [
+    {
+      "id": "tsdb-2467627",
+      "league": "FIBA Womens World Cup",
+      "date": "2026-09-07",
+      "homeTeam": "Belgium Basketball Women",
+      "awayTeam": "Australia Basketball Women",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb"
+      ],
+      "multiSourceValidated": false
+    },
+    {
+      "id": "tsdb-2467628",
+      "league": "FIBA Womens World Cup",
+      "date": "2026-09-07",
+      "homeTeam": "Germany Basketball Women",
+      "awayTeam": "Mali Basketball Women",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb"
+      ],
+      "multiSourceValidated": false
+    },
+    {
+      "id": "tsdb-2467629",
+      "league": "FIBA Womens World Cup",
+      "date": "2026-09-07",
+      "homeTeam": "Hungary Basketball Women",
+      "awayTeam": "South Korea Basketball Women",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb"
+      ],
+      "multiSourceValidated": false
+    },
+    {
+      "id": "tsdb-2598989",
+      "league": "France LNB Elite",
+      "date": "2026-09-07",
+      "homeTeam": "Dordoi Bishkek",
+      "awayTeam": "OshSU Aldier",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb-schedule",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb-schedule"
+      ],
+      "multiSourceValidated": false
+    }
+  ],
+  "cachedAt": 1788677887251
+}
