@@ -67,7 +67,58 @@
         "thesportsdb-schedule"
       ],
       "multiSourceValidated": false
+    },
+    {
+      "id": "tsdb-2492425",
+      "league": "NBL Australia",
+      "date": "2026-09-06",
+      "homeTeam": "Roasso Kumamoto",
+      "awayTeam": "Nara Club",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb-schedule",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb-schedule"
+      ],
+      "multiSourceValidated": false
+    },
+    {
+      "id": "tsdb-2569581",
+      "league": "ACB Spain",
+      "date": "2026-09-06",
+      "homeTeam": "Mons Calpe",
+      "awayTeam": "Glacis United",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb-schedule",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb-schedule"
+      ],
+      "multiSourceValidated": false
+    },
+    {
+      "id": "tsdb-2598658",
+      "league": "Basketball Bundesliga",
+      "date": "2026-09-06",
+      "homeTeam": "Ballkani",
+      "awayTeam": "Feronikeli",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb-schedule",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb-schedule"
+      ],
+      "multiSourceValidated": false
     }
   ],
-  "cachedAt": 1788590868062
+  "cachedAt": 1788677880295
 }
