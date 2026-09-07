@@ -1,0 +1,22 @@
+{
+  "fixtures": [
+    {
+      "id": "tsdb-2580246",
+      "league": "LKL Lithuania",
+      "date": "2026-09-08",
+      "homeTeam": "Ruggell II",
+      "awayTeam": "Schaan",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb-schedule",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb-schedule"
+      ],
+      "multiSourceValidated": false
+    }
+  ],
+  "cachedAt": 1788764918811
+}
