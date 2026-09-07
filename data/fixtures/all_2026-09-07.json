@@ -52,6 +52,23 @@
       "multiSourceValidated": false
     },
     {
+      "id": "tsdb-2493756",
+      "league": "EuroLeague",
+      "date": "2026-09-07",
+      "homeTeam": "Kafr Qasim",
+      "awayTeam": "Ironi Modi'in",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb-schedule",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb-schedule"
+      ],
+      "multiSourceValidated": false
+    },
+    {
       "id": "tsdb-2598989",
       "league": "France LNB Elite",
       "date": "2026-09-07",
@@ -69,5 +86,5 @@
       "multiSourceValidated": false
     }
   ],
-  "cachedAt": 1788677887251
+  "cachedAt": 1788764911945
 }
