@@ -1,0 +1,39 @@
+{
+  "fixtures": [
+    {
+      "id": "tsdb-2597735",
+      "league": "Vietnam Basketball Association",
+      "date": "2026-09-09",
+      "homeTeam": "Ho Chi Minh City Wings",
+      "awayTeam": "Hanoi Buffaloes",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb"
+      ],
+      "multiSourceValidated": false
+    },
+    {
+      "id": "tsdb-2491617",
+      "league": "NBL Australia",
+      "date": "2026-09-09",
+      "homeTeam": "FC Ryukyu",
+      "awayTeam": "Giravanz Kitakyushu",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb-schedule",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb-schedule"
+      ],
+      "multiSourceValidated": false
+    }
+  ],
+  "cachedAt": 1788850950709
+}
