@@ -1,1 +1,58 @@
-[]
+[
+  {
+    "id": "tsdb-2597735-2026-09-09",
+    "date": "2026-09-09",
+    "league": "Vietnam Basketball Association",
+    "homeTeam": "Ho Chi Minh City Wings",
+    "awayTeam": "Hanoi Buffaloes",
+    "line": 215,
+    "lineSource": "model-estimated",
+    "multiSourceValidated": false,
+    "prediction": "OVER",
+    "expectedTotal": 215.2,
+    "overProbability": 50.7,
+    "underProbability": 49.3,
+    "confidence": 44.7,
+    "confidenceColor": "red",
+    "components": {
+      "possession": 215,
+      "trend": 214,
+      "pace": 215,
+      "league": 215,
+      "blended": 215
+    },
+    "monteCarloRuns": 5000,
+    "status": "scheduled",
+    "result": null,
+    "actualTotal": null,
+    "generatedAt": "2026-09-08T07:02:46.166Z"
+  },
+  {
+    "id": "tsdb-2491617-2026-09-09",
+    "date": "2026-09-09",
+    "league": "NBL Australia",
+    "homeTeam": "FC Ryukyu",
+    "awayTeam": "Giravanz Kitakyushu",
+    "line": 215,
+    "lineSource": "model-estimated",
+    "multiSourceValidated": false,
+    "prediction": "UNDER",
+    "expectedTotal": 215.2,
+    "overProbability": 49.8,
+    "underProbability": 50.2,
+    "confidence": 44.2,
+    "confidenceColor": "red",
+    "components": {
+      "possession": 215,
+      "trend": 214,
+      "pace": 215,
+      "league": 215,
+      "blended": 215
+    },
+    "monteCarloRuns": 5000,
+    "status": "scheduled",
+    "result": null,
+    "actualTotal": null,
+    "generatedAt": "2026-09-08T07:02:46.445Z"
+  }
+]
