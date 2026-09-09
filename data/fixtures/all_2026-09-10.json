@@ -1,0 +1,73 @@
+{
+  "fixtures": [
+    {
+      "id": "tsdb-2505577",
+      "league": "Mexican LNBP",
+      "date": "2026-09-10",
+      "homeTeam": "Mineros de Zacatecas",
+      "awayTeam": "Diablos Rojos del México",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb"
+      ],
+      "multiSourceValidated": false
+    },
+    {
+      "id": "tsdb-2584395",
+      "league": "German BBL Pokal",
+      "date": "2026-09-10",
+      "homeTeam": "Eisbären Bremerhaven",
+      "awayTeam": "Braunschweig",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb"
+      ],
+      "multiSourceValidated": false
+    },
+    {
+      "id": "tsdb-2584396",
+      "league": "German BBL Pokal",
+      "date": "2026-09-10",
+      "homeTeam": "Crailsheim Merlins",
+      "awayTeam": "Phoenix Hagen",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb"
+      ],
+      "multiSourceValidated": false
+    },
+    {
+      "id": "tsdb-2493764",
+      "league": "EuroLeague",
+      "date": "2026-09-10",
+      "homeTeam": "Hapoel Rishon LeZion",
+      "awayTeam": "Hapoel Kiryat Yam",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb-schedule",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb-schedule"
+      ],
+      "multiSourceValidated": false
+    }
+  ],
+  "cachedAt": 1788937911018
+}
