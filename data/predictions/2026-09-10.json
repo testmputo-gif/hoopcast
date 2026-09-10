@@ -1,17 +1,17 @@
 [
   {
-    "id": "tsdb-2493764-2026-09-10",
+    "id": "tsdb-2505577-2026-09-10",
     "date": "2026-09-10",
-    "league": "EuroLeague",
-    "homeTeam": "Hapoel Rishon LeZion",
-    "awayTeam": "Hapoel Kiryat Yam",
+    "league": "Mexican LNBP",
+    "homeTeam": "Mineros de Zacatecas",
+    "awayTeam": "Diablos Rojos del México",
     "line": 215,
     "lineSource": "model-estimated",
     "multiSourceValidated": false,
-    "prediction": "UNDER",
+    "prediction": "OVER",
     "expectedTotal": 215.2,
-    "overProbability": 48.8,
-    "underProbability": 51.2,
+    "overProbability": 51.2,
+    "underProbability": 48.8,
     "confidence": 45.3,
     "confidenceColor": "red",
     "components": {
@@ -25,14 +25,14 @@
     "status": "scheduled",
     "result": null,
     "actualTotal": null,
-    "generatedAt": "2026-09-09T07:12:09.988Z"
+    "generatedAt": "2026-09-10T07:08:31.126Z"
   },
   {
-    "id": "tsdb-2505577-2026-09-10",
+    "id": "tsdb-2584396-2026-09-10",
     "date": "2026-09-10",
-    "league": "Mexican LNBP",
-    "homeTeam": "Mineros de Zacatecas",
-    "awayTeam": "Diablos Rojos del México",
+    "league": "German BBL Pokal",
+    "homeTeam": "Crailsheim Merlins",
+    "awayTeam": "Phoenix Hagen",
     "line": 215,
     "lineSource": "model-estimated",
     "multiSourceValidated": false,
@@ -53,35 +53,7 @@
     "status": "scheduled",
     "result": null,
     "actualTotal": null,
-    "generatedAt": "2026-09-09T07:12:08.764Z"
-  },
-  {
-    "id": "tsdb-2584396-2026-09-10",
-    "date": "2026-09-10",
-    "league": "German BBL Pokal",
-    "homeTeam": "Crailsheim Merlins",
-    "awayTeam": "Phoenix Hagen",
-    "line": 215,
-    "lineSource": "model-estimated",
-    "multiSourceValidated": false,
-    "prediction": "UNDER",
-    "expectedTotal": 215.2,
-    "overProbability": 49.1,
-    "underProbability": 50.9,
-    "confidence": 44.9,
-    "confidenceColor": "red",
-    "components": {
-      "possession": 215,
-      "trend": 214,
-      "pace": 215,
-      "league": 215,
-      "blended": 215
-    },
-    "monteCarloRuns": 5000,
-    "status": "scheduled",
-    "result": null,
-    "actualTotal": null,
-    "generatedAt": "2026-09-09T07:12:09.434Z"
+    "generatedAt": "2026-09-10T07:08:31.781Z"
   },
   {
     "id": "tsdb-2584395-2026-09-10",
@@ -94,8 +66,36 @@
     "multiSourceValidated": false,
     "prediction": "OVER",
     "expectedTotal": 215.2,
-    "overProbability": 50.2,
-    "underProbability": 49.8,
+    "overProbability": 50.8,
+    "underProbability": 49.2,
+    "confidence": 44.8,
+    "confidenceColor": "red",
+    "components": {
+      "possession": 215,
+      "trend": 214,
+      "pace": 215,
+      "league": 215,
+      "blended": 215
+    },
+    "monteCarloRuns": 5000,
+    "status": "scheduled",
+    "result": null,
+    "actualTotal": null,
+    "generatedAt": "2026-09-10T07:08:31.402Z"
+  },
+  {
+    "id": "tsdb-2493764-2026-09-10",
+    "date": "2026-09-10",
+    "league": "EuroLeague",
+    "homeTeam": "Hapoel Rishon LeZion",
+    "awayTeam": "Hapoel Kiryat Yam",
+    "line": 215,
+    "lineSource": "model-estimated",
+    "multiSourceValidated": false,
+    "prediction": "UNDER",
+    "expectedTotal": 215.2,
+    "overProbability": 49.8,
+    "underProbability": 50.2,
     "confidence": 44.2,
     "confidenceColor": "red",
     "components": {
@@ -109,6 +109,34 @@
     "status": "scheduled",
     "result": null,
     "actualTotal": null,
-    "generatedAt": "2026-09-09T07:12:09.114Z"
+    "generatedAt": "2026-09-10T07:08:32.068Z"
+  },
+  {
+    "id": "tsdb-2599067-2026-09-10",
+    "date": "2026-09-10",
+    "league": "Basketball Bundesliga",
+    "homeTeam": "Dukagjini",
+    "awayTeam": "Malisheva",
+    "line": 215,
+    "lineSource": "model-estimated",
+    "multiSourceValidated": false,
+    "prediction": "UNDER",
+    "expectedTotal": 215.2,
+    "overProbability": 50,
+    "underProbability": 50,
+    "confidence": 44,
+    "confidenceColor": "red",
+    "components": {
+      "possession": 215,
+      "trend": 214,
+      "pace": 215,
+      "league": 215,
+      "blended": 215
+    },
+    "monteCarloRuns": 5000,
+    "status": "scheduled",
+    "result": null,
+    "actualTotal": null,
+    "generatedAt": "2026-09-10T07:08:32.420Z"
   }
 ]
