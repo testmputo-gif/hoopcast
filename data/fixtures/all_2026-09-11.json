@@ -1,0 +1,90 @@
+{
+  "fixtures": [
+    {
+      "id": "tsdb-2505578",
+      "league": "Mexican LNBP",
+      "date": "2026-09-11",
+      "homeTeam": "Correcaminos UAT Victoria",
+      "awayTeam": "Dorados de Chihuahua",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb"
+      ],
+      "multiSourceValidated": false
+    },
+    {
+      "id": "tsdb-2505579",
+      "league": "Mexican LNBP",
+      "date": "2026-09-11",
+      "homeTeam": "El Calor de Cancún",
+      "awayTeam": "Panteras de Aguascalientes",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb"
+      ],
+      "multiSourceValidated": false
+    },
+    {
+      "id": "tsdb-2505580",
+      "league": "Mexican LNBP",
+      "date": "2026-09-11",
+      "homeTeam": "Santos del Potosí",
+      "awayTeam": "Fuerza Regia de Monterrey",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb"
+      ],
+      "multiSourceValidated": false
+    },
+    {
+      "id": "tsdb-2569583",
+      "league": "ACB Spain",
+      "date": "2026-09-11",
+      "homeTeam": "FCB Magpies",
+      "awayTeam": "Hound Dogs",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb-schedule",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb-schedule"
+      ],
+      "multiSourceValidated": false
+    },
+    {
+      "id": "tsdb-2599481",
+      "league": "Lega Basket Italy",
+      "date": "2026-09-11",
+      "homeTeam": "Jazz",
+      "awayTeam": "KPV",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb-schedule",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb-schedule"
+      ],
+      "multiSourceValidated": false
+    }
+  ],
+  "cachedAt": 1789024095118
+}
