@@ -1,0 +1,73 @@
+{
+  "fixtures": [
+    {
+      "id": "tsdb-2505584",
+      "league": "Mexican LNBP",
+      "date": "2026-09-12",
+      "homeTeam": "Correcaminos UAT Victoria",
+      "awayTeam": "Dorados de Chihuahua",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb"
+      ],
+      "multiSourceValidated": false
+    },
+    {
+      "id": "tsdb-2505585",
+      "league": "Mexican LNBP",
+      "date": "2026-09-12",
+      "homeTeam": "El Calor de Cancún",
+      "awayTeam": "Panteras de Aguascalientes",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb"
+      ],
+      "multiSourceValidated": false
+    },
+    {
+      "id": "tsdb-2505586",
+      "league": "Mexican LNBP",
+      "date": "2026-09-12",
+      "homeTeam": "Abejas de León",
+      "awayTeam": "Gambusinos de Fresnillo",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb"
+      ],
+      "multiSourceValidated": false
+    },
+    {
+      "id": "tsdb-2492435",
+      "league": "NBL Australia",
+      "date": "2026-09-12",
+      "homeTeam": "Giravanz Kitakyushu",
+      "awayTeam": "Gainare Tottori",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb-schedule",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb-schedule"
+      ],
+      "multiSourceValidated": false
+    }
+  ],
+  "cachedAt": 1789110444485
+}
