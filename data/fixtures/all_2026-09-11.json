@@ -6,9 +6,9 @@
       "date": "2026-09-11",
       "homeTeam": "Correcaminos UAT Victoria",
       "awayTeam": "Dorados de Chihuahua",
-      "homeScore": null,
-      "awayScore": null,
-      "totalScore": null,
+      "homeScore": 79,
+      "awayScore": 86,
+      "totalScore": 165,
       "status": "scheduled",
       "source": "thesportsdb",
       "sourceCount": 1,
@@ -23,9 +23,9 @@
       "date": "2026-09-11",
       "homeTeam": "El Calor de Cancún",
       "awayTeam": "Panteras de Aguascalientes",
-      "homeScore": null,
-      "awayScore": null,
-      "totalScore": null,
+      "homeScore": 103,
+      "awayScore": 88,
+      "totalScore": 191,
       "status": "scheduled",
       "source": "thesportsdb",
       "sourceCount": 1,
@@ -40,9 +40,9 @@
       "date": "2026-09-11",
       "homeTeam": "Santos del Potosí",
       "awayTeam": "Fuerza Regia de Monterrey",
-      "homeScore": null,
-      "awayScore": null,
-      "totalScore": null,
+      "homeScore": 89,
+      "awayScore": 101,
+      "totalScore": 190,
       "status": "scheduled",
       "source": "thesportsdb",
       "sourceCount": 1,
@@ -84,7 +84,24 @@
         "thesportsdb-schedule"
       ],
       "multiSourceValidated": false
+    },
+    {
+      "id": "tsdb-2603251",
+      "league": "France LNB Elite",
+      "date": "2026-09-11",
+      "homeTeam": "Ilbirs Bishkek",
+      "awayTeam": "Bishkek City",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb-schedule",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb-schedule"
+      ],
+      "multiSourceValidated": false
     }
   ],
-  "cachedAt": 1789024095118
+  "cachedAt": 1789110438680
 }
