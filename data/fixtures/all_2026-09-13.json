@@ -1,0 +1,56 @@
+{
+  "fixtures": [
+    {
+      "id": "tsdb-2505590",
+      "league": "Mexican LNBP",
+      "date": "2026-09-13",
+      "homeTeam": "Astros de Jalisco",
+      "awayTeam": "Soles de Mexicali",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb"
+      ],
+      "multiSourceValidated": false
+    },
+    {
+      "id": "tsdb-2583780",
+      "league": "Turkish Basketball First League",
+      "date": "2026-09-13",
+      "homeTeam": "Büyükçekmece Basketbol",
+      "awayTeam": "OGM Ormanspor",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb"
+      ],
+      "multiSourceValidated": false
+    },
+    {
+      "id": "tsdb-2583785",
+      "league": "Turkish Basketball First League",
+      "date": "2026-09-13",
+      "homeTeam": "Balıkesir BB",
+      "awayTeam": "Fenerbahçe Basketbol 2",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb"
+      ],
+      "multiSourceValidated": false
+    }
+  ],
+  "cachedAt": 1789196364495
+}
