@@ -1,1 +1,86 @@
-[]
+[
+  {
+    "id": "tsdb-2583780-2026-09-13",
+    "date": "2026-09-13",
+    "league": "Turkish Basketball First League",
+    "homeTeam": "Büyükçekmece Basketbol",
+    "awayTeam": "OGM Ormanspor",
+    "line": 215,
+    "lineSource": "model-estimated",
+    "multiSourceValidated": false,
+    "prediction": "OVER",
+    "expectedTotal": 215.2,
+    "overProbability": 51.4,
+    "underProbability": 48.6,
+    "confidence": 45.5,
+    "confidenceColor": "red",
+    "components": {
+      "possession": 215,
+      "trend": 214,
+      "pace": 215,
+      "league": 215,
+      "blended": 215
+    },
+    "monteCarloRuns": 5000,
+    "status": "scheduled",
+    "result": null,
+    "actualTotal": null,
+    "generatedAt": "2026-09-12T06:59:42.006Z"
+  },
+  {
+    "id": "tsdb-2505590-2026-09-13",
+    "date": "2026-09-13",
+    "league": "Mexican LNBP",
+    "homeTeam": "Astros de Jalisco",
+    "awayTeam": "Soles de Mexicali",
+    "line": 215,
+    "lineSource": "model-estimated",
+    "multiSourceValidated": false,
+    "prediction": "UNDER",
+    "expectedTotal": 215.2,
+    "overProbability": 49.7,
+    "underProbability": 50.3,
+    "confidence": 44.3,
+    "confidenceColor": "red",
+    "components": {
+      "possession": 215,
+      "trend": 214,
+      "pace": 215,
+      "league": 215,
+      "blended": 215
+    },
+    "monteCarloRuns": 5000,
+    "status": "scheduled",
+    "result": null,
+    "actualTotal": null,
+    "generatedAt": "2026-09-12T06:59:41.749Z"
+  },
+  {
+    "id": "tsdb-2583785-2026-09-13",
+    "date": "2026-09-13",
+    "league": "Turkish Basketball First League",
+    "homeTeam": "Balıkesir BB",
+    "awayTeam": "Fenerbahçe Basketbol 2",
+    "line": 215,
+    "lineSource": "model-estimated",
+    "multiSourceValidated": false,
+    "prediction": "OVER",
+    "expectedTotal": 215.2,
+    "overProbability": 50.1,
+    "underProbability": 49.9,
+    "confidence": 44.1,
+    "confidenceColor": "red",
+    "components": {
+      "possession": 215,
+      "trend": 214,
+      "pace": 215,
+      "league": 215,
+      "blended": 215
+    },
+    "monteCarloRuns": 5000,
+    "status": "scheduled",
+    "result": null,
+    "actualTotal": null,
+    "generatedAt": "2026-09-12T06:59:42.324Z"
+  }
+]
