@@ -1,0 +1,73 @@
+{
+  "fixtures": [
+    {
+      "id": "tsdb-2525181",
+      "league": "BCL",
+      "date": "2026-09-14",
+      "homeTeam": "BK Opava",
+      "awayTeam": "Dziki Warszawa",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb"
+      ],
+      "multiSourceValidated": false
+    },
+    {
+      "id": "tsdb-2525182",
+      "league": "BCL",
+      "date": "2026-09-14",
+      "homeTeam": "s.Oliver Würzburg",
+      "awayTeam": "Manchester Basketball",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb"
+      ],
+      "multiSourceValidated": false
+    },
+    {
+      "id": "tsdb-2525183",
+      "league": "BCL",
+      "date": "2026-09-14",
+      "homeTeam": "Rasta Vechta",
+      "awayTeam": "Merkezefendi Belediyesi Denizli Basket",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb"
+      ],
+      "multiSourceValidated": false
+    },
+    {
+      "id": "tsdb-2493763",
+      "league": "EuroLeague",
+      "date": "2026-09-14",
+      "homeTeam": "Hapoel Akko",
+      "awayTeam": "Ashdod",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb-schedule",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb-schedule"
+      ],
+      "multiSourceValidated": false
+    }
+  ],
+  "cachedAt": 1789283891078
+}
