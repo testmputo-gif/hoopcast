@@ -67,7 +67,41 @@
         "thesportsdb-schedule"
       ],
       "multiSourceValidated": false
+    },
+    {
+      "id": "tsdb-2492442",
+      "league": "NBL Australia",
+      "date": "2026-09-14",
+      "homeTeam": "FC Osaka",
+      "awayTeam": "Ehime FC",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb-schedule",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb-schedule"
+      ],
+      "multiSourceValidated": false
+    },
+    {
+      "id": "tsdb-2603367",
+      "league": "Basketball Bundesliga",
+      "date": "2026-09-14",
+      "homeTeam": "Ballkani",
+      "awayTeam": "Dukagjini",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb-schedule",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb-schedule"
+      ],
+      "multiSourceValidated": false
     }
   ],
-  "cachedAt": 1789283891078
+  "cachedAt": 1789371741511
 }
