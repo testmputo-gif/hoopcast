@@ -1,0 +1,56 @@
+{
+  "fixtures": [
+    {
+      "id": "tsdb-2505591",
+      "league": "Mexican LNBP",
+      "date": "2026-09-15",
+      "homeTeam": "Freseros de Irapuato",
+      "awayTeam": "Soles de Mexicali",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb"
+      ],
+      "multiSourceValidated": false
+    },
+    {
+      "id": "tsdb-2525184",
+      "league": "BCL",
+      "date": "2026-09-15",
+      "homeTeam": "Promitheas Patras BC",
+      "awayTeam": "BC Vienna",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb"
+      ],
+      "multiSourceValidated": false
+    },
+    {
+      "id": "tsdb-2525185",
+      "league": "BCL",
+      "date": "2026-09-15",
+      "homeTeam": "S.L. Benfica",
+      "awayTeam": "Lions de Genève",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb"
+      ],
+      "multiSourceValidated": false
+    }
+  ],
+  "cachedAt": 1789371747909
+}
