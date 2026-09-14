@@ -1,1 +1,86 @@
-[]
+[
+  {
+    "id": "tsdb-2525184-2026-09-15",
+    "date": "2026-09-15",
+    "league": "BCL",
+    "homeTeam": "Promitheas Patras BC",
+    "awayTeam": "BC Vienna",
+    "line": 215,
+    "lineSource": "model-estimated",
+    "multiSourceValidated": false,
+    "prediction": "OVER",
+    "expectedTotal": 215.2,
+    "overProbability": 50.9,
+    "underProbability": 49.1,
+    "confidence": 45,
+    "confidenceColor": "red",
+    "components": {
+      "possession": 215,
+      "trend": 214,
+      "pace": 215,
+      "league": 215,
+      "blended": 215
+    },
+    "monteCarloRuns": 5000,
+    "status": "scheduled",
+    "result": null,
+    "actualTotal": null,
+    "generatedAt": "2026-09-14T07:42:49.356Z"
+  },
+  {
+    "id": "tsdb-2525185-2026-09-15",
+    "date": "2026-09-15",
+    "league": "BCL",
+    "homeTeam": "S.L. Benfica",
+    "awayTeam": "Lions de Genève",
+    "line": 215,
+    "lineSource": "model-estimated",
+    "multiSourceValidated": false,
+    "prediction": "UNDER",
+    "expectedTotal": 215.2,
+    "overProbability": 49.5,
+    "underProbability": 50.5,
+    "confidence": 44.5,
+    "confidenceColor": "red",
+    "components": {
+      "possession": 215,
+      "trend": 214,
+      "pace": 215,
+      "league": 215,
+      "blended": 215
+    },
+    "monteCarloRuns": 5000,
+    "status": "scheduled",
+    "result": null,
+    "actualTotal": null,
+    "generatedAt": "2026-09-14T07:42:49.796Z"
+  },
+  {
+    "id": "tsdb-2505591-2026-09-15",
+    "date": "2026-09-15",
+    "league": "Mexican LNBP",
+    "homeTeam": "Freseros de Irapuato",
+    "awayTeam": "Soles de Mexicali",
+    "line": 215,
+    "lineSource": "model-estimated",
+    "multiSourceValidated": false,
+    "prediction": "UNDER",
+    "expectedTotal": 215.2,
+    "overProbability": 49.8,
+    "underProbability": 50.2,
+    "confidence": 44.2,
+    "confidenceColor": "red",
+    "components": {
+      "possession": 215,
+      "trend": 214,
+      "pace": 215,
+      "league": 215,
+      "blended": 215
+    },
+    "monteCarloRuns": 5000,
+    "status": "scheduled",
+    "result": null,
+    "actualTotal": null,
+    "generatedAt": "2026-09-14T07:42:48.927Z"
+  }
+]
