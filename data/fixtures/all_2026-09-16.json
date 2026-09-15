@@ -1,0 +1,73 @@
+{
+  "fixtures": [
+    {
+      "id": "tsdb-2505592",
+      "league": "Mexican LNBP",
+      "date": "2026-09-16",
+      "homeTeam": "Dorados de Chihuahua",
+      "awayTeam": "El Calor de Cancún",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb"
+      ],
+      "multiSourceValidated": false
+    },
+    {
+      "id": "tsdb-2505593",
+      "league": "Mexican LNBP",
+      "date": "2026-09-16",
+      "homeTeam": "Freseros de Irapuato",
+      "awayTeam": "Soles de Mexicali",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb"
+      ],
+      "multiSourceValidated": false
+    },
+    {
+      "id": "tsdb-2505594",
+      "league": "Mexican LNBP",
+      "date": "2026-09-16",
+      "homeTeam": "Gambusinos de Fresnillo",
+      "awayTeam": "Santos del Potosí",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb"
+      ],
+      "multiSourceValidated": false
+    },
+    {
+      "id": "tsdb-2569601",
+      "league": "ACB Spain",
+      "date": "2026-09-16",
+      "homeTeam": "Lincoln Red Imps",
+      "awayTeam": "St Joseph's",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb-schedule",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb-schedule"
+      ],
+      "multiSourceValidated": false
+    }
+  ],
+  "cachedAt": 1789457167216
+}
