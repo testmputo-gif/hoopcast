@@ -6,9 +6,9 @@
       "date": "2026-09-15",
       "homeTeam": "Freseros de Irapuato",
       "awayTeam": "Soles de Mexicali",
-      "homeScore": null,
-      "awayScore": null,
-      "totalScore": null,
+      "homeScore": 73,
+      "awayScore": 85,
+      "totalScore": 158,
       "status": "scheduled",
       "source": "thesportsdb",
       "sourceCount": 1,
@@ -52,5 +52,5 @@
       "multiSourceValidated": false
     }
   ],
-  "cachedAt": 1789371747909
+  "cachedAt": 1789457161247
 }
