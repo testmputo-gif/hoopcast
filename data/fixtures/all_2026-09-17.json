@@ -1,0 +1,90 @@
+{
+  "fixtures": [
+    {
+      "id": "tsdb-2505597",
+      "league": "Mexican LNBP",
+      "date": "2026-09-17",
+      "homeTeam": "Dorados de Chihuahua",
+      "awayTeam": "El Calor de Cancún",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb"
+      ],
+      "multiSourceValidated": false
+    },
+    {
+      "id": "tsdb-2505598",
+      "league": "Mexican LNBP",
+      "date": "2026-09-17",
+      "homeTeam": "Gambusinos de Fresnillo",
+      "awayTeam": "Santos del Potosí",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb"
+      ],
+      "multiSourceValidated": false
+    },
+    {
+      "id": "tsdb-2493771",
+      "league": "EuroLeague",
+      "date": "2026-09-17",
+      "homeTeam": "Hapoel Afula",
+      "awayTeam": "Hapoel Kfar Shalem",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb-schedule",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb-schedule"
+      ],
+      "multiSourceValidated": false
+    },
+    {
+      "id": "tsdb-2580247",
+      "league": "LKL Lithuania",
+      "date": "2026-09-17",
+      "homeTeam": "Ruggell III",
+      "awayTeam": "Balzers II",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb-schedule",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb-schedule"
+      ],
+      "multiSourceValidated": false
+    },
+    {
+      "id": "tsdb-2605550",
+      "league": "France LNB Elite",
+      "date": "2026-09-17",
+      "homeTeam": "Alga Bishkek",
+      "awayTeam": "Kyrgyzaltyn",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb-schedule",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb-schedule"
+      ],
+      "multiSourceValidated": false
+    }
+  ],
+  "cachedAt": 1789543506603
+}
