@@ -6,9 +6,9 @@
       "date": "2026-09-16",
       "homeTeam": "Dorados de Chihuahua",
       "awayTeam": "El Calor de Cancún",
-      "homeScore": null,
-      "awayScore": null,
-      "totalScore": null,
+      "homeScore": 91,
+      "awayScore": 89,
+      "totalScore": 180,
       "status": "scheduled",
       "source": "thesportsdb",
       "sourceCount": 1,
@@ -23,9 +23,9 @@
       "date": "2026-09-16",
       "homeTeam": "Freseros de Irapuato",
       "awayTeam": "Soles de Mexicali",
-      "homeScore": null,
-      "awayScore": null,
-      "totalScore": null,
+      "homeScore": 63,
+      "awayScore": 92,
+      "totalScore": 155,
       "status": "scheduled",
       "source": "thesportsdb",
       "sourceCount": 1,
@@ -40,9 +40,9 @@
       "date": "2026-09-16",
       "homeTeam": "Gambusinos de Fresnillo",
       "awayTeam": "Santos del Potosí",
-      "homeScore": null,
-      "awayScore": null,
-      "totalScore": null,
+      "homeScore": 89,
+      "awayScore": 77,
+      "totalScore": 166,
       "status": "scheduled",
       "source": "thesportsdb",
       "sourceCount": 1,
@@ -69,5 +69,5 @@
       "multiSourceValidated": false
     }
   ],
-  "cachedAt": 1789457167216
+  "cachedAt": 1789543501058
 }
