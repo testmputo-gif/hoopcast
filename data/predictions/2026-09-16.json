@@ -10,9 +10,9 @@
     "multiSourceValidated": false,
     "prediction": "OVER",
     "expectedTotal": 215.2,
-    "overProbability": 51,
-    "underProbability": 49,
-    "confidence": 45,
+    "overProbability": 51.3,
+    "underProbability": 48.7,
+    "confidence": 45.3,
     "confidenceColor": "red",
     "components": {
       "possession": 215,
@@ -25,7 +25,7 @@
     "status": "scheduled",
     "result": null,
     "actualTotal": null,
-    "generatedAt": "2026-09-15T07:26:24.702Z"
+    "generatedAt": "2026-09-16T07:25:22.011Z"
   },
   {
     "id": "tsdb-2505594-2026-09-16",
@@ -36,11 +36,11 @@
     "line": 215,
     "lineSource": "model-estimated",
     "multiSourceValidated": false,
-    "prediction": "OVER",
+    "prediction": "UNDER",
     "expectedTotal": 215.2,
-    "overProbability": 50.8,
-    "underProbability": 49.2,
-    "confidence": 44.8,
+    "overProbability": 49.6,
+    "underProbability": 50.4,
+    "confidence": 44.4,
     "confidenceColor": "red",
     "components": {
       "possession": 215,
@@ -53,7 +53,7 @@
     "status": "scheduled",
     "result": null,
     "actualTotal": null,
-    "generatedAt": "2026-09-15T07:26:24.388Z"
+    "generatedAt": "2026-09-16T07:25:21.734Z"
   },
   {
     "id": "tsdb-2505592-2026-09-16",
@@ -66,8 +66,8 @@
     "multiSourceValidated": false,
     "prediction": "OVER",
     "expectedTotal": 215.2,
-    "overProbability": 50.4,
-    "underProbability": 49.6,
+    "overProbability": 50.3,
+    "underProbability": 49.7,
     "confidence": 44.3,
     "confidenceColor": "red",
     "components": {
@@ -81,7 +81,7 @@
     "status": "scheduled",
     "result": null,
     "actualTotal": null,
-    "generatedAt": "2026-09-15T07:26:23.793Z"
+    "generatedAt": "2026-09-16T07:25:21.208Z"
   },
   {
     "id": "tsdb-2505593-2026-09-16",
@@ -94,9 +94,9 @@
     "multiSourceValidated": false,
     "prediction": "OVER",
     "expectedTotal": 215.2,
-    "overProbability": 50,
-    "underProbability": 50,
-    "confidence": 44,
+    "overProbability": 50.3,
+    "underProbability": 49.7,
+    "confidence": 44.2,
     "confidenceColor": "red",
     "components": {
       "possession": 215,
@@ -109,6 +109,6 @@
     "status": "scheduled",
     "result": null,
     "actualTotal": null,
-    "generatedAt": "2026-09-15T07:26:24.135Z"
+    "generatedAt": "2026-09-16T07:25:21.458Z"
   }
 ]
