@@ -6,9 +6,9 @@
       "date": "2026-09-18",
       "homeTeam": "Chicago Sky",
       "awayTeam": "Washington Mystics",
-      "homeScore": null,
-      "awayScore": null,
-      "totalScore": null,
+      "homeScore": 80,
+      "awayScore": 110,
+      "totalScore": 190,
       "status": "scheduled",
       "source": "thesportsdb",
       "sourceCount": 1,
@@ -23,9 +23,9 @@
       "date": "2026-09-18",
       "homeTeam": "Dallas Wings",
       "awayTeam": "Los Angeles Sparks",
-      "homeScore": null,
-      "awayScore": null,
-      "totalScore": null,
+      "homeScore": 97,
+      "awayScore": 77,
+      "totalScore": 174,
       "status": "scheduled",
       "source": "thesportsdb",
       "sourceCount": 1,
@@ -40,9 +40,9 @@
       "date": "2026-09-18",
       "homeTeam": "Seattle Storm",
       "awayTeam": "Las Vegas Aces",
-      "homeScore": null,
-      "awayScore": null,
-      "totalScore": null,
+      "homeScore": 77,
+      "awayScore": 114,
+      "totalScore": 191,
       "status": "scheduled",
       "source": "thesportsdb",
       "sourceCount": 1,
@@ -101,7 +101,41 @@
         "thesportsdb-schedule"
       ],
       "multiSourceValidated": false
+    },
+    {
+      "id": "tsdb-2605686",
+      "league": "Basketball Bundesliga",
+      "date": "2026-09-18",
+      "homeTeam": "Gjilani",
+      "awayTeam": "Prishtina",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb-schedule",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb-schedule"
+      ],
+      "multiSourceValidated": false
+    },
+    {
+      "id": "tsdb-2605552",
+      "league": "France LNB Elite",
+      "date": "2026-09-18",
+      "homeTeam": "Bars Issyk-Kul",
+      "awayTeam": "OshSU Aldier",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb-schedule",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb-schedule"
+      ],
+      "multiSourceValidated": false
     }
   ],
-  "cachedAt": 1789629714748
+  "cachedAt": 1789715520653
 }
