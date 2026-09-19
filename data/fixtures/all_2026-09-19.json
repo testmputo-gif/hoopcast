@@ -6,9 +6,9 @@
       "date": "2026-09-19",
       "homeTeam": "Golden State Valkyries",
       "awayTeam": "Portland Fire",
-      "homeScore": null,
-      "awayScore": null,
-      "totalScore": null,
+      "homeScore": 82,
+      "awayScore": 66,
+      "totalScore": 148,
       "status": "scheduled",
       "source": "thesportsdb",
       "sourceCount": 1,
@@ -16,7 +16,92 @@
         "thesportsdb"
       ],
       "multiSourceValidated": false
+    },
+    {
+      "id": "tsdb-2492445",
+      "league": "NBL Australia",
+      "date": "2026-09-19",
+      "homeTeam": "Ehime FC",
+      "awayTeam": "Kamatamare Sanuki",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb-schedule",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb-schedule"
+      ],
+      "multiSourceValidated": false
+    },
+    {
+      "id": "tsdb-2569589",
+      "league": "ACB Spain",
+      "date": "2026-09-19",
+      "homeTeam": "Lynx",
+      "awayTeam": "St Joseph's",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb-schedule",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb-schedule"
+      ],
+      "multiSourceValidated": false
+    },
+    {
+      "id": "tsdb-2599489",
+      "league": "Lega Basket Italy",
+      "date": "2026-09-19",
+      "homeTeam": "Jazz",
+      "awayTeam": "VJS",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb-schedule",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb-schedule"
+      ],
+      "multiSourceValidated": false
+    },
+    {
+      "id": "tsdb-2605687",
+      "league": "Basketball Bundesliga",
+      "date": "2026-09-19",
+      "homeTeam": "Feronikeli",
+      "awayTeam": "Vushtrria",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb-schedule",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb-schedule"
+      ],
+      "multiSourceValidated": false
+    },
+    {
+      "id": "tsdb-2605554",
+      "league": "France LNB Elite",
+      "date": "2026-09-19",
+      "homeTeam": "Asia Talas",
+      "awayTeam": "Neftchi Kochkor-Ata",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb-schedule",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb-schedule"
+      ],
+      "multiSourceValidated": false
     }
   ],
-  "cachedAt": 1789715527194
+  "cachedAt": 1789801753765
 }
