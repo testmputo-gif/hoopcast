@@ -1,1 +1,30 @@
-[]
+[
+  {
+    "id": "tsdb-2449209-2026-09-20",
+    "date": "2026-09-20",
+    "league": "WNBA",
+    "homeTeam": "Golden State Valkyries",
+    "awayTeam": "Seattle Storm",
+    "line": 162.5,
+    "lineSource": "model-estimated",
+    "multiSourceValidated": false,
+    "prediction": "UNDER",
+    "expectedTotal": 162,
+    "overProbability": 48.3,
+    "underProbability": 51.7,
+    "confidence": 45.7,
+    "confidenceColor": "red",
+    "components": {
+      "possession": 157,
+      "trend": 164,
+      "pace": 163,
+      "league": 169,
+      "blended": 162
+    },
+    "monteCarloRuns": 5000,
+    "status": "scheduled",
+    "result": null,
+    "actualTotal": null,
+    "generatedAt": "2026-09-19T07:09:38.827Z"
+  }
+]
