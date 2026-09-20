@@ -6,9 +6,9 @@
       "date": "2026-09-20",
       "homeTeam": "Golden State Valkyries",
       "awayTeam": "Seattle Storm",
-      "homeScore": null,
-      "awayScore": null,
-      "totalScore": null,
+      "homeScore": 70,
+      "awayScore": 57,
+      "totalScore": 127,
       "status": "scheduled",
       "source": "thesportsdb",
       "sourceCount": 1,
@@ -16,7 +16,75 @@
         "thesportsdb"
       ],
       "multiSourceValidated": false
+    },
+    {
+      "id": "tsdb-2492449",
+      "league": "NBL Australia",
+      "date": "2026-09-20",
+      "homeTeam": "Nagano Parceiro",
+      "awayTeam": "FC Gifu",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb-schedule",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb-schedule"
+      ],
+      "multiSourceValidated": false
+    },
+    {
+      "id": "tsdb-2569591",
+      "league": "ACB Spain",
+      "date": "2026-09-20",
+      "homeTeam": "Europa FC",
+      "awayTeam": "Mons Calpe",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb-schedule",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb-schedule"
+      ],
+      "multiSourceValidated": false
+    },
+    {
+      "id": "tsdb-2599492",
+      "league": "Lega Basket Italy",
+      "date": "2026-09-20",
+      "homeTeam": "Inter Turku II",
+      "awayTeam": "TPV",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb-schedule",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb-schedule"
+      ],
+      "multiSourceValidated": false
+    },
+    {
+      "id": "tsdb-2605689",
+      "league": "Basketball Bundesliga",
+      "date": "2026-09-20",
+      "homeTeam": "Drenica",
+      "awayTeam": "Llapi",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb-schedule",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb-schedule"
+      ],
+      "multiSourceValidated": false
     }
   ],
-  "cachedAt": 1789801759832
+  "cachedAt": 1789889678337
 }
