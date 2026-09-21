@@ -10,9 +10,9 @@
     "multiSourceValidated": false,
     "prediction": "UNDER",
     "expectedTotal": 166.5,
-    "overProbability": 46.9,
-    "underProbability": 53.1,
-    "confidence": 53.3,
+    "overProbability": 46.7,
+    "underProbability": 53.3,
+    "confidence": 53.5,
     "confidenceColor": "red",
     "components": {
       "possession": 167,
@@ -25,35 +25,7 @@
     "status": "scheduled",
     "result": null,
     "actualTotal": null,
-    "generatedAt": "2026-09-20T07:35:01.894Z"
-  },
-  {
-    "id": "tsdb-2487886-2026-09-21",
-    "date": "2026-09-21",
-    "league": "Australian NBL",
-    "homeTeam": "Tasmania JackJumpers",
-    "awayTeam": "South East Melbourne Phoenix",
-    "line": 215,
-    "lineSource": "model-estimated",
-    "multiSourceValidated": false,
-    "prediction": "UNDER",
-    "expectedTotal": 215.2,
-    "overProbability": 49.4,
-    "underProbability": 50.6,
-    "confidence": 44.6,
-    "confidenceColor": "red",
-    "components": {
-      "possession": 215,
-      "trend": 214,
-      "pace": 215,
-      "league": 215,
-      "blended": 215
-    },
-    "monteCarloRuns": 5000,
-    "status": "scheduled",
-    "result": null,
-    "actualTotal": null,
-    "generatedAt": "2026-09-20T07:35:02.322Z"
+    "generatedAt": "2026-09-21T07:46:32.052Z"
   },
   {
     "id": "tsdb-2505606-2026-09-21",
@@ -64,11 +36,11 @@
     "line": 215,
     "lineSource": "model-estimated",
     "multiSourceValidated": false,
-    "prediction": "OVER",
+    "prediction": "UNDER",
     "expectedTotal": 215.2,
-    "overProbability": 50,
-    "underProbability": 50,
-    "confidence": 44,
+    "overProbability": 49.5,
+    "underProbability": 50.5,
+    "confidence": 44.5,
     "confidenceColor": "red",
     "components": {
       "possession": 215,
@@ -81,6 +53,34 @@
     "status": "scheduled",
     "result": null,
     "actualTotal": null,
-    "generatedAt": "2026-09-20T07:35:02.713Z"
+    "generatedAt": "2026-09-21T07:46:32.873Z"
+  },
+  {
+    "id": "tsdb-2487886-2026-09-21",
+    "date": "2026-09-21",
+    "league": "Australian NBL",
+    "homeTeam": "Tasmania JackJumpers",
+    "awayTeam": "South East Melbourne Phoenix",
+    "line": 215,
+    "lineSource": "model-estimated",
+    "multiSourceValidated": false,
+    "prediction": "OVER",
+    "expectedTotal": 215.2,
+    "overProbability": 50.4,
+    "underProbability": 49.6,
+    "confidence": 44.4,
+    "confidenceColor": "red",
+    "components": {
+      "possession": 215,
+      "trend": 214,
+      "pace": 215,
+      "league": 215,
+      "blended": 215
+    },
+    "monteCarloRuns": 5000,
+    "status": "scheduled",
+    "result": null,
+    "actualTotal": null,
+    "generatedAt": "2026-09-21T07:46:32.471Z"
   }
 ]
