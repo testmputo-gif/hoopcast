@@ -10,9 +10,9 @@
     "multiSourceValidated": false,
     "prediction": "OVER",
     "expectedTotal": 173.2,
-    "overProbability": 54.9,
-    "underProbability": 45.1,
-    "confidence": 55.9,
+    "overProbability": 55.1,
+    "underProbability": 44.9,
+    "confidence": 56.2,
     "confidenceColor": "red",
     "components": {
       "possession": 173,
@@ -25,7 +25,35 @@
     "status": "scheduled",
     "result": null,
     "actualTotal": null,
-    "generatedAt": "2026-09-21T07:46:33.702Z"
+    "generatedAt": "2026-09-22T07:29:24.677Z"
+  },
+  {
+    "id": "tsdb-2449215-2026-09-22",
+    "date": "2026-09-22",
+    "league": "WNBA",
+    "homeTeam": "Washington Mystics",
+    "awayTeam": "Connecticut Sun",
+    "line": 166,
+    "lineSource": "model-estimated",
+    "multiSourceValidated": false,
+    "prediction": "UNDER",
+    "expectedTotal": 164,
+    "overProbability": 45.6,
+    "underProbability": 54.4,
+    "confidence": 51.9,
+    "confidenceColor": "red",
+    "components": {
+      "possession": 163,
+      "trend": 161,
+      "pace": 166,
+      "league": 169,
+      "blended": 164
+    },
+    "monteCarloRuns": 5000,
+    "status": "scheduled",
+    "result": null,
+    "actualTotal": null,
+    "generatedAt": "2026-09-22T07:29:24.678Z"
   },
   {
     "id": "tsdb-2449213-2026-09-22",
@@ -38,9 +66,9 @@
     "multiSourceValidated": false,
     "prediction": "UNDER",
     "expectedTotal": 166,
-    "overProbability": 48.2,
-    "underProbability": 51.8,
-    "confidence": 47.9,
+    "overProbability": 47.1,
+    "underProbability": 52.9,
+    "confidence": 49.2,
     "confidenceColor": "red",
     "components": {
       "possession": 164,
@@ -53,6 +81,6 @@
     "status": "scheduled",
     "result": null,
     "actualTotal": null,
-    "generatedAt": "2026-09-21T07:46:33.702Z"
+    "generatedAt": "2026-09-22T07:29:24.676Z"
   }
 ]
