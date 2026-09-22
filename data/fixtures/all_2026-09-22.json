@@ -6,9 +6,9 @@
       "date": "2026-09-22",
       "homeTeam": "New York Liberty",
       "awayTeam": "Atlanta Dream",
-      "homeScore": null,
-      "awayScore": null,
-      "totalScore": null,
+      "homeScore": 84,
+      "awayScore": 95,
+      "totalScore": 179,
       "status": "scheduled",
       "source": "thesportsdb",
       "sourceCount": 1,
@@ -23,6 +23,23 @@
       "date": "2026-09-22",
       "homeTeam": "Phoenix Mercury",
       "awayTeam": "Dallas Wings",
+      "homeScore": 87,
+      "awayScore": 86,
+      "totalScore": 173,
+      "status": "scheduled",
+      "source": "thesportsdb",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb"
+      ],
+      "multiSourceValidated": false
+    },
+    {
+      "id": "tsdb-2449215",
+      "league": "WNBA",
+      "date": "2026-09-22",
+      "homeTeam": "Washington Mystics",
+      "awayTeam": "Connecticut Sun",
       "homeScore": null,
       "awayScore": null,
       "totalScore": null,
@@ -35,5 +52,5 @@
       "multiSourceValidated": false
     }
   ],
-  "cachedAt": 1789976776005
+  "cachedAt": 1790062143141
 }
