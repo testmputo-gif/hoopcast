@@ -1,0 +1,56 @@
+{
+  "fixtures": [
+    {
+      "id": "tsdb-2449216",
+      "league": "WNBA",
+      "date": "2026-09-23",
+      "homeTeam": "Indiana Fever",
+      "awayTeam": "Minnesota Lynx",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb"
+      ],
+      "multiSourceValidated": false
+    },
+    {
+      "id": "tsdb-2449217",
+      "league": "WNBA",
+      "date": "2026-09-23",
+      "homeTeam": "Las Vegas Aces",
+      "awayTeam": "Los Angeles Sparks",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb"
+      ],
+      "multiSourceValidated": false
+    },
+    {
+      "id": "tsdb-2449335",
+      "league": "WNBA",
+      "date": "2026-09-23",
+      "homeTeam": "Chicago Sky",
+      "awayTeam": "Toronto Tempo",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb"
+      ],
+      "multiSourceValidated": false
+    }
+  ],
+  "cachedAt": 1790062149731
+}
