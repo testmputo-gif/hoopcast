@@ -1,0 +1,73 @@
+{
+  "fixtures": [
+    {
+      "id": "tsdb-2449218",
+      "league": "WNBA",
+      "date": "2026-09-24",
+      "homeTeam": "New York Liberty",
+      "awayTeam": "Atlanta Dream",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb"
+      ],
+      "multiSourceValidated": false
+    },
+    {
+      "id": "tsdb-2449219",
+      "league": "WNBA",
+      "date": "2026-09-24",
+      "homeTeam": "Seattle Storm",
+      "awayTeam": "Dallas Wings",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb"
+      ],
+      "multiSourceValidated": false
+    },
+    {
+      "id": "tsdb-2449220",
+      "league": "WNBA",
+      "date": "2026-09-24",
+      "homeTeam": "Washington Mystics",
+      "awayTeam": "Chicago Sky",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb"
+      ],
+      "multiSourceValidated": false
+    },
+    {
+      "id": "tsdb-2493779",
+      "league": "EuroLeague",
+      "date": "2026-09-24",
+      "homeTeam": "Hapoel Akko",
+      "awayTeam": "Hapoel Afula",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb-schedule",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb-schedule"
+      ],
+      "multiSourceValidated": false
+    }
+  ],
+  "cachedAt": 1790148734691
+}
