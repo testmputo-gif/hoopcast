@@ -1,33 +1,5 @@
 [
   {
-    "id": "tsdb-2449220-2026-09-24",
-    "date": "2026-09-24",
-    "league": "WNBA",
-    "homeTeam": "Washington Mystics",
-    "awayTeam": "Chicago Sky",
-    "line": 167.5,
-    "lineSource": "model-estimated",
-    "multiSourceValidated": false,
-    "prediction": "UNDER",
-    "expectedTotal": 164.6,
-    "overProbability": 43.9,
-    "underProbability": 56.1,
-    "confidence": 48.5,
-    "confidenceColor": "red",
-    "components": {
-      "possession": 166,
-      "trend": 158,
-      "pace": 168,
-      "league": 169,
-      "blended": 165
-    },
-    "monteCarloRuns": 5000,
-    "status": "scheduled",
-    "result": null,
-    "actualTotal": null,
-    "generatedAt": "2026-09-23T07:32:31.131Z"
-  },
-  {
     "id": "tsdb-2449219-2026-09-24",
     "date": "2026-09-24",
     "league": "WNBA",
@@ -36,11 +8,11 @@
     "line": 167,
     "lineSource": "model-estimated",
     "multiSourceValidated": false,
-    "prediction": "UNDER",
+    "prediction": "OVER",
     "expectedTotal": 167.3,
-    "overProbability": 49.7,
-    "underProbability": 50.3,
-    "confidence": 48.4,
+    "overProbability": 50.7,
+    "underProbability": 49.3,
+    "confidence": 49,
     "confidenceColor": "red",
     "components": {
       "possession": 165,
@@ -53,7 +25,7 @@
     "status": "scheduled",
     "result": null,
     "actualTotal": null,
-    "generatedAt": "2026-09-23T07:32:31.131Z"
+    "generatedAt": "2026-09-24T07:25:16.201Z"
   },
   {
     "id": "tsdb-2449218-2026-09-24",
@@ -66,9 +38,9 @@
     "multiSourceValidated": false,
     "prediction": "UNDER",
     "expectedTotal": 166,
-    "overProbability": 48.8,
-    "underProbability": 51.2,
-    "confidence": 47.1,
+    "overProbability": 48.9,
+    "underProbability": 51.1,
+    "confidence": 46.9,
     "confidenceColor": "red",
     "components": {
       "possession": 164,
@@ -81,7 +53,7 @@
     "status": "scheduled",
     "result": null,
     "actualTotal": null,
-    "generatedAt": "2026-09-23T07:32:31.131Z"
+    "generatedAt": "2026-09-24T07:25:16.201Z"
   },
   {
     "id": "tsdb-2493779-2026-09-24",
@@ -92,11 +64,11 @@
     "line": 215,
     "lineSource": "model-estimated",
     "multiSourceValidated": false,
-    "prediction": "UNDER",
+    "prediction": "OVER",
     "expectedTotal": 215.2,
-    "overProbability": 50,
-    "underProbability": 50,
-    "confidence": 44,
+    "overProbability": 50.9,
+    "underProbability": 49.1,
+    "confidence": 44.9,
     "confidenceColor": "red",
     "components": {
       "possession": 215,
@@ -109,6 +81,6 @@
     "status": "scheduled",
     "result": null,
     "actualTotal": null,
-    "generatedAt": "2026-09-23T07:32:31.516Z"
+    "generatedAt": "2026-09-24T07:25:16.663Z"
   }
 ]
