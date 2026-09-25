@@ -1,5 +1,33 @@
 [
   {
+    "id": "tsdb-2449223-2026-09-25",
+    "date": "2026-09-25",
+    "league": "WNBA",
+    "homeTeam": "Phoenix Mercury",
+    "awayTeam": "Las Vegas Aces",
+    "line": 172,
+    "lineSource": "model-estimated",
+    "multiSourceValidated": false,
+    "prediction": "OVER",
+    "expectedTotal": 173.6,
+    "overProbability": 53.7,
+    "underProbability": 46.3,
+    "confidence": 50.7,
+    "confidenceColor": "red",
+    "components": {
+      "possession": 175,
+      "trend": 170,
+      "pace": 172,
+      "league": 169,
+      "blended": 174
+    },
+    "monteCarloRuns": 5000,
+    "status": "scheduled",
+    "result": null,
+    "actualTotal": null,
+    "generatedAt": "2026-09-25T07:20:36.749Z"
+  },
+  {
     "id": "tsdb-2449222-2026-09-25",
     "date": "2026-09-25",
     "league": "WNBA",
@@ -25,35 +53,7 @@
     "status": "scheduled",
     "result": null,
     "actualTotal": null,
-    "generatedAt": "2026-09-24T07:25:17.486Z"
-  },
-  {
-    "id": "tsdb-2449223-2026-09-25",
-    "date": "2026-09-25",
-    "league": "WNBA",
-    "homeTeam": "Phoenix Mercury",
-    "awayTeam": "Las Vegas Aces",
-    "line": 172,
-    "lineSource": "model-estimated",
-    "multiSourceValidated": false,
-    "prediction": "OVER",
-    "expectedTotal": 173.6,
-    "overProbability": 52.9,
-    "underProbability": 47.1,
-    "confidence": 49.6,
-    "confidenceColor": "red",
-    "components": {
-      "possession": 175,
-      "trend": 170,
-      "pace": 172,
-      "league": 169,
-      "blended": 174
-    },
-    "monteCarloRuns": 5000,
-    "status": "scheduled",
-    "result": null,
-    "actualTotal": null,
-    "generatedAt": "2026-09-24T07:25:17.487Z"
+    "generatedAt": "2026-09-25T07:20:36.748Z"
   },
   {
     "id": "tsdb-2449221-2026-09-25",
@@ -66,9 +66,9 @@
     "multiSourceValidated": false,
     "prediction": "OVER",
     "expectedTotal": 172.2,
-    "overProbability": 54,
-    "underProbability": 46,
-    "confidence": 48.8,
+    "overProbability": 55.1,
+    "underProbability": 44.9,
+    "confidence": 50.2,
     "confidenceColor": "red",
     "components": {
       "possession": 170,
@@ -81,7 +81,7 @@
     "status": "scheduled",
     "result": null,
     "actualTotal": null,
-    "generatedAt": "2026-09-24T07:25:17.486Z"
+    "generatedAt": "2026-09-25T07:20:36.748Z"
   },
   {
     "id": "tsdb-2599493-2026-09-25",
@@ -92,11 +92,11 @@
     "line": 215,
     "lineSource": "model-estimated",
     "multiSourceValidated": false,
-    "prediction": "OVER",
+    "prediction": "UNDER",
     "expectedTotal": 215.2,
-    "overProbability": 50.7,
-    "underProbability": 49.3,
-    "confidence": 44.7,
+    "overProbability": 49.1,
+    "underProbability": 50.9,
+    "confidence": 44.9,
     "confidenceColor": "red",
     "components": {
       "possession": 215,
@@ -109,6 +109,6 @@
     "status": "scheduled",
     "result": null,
     "actualTotal": null,
-    "generatedAt": "2026-09-24T07:25:17.903Z"
+    "generatedAt": "2026-09-25T07:20:37.154Z"
   }
 ]
