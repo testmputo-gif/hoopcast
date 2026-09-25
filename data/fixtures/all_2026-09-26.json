@@ -1,0 +1,73 @@
+{
+  "fixtures": [
+    {
+      "id": "tsdb-2487892",
+      "league": "Australian NBL",
+      "date": "2026-09-26",
+      "homeTeam": "Perth Wildcats",
+      "awayTeam": "New Zealand Breakers",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb"
+      ],
+      "multiSourceValidated": false
+    },
+    {
+      "id": "tsdb-2515520",
+      "league": "German ProA",
+      "date": "2026-09-26",
+      "homeTeam": "Kirchheim Knights",
+      "awayTeam": "Baskets Wolmirstedt",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb"
+      ],
+      "multiSourceValidated": false
+    },
+    {
+      "id": "tsdb-2515521",
+      "league": "German ProA",
+      "date": "2026-09-26",
+      "homeTeam": "BG Göttingen",
+      "awayTeam": "RheinStars Köln",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb"
+      ],
+      "multiSourceValidated": false
+    },
+    {
+      "id": "tsdb-2492453",
+      "league": "NBL Australia",
+      "date": "2026-09-26",
+      "homeTeam": "Zweigen Kanazawa",
+      "awayTeam": "Gainare Tottori",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb-schedule",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb-schedule"
+      ],
+      "multiSourceValidated": false
+    }
+  ],
+  "cachedAt": 1790320819150
+}
