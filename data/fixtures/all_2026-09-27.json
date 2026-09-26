@@ -1,0 +1,56 @@
+{
+  "fixtures": [
+    {
+      "id": "tsdb-2487893",
+      "league": "Australian NBL",
+      "date": "2026-09-27",
+      "homeTeam": "Adelaide 36ers",
+      "awayTeam": "Cairns Taipans",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb"
+      ],
+      "multiSourceValidated": false
+    },
+    {
+      "id": "tsdb-2487894",
+      "league": "Australian NBL",
+      "date": "2026-09-27",
+      "homeTeam": "Sydney Kings",
+      "awayTeam": "Illawarra Hawks",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb"
+      ],
+      "multiSourceValidated": false
+    },
+    {
+      "id": "tsdb-2515526",
+      "league": "German ProA",
+      "date": "2026-09-27",
+      "homeTeam": "Eisbären Bremerhaven",
+      "awayTeam": "OrangeAcademy",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb"
+      ],
+      "multiSourceValidated": false
+    }
+  ],
+  "cachedAt": 1790406976245
+}
