@@ -52,11 +52,28 @@
       "multiSourceValidated": false
     },
     {
-      "id": "tsdb-2492453",
+      "id": "tsdb-2492455",
       "league": "NBL Australia",
       "date": "2026-09-26",
-      "homeTeam": "Zweigen Kanazawa",
-      "awayTeam": "Gainare Tottori",
+      "homeTeam": "Tochigi SC",
+      "awayTeam": "Matsumoto Yamaga",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb-schedule",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb-schedule"
+      ],
+      "multiSourceValidated": false
+    },
+    {
+      "id": "tsdb-2599494",
+      "league": "Lega Basket Italy",
+      "date": "2026-09-26",
+      "homeTeam": "OLS",
+      "awayTeam": "PKKU",
       "homeScore": null,
       "awayScore": null,
       "totalScore": null,
@@ -69,5 +86,5 @@
       "multiSourceValidated": false
     }
   ],
-  "cachedAt": 1790320819150
+  "cachedAt": 1790406970165
 }
