@@ -1,33 +1,5 @@
 [
   {
-    "id": "tsdb-2515521-2026-09-26",
-    "date": "2026-09-26",
-    "league": "German ProA",
-    "homeTeam": "BG Göttingen",
-    "awayTeam": "RheinStars Köln",
-    "line": 215,
-    "lineSource": "model-estimated",
-    "multiSourceValidated": false,
-    "prediction": "OVER",
-    "expectedTotal": 215.2,
-    "overProbability": 51.6,
-    "underProbability": 48.4,
-    "confidence": 45.7,
-    "confidenceColor": "red",
-    "components": {
-      "possession": 215,
-      "trend": 214,
-      "pace": 215,
-      "league": 215,
-      "blended": 215
-    },
-    "monteCarloRuns": 5000,
-    "status": "scheduled",
-    "result": null,
-    "actualTotal": null,
-    "generatedAt": "2026-09-25T07:20:39.303Z"
-  },
-  {
     "id": "tsdb-2515520-2026-09-26",
     "date": "2026-09-26",
     "league": "German ProA",
@@ -36,11 +8,11 @@
     "line": 215,
     "lineSource": "model-estimated",
     "multiSourceValidated": false,
-    "prediction": "UNDER",
+    "prediction": "OVER",
     "expectedTotal": 215.2,
-    "overProbability": 48.5,
-    "underProbability": 51.5,
-    "confidence": 45.6,
+    "overProbability": 50.4,
+    "underProbability": 49.6,
+    "confidence": 44.4,
     "confidenceColor": "red",
     "components": {
       "possession": 215,
@@ -53,22 +25,22 @@
     "status": "scheduled",
     "result": null,
     "actualTotal": null,
-    "generatedAt": "2026-09-25T07:20:38.875Z"
+    "generatedAt": "2026-09-26T07:16:33.492Z"
   },
   {
-    "id": "tsdb-2492453-2026-09-26",
+    "id": "tsdb-2492455-2026-09-26",
     "date": "2026-09-26",
     "league": "NBL Australia",
-    "homeTeam": "Zweigen Kanazawa",
-    "awayTeam": "Gainare Tottori",
+    "homeTeam": "Tochigi SC",
+    "awayTeam": "Matsumoto Yamaga",
     "line": 215,
     "lineSource": "model-estimated",
     "multiSourceValidated": false,
     "prediction": "OVER",
     "expectedTotal": 215.2,
-    "overProbability": 50.7,
-    "underProbability": 49.3,
-    "confidence": 44.7,
+    "overProbability": 50.4,
+    "underProbability": 49.6,
+    "confidence": 44.4,
     "confidenceColor": "red",
     "components": {
       "possession": 215,
@@ -81,7 +53,63 @@
     "status": "scheduled",
     "result": null,
     "actualTotal": null,
-    "generatedAt": "2026-09-25T07:20:39.718Z"
+    "generatedAt": "2026-09-26T07:16:34.219Z"
+  },
+  {
+    "id": "tsdb-2515521-2026-09-26",
+    "date": "2026-09-26",
+    "league": "German ProA",
+    "homeTeam": "BG Göttingen",
+    "awayTeam": "RheinStars Köln",
+    "line": 215,
+    "lineSource": "model-estimated",
+    "multiSourceValidated": false,
+    "prediction": "UNDER",
+    "expectedTotal": 215.2,
+    "overProbability": 49.8,
+    "underProbability": 50.2,
+    "confidence": 44.2,
+    "confidenceColor": "red",
+    "components": {
+      "possession": 215,
+      "trend": 214,
+      "pace": 215,
+      "league": 215,
+      "blended": 215
+    },
+    "monteCarloRuns": 5000,
+    "status": "scheduled",
+    "result": null,
+    "actualTotal": null,
+    "generatedAt": "2026-09-26T07:16:33.854Z"
+  },
+  {
+    "id": "tsdb-2599494-2026-09-26",
+    "date": "2026-09-26",
+    "league": "Lega Basket Italy",
+    "homeTeam": "OLS",
+    "awayTeam": "PKKU",
+    "line": 215,
+    "lineSource": "model-estimated",
+    "multiSourceValidated": false,
+    "prediction": "OVER",
+    "expectedTotal": 215.2,
+    "overProbability": 50.3,
+    "underProbability": 49.7,
+    "confidence": 44.2,
+    "confidenceColor": "red",
+    "components": {
+      "possession": 215,
+      "trend": 214,
+      "pace": 215,
+      "league": 215,
+      "blended": 215
+    },
+    "monteCarloRuns": 5000,
+    "status": "scheduled",
+    "result": null,
+    "actualTotal": null,
+    "generatedAt": "2026-09-26T07:16:34.620Z"
   },
   {
     "id": "tsdb-2487892-2026-09-26",
@@ -94,9 +122,9 @@
     "multiSourceValidated": false,
     "prediction": "OVER",
     "expectedTotal": 215.2,
-    "overProbability": 50.3,
-    "underProbability": 49.7,
-    "confidence": 44.3,
+    "overProbability": 50.1,
+    "underProbability": 49.9,
+    "confidence": 44,
     "confidenceColor": "red",
     "components": {
       "possession": 215,
@@ -109,6 +137,6 @@
     "status": "scheduled",
     "result": null,
     "actualTotal": null,
-    "generatedAt": "2026-09-25T07:20:38.429Z"
+    "generatedAt": "2026-09-26T07:16:33.091Z"
   }
 ]
