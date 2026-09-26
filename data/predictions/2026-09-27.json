@@ -1,1 +1,86 @@
-[]
+[
+  {
+    "id": "tsdb-2487893-2026-09-27",
+    "date": "2026-09-27",
+    "league": "Australian NBL",
+    "homeTeam": "Adelaide 36ers",
+    "awayTeam": "Cairns Taipans",
+    "line": 215,
+    "lineSource": "model-estimated",
+    "multiSourceValidated": false,
+    "prediction": "OVER",
+    "expectedTotal": 215.2,
+    "overProbability": 50.8,
+    "underProbability": 49.2,
+    "confidence": 44.8,
+    "confidenceColor": "red",
+    "components": {
+      "possession": 215,
+      "trend": 214,
+      "pace": 215,
+      "league": 215,
+      "blended": 215
+    },
+    "monteCarloRuns": 5000,
+    "status": "scheduled",
+    "result": null,
+    "actualTotal": null,
+    "generatedAt": "2026-09-26T07:16:35.722Z"
+  },
+  {
+    "id": "tsdb-2487894-2026-09-27",
+    "date": "2026-09-27",
+    "league": "Australian NBL",
+    "homeTeam": "Sydney Kings",
+    "awayTeam": "Illawarra Hawks",
+    "line": 215,
+    "lineSource": "model-estimated",
+    "multiSourceValidated": false,
+    "prediction": "UNDER",
+    "expectedTotal": 215.2,
+    "overProbability": 49.2,
+    "underProbability": 50.8,
+    "confidence": 44.8,
+    "confidenceColor": "red",
+    "components": {
+      "possession": 215,
+      "trend": 214,
+      "pace": 215,
+      "league": 215,
+      "blended": 215
+    },
+    "monteCarloRuns": 5000,
+    "status": "scheduled",
+    "result": null,
+    "actualTotal": null,
+    "generatedAt": "2026-09-26T07:16:36.103Z"
+  },
+  {
+    "id": "tsdb-2515526-2026-09-27",
+    "date": "2026-09-27",
+    "league": "German ProA",
+    "homeTeam": "Eisbären Bremerhaven",
+    "awayTeam": "OrangeAcademy",
+    "line": 215,
+    "lineSource": "model-estimated",
+    "multiSourceValidated": false,
+    "prediction": "OVER",
+    "expectedTotal": 215.2,
+    "overProbability": 50,
+    "underProbability": 50,
+    "confidence": 44,
+    "confidenceColor": "red",
+    "components": {
+      "possession": 215,
+      "trend": 214,
+      "pace": 215,
+      "league": 215,
+      "blended": 215
+    },
+    "monteCarloRuns": 5000,
+    "status": "scheduled",
+    "result": null,
+    "actualTotal": null,
+    "generatedAt": "2026-09-26T07:16:36.488Z"
+  }
+]
