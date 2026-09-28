@@ -1,1 +1,86 @@
-[]
+[
+  {
+    "id": "tsdb-2560968-2026-09-29",
+    "date": "2026-09-29",
+    "league": "Adriatic ABA League 2",
+    "homeTeam": "KK Šenčur",
+    "awayTeam": "KK Hercegovac Gajdobra",
+    "line": 215,
+    "lineSource": "model-estimated",
+    "multiSourceValidated": false,
+    "prediction": "UNDER",
+    "expectedTotal": 215.2,
+    "overProbability": 49,
+    "underProbability": 51,
+    "confidence": 45,
+    "confidenceColor": "red",
+    "components": {
+      "possession": 215,
+      "trend": 214,
+      "pace": 215,
+      "league": 215,
+      "blended": 215
+    },
+    "monteCarloRuns": 5000,
+    "status": "scheduled",
+    "result": null,
+    "actualTotal": null,
+    "generatedAt": "2026-09-28T08:26:04.609Z"
+  },
+  {
+    "id": "tsdb-2565456-2026-09-29",
+    "date": "2026-09-29",
+    "league": "EuroLeague Basketball",
+    "homeTeam": "Dubai Basketball",
+    "awayTeam": "FC Barcelona Basquet",
+    "line": 167,
+    "lineSource": "model-estimated",
+    "multiSourceValidated": false,
+    "prediction": "OVER",
+    "expectedTotal": 172.5,
+    "overProbability": 62.3,
+    "underProbability": 37.7,
+    "confidence": 40,
+    "confidenceColor": "red",
+    "components": {
+      "possession": 162,
+      "trend": 188,
+      "pace": 167,
+      "league": 173,
+      "blended": 173
+    },
+    "monteCarloRuns": 5000,
+    "status": "scheduled",
+    "result": null,
+    "actualTotal": null,
+    "generatedAt": "2026-09-28T08:26:04.912Z"
+  },
+  {
+    "id": "tsdb-2565457-2026-09-29",
+    "date": "2026-09-29",
+    "league": "EuroLeague Basketball",
+    "homeTeam": "Anadolu Efes SK",
+    "awayTeam": "Real Madrid Baloncesto",
+    "line": 172.5,
+    "lineSource": "model-estimated",
+    "multiSourceValidated": false,
+    "prediction": "OVER",
+    "expectedTotal": 185.4,
+    "overProbability": 80,
+    "underProbability": 20,
+    "confidence": 40,
+    "confidenceColor": "red",
+    "components": {
+      "possession": 173,
+      "trend": 214,
+      "pace": 173,
+      "league": 173,
+      "blended": 185
+    },
+    "monteCarloRuns": 5000,
+    "status": "scheduled",
+    "result": null,
+    "actualTotal": null,
+    "generatedAt": "2026-09-28T08:26:05.349Z"
+  }
+]
