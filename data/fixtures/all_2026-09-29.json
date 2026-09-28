@@ -1,0 +1,56 @@
+{
+  "fixtures": [
+    {
+      "id": "tsdb-2560968",
+      "league": "Adriatic ABA League 2",
+      "date": "2026-09-29",
+      "homeTeam": "KK Šenčur",
+      "awayTeam": "KK Hercegovac Gajdobra",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb"
+      ],
+      "multiSourceValidated": false
+    },
+    {
+      "id": "tsdb-2565456",
+      "league": "EuroLeague Basketball",
+      "date": "2026-09-29",
+      "homeTeam": "Dubai Basketball",
+      "awayTeam": "FC Barcelona Basquet",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb"
+      ],
+      "multiSourceValidated": false
+    },
+    {
+      "id": "tsdb-2565457",
+      "league": "EuroLeague Basketball",
+      "date": "2026-09-29",
+      "homeTeam": "Anadolu Efes SK",
+      "awayTeam": "Real Madrid Baloncesto",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb"
+      ],
+      "multiSourceValidated": false
+    }
+  ],
+  "cachedAt": 1790583944418
+}
