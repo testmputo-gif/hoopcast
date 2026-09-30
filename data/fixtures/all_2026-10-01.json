@@ -1,0 +1,73 @@
+{
+  "fixtures": [
+    {
+      "id": "tsdb-2487897",
+      "league": "Australian NBL",
+      "date": "2026-10-01",
+      "homeTeam": "Tasmania JackJumpers",
+      "awayTeam": "Melbourne United",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb"
+      ],
+      "multiSourceValidated": false
+    },
+    {
+      "id": "tsdb-2551409",
+      "league": "EuroCup Women",
+      "date": "2026-10-01",
+      "homeTeam": "Levharti Chomutov Women",
+      "awayTeam": "Chartres Basket Feminin",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb"
+      ],
+      "multiSourceValidated": false
+    },
+    {
+      "id": "tsdb-2551411",
+      "league": "EuroCup Women",
+      "date": "2026-10-01",
+      "homeTeam": "Uni Ferrol Women",
+      "awayTeam": "BK Beroe Stara Zagora Women",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb"
+      ],
+      "multiSourceValidated": false
+    },
+    {
+      "id": "tsdb-2493787",
+      "league": "EuroLeague",
+      "date": "2026-10-01",
+      "homeTeam": "Hapoel Afula",
+      "awayTeam": "Hapoel Rishon LeZion",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb-schedule",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb-schedule"
+      ],
+      "multiSourceValidated": false
+    }
+  ],
+  "cachedAt": 1790755878646
+}
