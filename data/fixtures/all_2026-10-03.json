@@ -1,0 +1,56 @@
+{
+  "fixtures": [
+    {
+      "id": "tsdb-2487900",
+      "league": "Australian NBL",
+      "date": "2026-10-03",
+      "homeTeam": "Brisbane Bullets",
+      "awayTeam": "Tasmania JackJumpers",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb"
+      ],
+      "multiSourceValidated": false
+    },
+    {
+      "id": "tsdb-2487901",
+      "league": "Australian NBL",
+      "date": "2026-10-03",
+      "homeTeam": "Melbourne United",
+      "awayTeam": "Cairns Taipans",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb"
+      ],
+      "multiSourceValidated": false
+    },
+    {
+      "id": "tsdb-2532677",
+      "league": "Mexican LNBP",
+      "date": "2026-10-03",
+      "homeTeam": "Correcaminos UAT Victoria",
+      "awayTeam": "Lobos de Puebla",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb"
+      ],
+      "multiSourceValidated": false
+    }
+  ],
+  "cachedAt": 1790928497156
+}
