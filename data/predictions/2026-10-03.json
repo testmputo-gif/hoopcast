@@ -1,18 +1,18 @@
 [
   {
-    "id": "tsdb-2487900-2026-10-03",
+    "id": "tsdb-2532677-2026-10-03",
     "date": "2026-10-03",
-    "league": "Australian NBL",
-    "homeTeam": "Brisbane Bullets",
-    "awayTeam": "Tasmania JackJumpers",
+    "league": "Mexican LNBP",
+    "homeTeam": "Correcaminos UAT Victoria",
+    "awayTeam": "Lobos de Puebla",
     "line": 215,
     "lineSource": "model-estimated",
     "multiSourceValidated": false,
-    "prediction": "UNDER",
+    "prediction": "OVER",
     "expectedTotal": 215.2,
-    "overProbability": 49,
-    "underProbability": 51,
-    "confidence": 45.1,
+    "overProbability": 51.2,
+    "underProbability": 48.8,
+    "confidence": 45.3,
     "confidenceColor": "red",
     "components": {
       "possession": 215,
@@ -25,7 +25,35 @@
     "status": "scheduled",
     "result": null,
     "actualTotal": null,
-    "generatedAt": "2026-10-02T08:08:33.980Z"
+    "generatedAt": "2026-10-03T07:47:13.533Z"
+  },
+  {
+    "id": "tsdb-2492467-2026-10-03",
+    "date": "2026-10-03",
+    "league": "NBL Australia",
+    "homeTeam": "Giravanz Kitakyushu",
+    "awayTeam": "Kochi United",
+    "line": 215,
+    "lineSource": "model-estimated",
+    "multiSourceValidated": false,
+    "prediction": "OVER",
+    "expectedTotal": 215.2,
+    "overProbability": 51.3,
+    "underProbability": 48.7,
+    "confidence": 45.3,
+    "confidenceColor": "red",
+    "components": {
+      "possession": 215,
+      "trend": 214,
+      "pace": 215,
+      "league": 215,
+      "blended": 215
+    },
+    "monteCarloRuns": 5000,
+    "status": "scheduled",
+    "result": null,
+    "actualTotal": null,
+    "generatedAt": "2026-10-03T07:47:13.870Z"
   },
   {
     "id": "tsdb-2487901-2026-10-03",
@@ -53,22 +81,22 @@
     "status": "scheduled",
     "result": null,
     "actualTotal": null,
-    "generatedAt": "2026-10-02T08:08:34.227Z"
+    "generatedAt": "2026-10-03T07:47:13.196Z"
   },
   {
-    "id": "tsdb-2532677-2026-10-03",
+    "id": "tsdb-2487900-2026-10-03",
     "date": "2026-10-03",
-    "league": "Mexican LNBP",
-    "homeTeam": "Correcaminos UAT Victoria",
-    "awayTeam": "Lobos de Puebla",
+    "league": "Australian NBL",
+    "homeTeam": "Brisbane Bullets",
+    "awayTeam": "Tasmania JackJumpers",
     "line": 215,
     "lineSource": "model-estimated",
     "multiSourceValidated": false,
-    "prediction": "UNDER",
+    "prediction": "OVER",
     "expectedTotal": 215.2,
-    "overProbability": 49.8,
-    "underProbability": 50.2,
-    "confidence": 44.2,
+    "overProbability": 50.5,
+    "underProbability": 49.5,
+    "confidence": 44.5,
     "confidenceColor": "red",
     "components": {
       "possession": 215,
@@ -81,6 +109,6 @@
     "status": "scheduled",
     "result": null,
     "actualTotal": null,
-    "generatedAt": "2026-10-02T08:08:34.509Z"
+    "generatedAt": "2026-10-03T07:47:12.859Z"
   }
 ]
