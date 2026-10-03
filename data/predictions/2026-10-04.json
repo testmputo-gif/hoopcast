@@ -1,1 +1,86 @@
-[]
+[
+  {
+    "id": "tsdb-2515537-2026-10-04",
+    "date": "2026-10-04",
+    "league": "German ProA",
+    "homeTeam": "BG Göttingen",
+    "awayTeam": "Baskets Wolmirstedt",
+    "line": 215,
+    "lineSource": "model-estimated",
+    "multiSourceValidated": false,
+    "prediction": "UNDER",
+    "expectedTotal": 215.2,
+    "overProbability": 49.4,
+    "underProbability": 50.6,
+    "confidence": 44.6,
+    "confidenceColor": "red",
+    "components": {
+      "possession": 215,
+      "trend": 214,
+      "pace": 215,
+      "league": 215,
+      "blended": 215
+    },
+    "monteCarloRuns": 5000,
+    "status": "scheduled",
+    "result": null,
+    "actualTotal": null,
+    "generatedAt": "2026-10-03T07:47:15.797Z"
+  },
+  {
+    "id": "tsdb-2487903-2026-10-04",
+    "date": "2026-10-04",
+    "league": "Australian NBL",
+    "homeTeam": "Adelaide 36ers",
+    "awayTeam": "New Zealand Breakers",
+    "line": 215,
+    "lineSource": "model-estimated",
+    "multiSourceValidated": false,
+    "prediction": "UNDER",
+    "expectedTotal": 215.2,
+    "overProbability": 50,
+    "underProbability": 50,
+    "confidence": 44,
+    "confidenceColor": "red",
+    "components": {
+      "possession": 215,
+      "trend": 214,
+      "pace": 215,
+      "league": 215,
+      "blended": 215
+    },
+    "monteCarloRuns": 5000,
+    "status": "scheduled",
+    "result": null,
+    "actualTotal": null,
+    "generatedAt": "2026-10-03T07:47:15.465Z"
+  },
+  {
+    "id": "tsdb-2487902-2026-10-04",
+    "date": "2026-10-04",
+    "league": "Australian NBL",
+    "homeTeam": "South East Melbourne Phoenix",
+    "awayTeam": "Illawarra Hawks",
+    "line": 215,
+    "lineSource": "model-estimated",
+    "multiSourceValidated": false,
+    "prediction": "OVER",
+    "expectedTotal": 215.2,
+    "overProbability": 50,
+    "underProbability": 50,
+    "confidence": 43.9,
+    "confidenceColor": "red",
+    "components": {
+      "possession": 215,
+      "trend": 214,
+      "pace": 215,
+      "league": 215,
+      "blended": 215
+    },
+    "monteCarloRuns": 5000,
+    "status": "scheduled",
+    "result": null,
+    "actualTotal": null,
+    "generatedAt": "2026-10-03T07:47:15.149Z"
+  }
+]
