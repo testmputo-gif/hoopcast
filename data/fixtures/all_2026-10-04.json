@@ -1,0 +1,56 @@
+{
+  "fixtures": [
+    {
+      "id": "tsdb-2487902",
+      "league": "Australian NBL",
+      "date": "2026-10-04",
+      "homeTeam": "South East Melbourne Phoenix",
+      "awayTeam": "Illawarra Hawks",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb"
+      ],
+      "multiSourceValidated": false
+    },
+    {
+      "id": "tsdb-2487903",
+      "league": "Australian NBL",
+      "date": "2026-10-04",
+      "homeTeam": "Adelaide 36ers",
+      "awayTeam": "New Zealand Breakers",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb"
+      ],
+      "multiSourceValidated": false
+    },
+    {
+      "id": "tsdb-2515537",
+      "league": "German ProA",
+      "date": "2026-10-04",
+      "homeTeam": "BG Göttingen",
+      "awayTeam": "Baskets Wolmirstedt",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb"
+      ],
+      "multiSourceValidated": false
+    }
+  ],
+  "cachedAt": 1791013616337
+}
