@@ -1,1 +1,58 @@
-[]
+[
+  {
+    "id": "tsdb-2563778-2026-10-05",
+    "date": "2026-10-05",
+    "league": "German BBL",
+    "homeTeam": "Rasta Vechta",
+    "awayTeam": "Braunschweig",
+    "line": 215,
+    "lineSource": "model-estimated",
+    "multiSourceValidated": false,
+    "prediction": "UNDER",
+    "expectedTotal": 215.2,
+    "overProbability": 49,
+    "underProbability": 51,
+    "confidence": 45,
+    "confidenceColor": "red",
+    "components": {
+      "possession": 215,
+      "trend": 214,
+      "pace": 215,
+      "league": 215,
+      "blended": 215
+    },
+    "monteCarloRuns": 5000,
+    "status": "scheduled",
+    "result": null,
+    "actualTotal": null,
+    "generatedAt": "2026-10-04T07:56:27.945Z"
+  },
+  {
+    "id": "tsdb-2564053-2026-10-05",
+    "date": "2026-10-05",
+    "league": "Polish Basketball League",
+    "homeTeam": "Anwil",
+    "awayTeam": "Górnik Wałbrzych",
+    "line": 215,
+    "lineSource": "model-estimated",
+    "multiSourceValidated": false,
+    "prediction": "OVER",
+    "expectedTotal": 215.2,
+    "overProbability": 50.4,
+    "underProbability": 49.6,
+    "confidence": 44.4,
+    "confidenceColor": "red",
+    "components": {
+      "possession": 215,
+      "trend": 214,
+      "pace": 215,
+      "league": 215,
+      "blended": 215
+    },
+    "monteCarloRuns": 5000,
+    "status": "scheduled",
+    "result": null,
+    "actualTotal": null,
+    "generatedAt": "2026-10-04T07:56:28.237Z"
+  }
+]
