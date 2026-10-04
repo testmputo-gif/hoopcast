@@ -1,0 +1,39 @@
+{
+  "fixtures": [
+    {
+      "id": "tsdb-2563778",
+      "league": "German BBL",
+      "date": "2026-10-05",
+      "homeTeam": "Rasta Vechta",
+      "awayTeam": "Braunschweig",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb"
+      ],
+      "multiSourceValidated": false
+    },
+    {
+      "id": "tsdb-2564053",
+      "league": "Polish Basketball League",
+      "date": "2026-10-05",
+      "homeTeam": "Anwil",
+      "awayTeam": "Górnik Wałbrzych",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb"
+      ],
+      "multiSourceValidated": false
+    }
+  ],
+  "cachedAt": 1791100571096
+}
