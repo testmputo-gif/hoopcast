@@ -1,0 +1,56 @@
+{
+  "fixtures": [
+    {
+      "id": "tsdb-2525191",
+      "league": "BCL",
+      "date": "2026-10-06",
+      "homeTeam": "BC Lietuvos rytas",
+      "awayTeam": "BK Sabah",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb"
+      ],
+      "multiSourceValidated": false
+    },
+    {
+      "id": "tsdb-2525193",
+      "league": "BCL",
+      "date": "2026-10-06",
+      "homeTeam": "Pallacanestro Reggiana",
+      "awayTeam": "BK Pardubice",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb"
+      ],
+      "multiSourceValidated": false
+    },
+    {
+      "id": "tsdb-2525196",
+      "league": "BCL",
+      "date": "2026-10-06",
+      "homeTeam": "Peristeri BC",
+      "awayTeam": "Bamberg Baskets",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb"
+      ],
+      "multiSourceValidated": false
+    }
+  ],
+  "cachedAt": 1791189513323
+}
