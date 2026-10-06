@@ -1,0 +1,73 @@
+{
+  "fixtures": [
+    {
+      "id": "tsdb-2487904",
+      "league": "Australian NBL",
+      "date": "2026-10-07",
+      "homeTeam": "Adelaide 36ers",
+      "awayTeam": "Melbourne United",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb"
+      ],
+      "multiSourceValidated": false
+    },
+    {
+      "id": "tsdb-2525206",
+      "league": "BCL",
+      "date": "2026-10-07",
+      "homeTeam": "CB Murcia",
+      "awayTeam": "Pallacanestro Varese",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb"
+      ],
+      "multiSourceValidated": false
+    },
+    {
+      "id": "tsdb-2525218",
+      "league": "BCL",
+      "date": "2026-10-07",
+      "homeTeam": "Trabzonspor BK",
+      "awayTeam": "Nanterre",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb"
+      ],
+      "multiSourceValidated": false
+    },
+    {
+      "id": "tsdb-2599498",
+      "league": "Lega Basket Italy",
+      "date": "2026-10-07",
+      "homeTeam": "KuPS II",
+      "awayTeam": "Inter Turku II",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb-schedule",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb-schedule"
+      ],
+      "multiSourceValidated": false
+    }
+  ],
+  "cachedAt": 1791276246325
+}
