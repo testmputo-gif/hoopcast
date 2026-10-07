@@ -1,1 +1,86 @@
-[]
+[
+  {
+    "id": "tsdb-2532692-2026-10-08",
+    "date": "2026-10-08",
+    "league": "Mexican LNBP",
+    "homeTeam": "Soles de Mexicali",
+    "awayTeam": "Fuerza Regia de Monterrey",
+    "line": 215,
+    "lineSource": "model-estimated",
+    "multiSourceValidated": false,
+    "prediction": "OVER",
+    "expectedTotal": 215.2,
+    "overProbability": 51.4,
+    "underProbability": 48.6,
+    "confidence": 45.4,
+    "confidenceColor": "red",
+    "components": {
+      "possession": 215,
+      "trend": 214,
+      "pace": 215,
+      "league": 215,
+      "blended": 215
+    },
+    "monteCarloRuns": 5000,
+    "status": "scheduled",
+    "result": null,
+    "actualTotal": null,
+    "generatedAt": "2026-10-07T08:19:06.536Z"
+  },
+  {
+    "id": "tsdb-2532693-2026-10-08",
+    "date": "2026-10-08",
+    "league": "Mexican LNBP",
+    "homeTeam": "Correcaminos UAT Victoria",
+    "awayTeam": "Abejas de León",
+    "line": 215,
+    "lineSource": "model-estimated",
+    "multiSourceValidated": false,
+    "prediction": "OVER",
+    "expectedTotal": 215.2,
+    "overProbability": 50.9,
+    "underProbability": 49.1,
+    "confidence": 44.9,
+    "confidenceColor": "red",
+    "components": {
+      "possession": 215,
+      "trend": 214,
+      "pace": 215,
+      "league": 215,
+      "blended": 215
+    },
+    "monteCarloRuns": 5000,
+    "status": "scheduled",
+    "result": null,
+    "actualTotal": null,
+    "generatedAt": "2026-10-07T08:19:06.908Z"
+  },
+  {
+    "id": "tsdb-2487905-2026-10-08",
+    "date": "2026-10-08",
+    "league": "Australian NBL",
+    "homeTeam": "Cairns Taipans",
+    "awayTeam": "Brisbane Bullets",
+    "line": 215,
+    "lineSource": "model-estimated",
+    "multiSourceValidated": false,
+    "prediction": "OVER",
+    "expectedTotal": 215.2,
+    "overProbability": 50.3,
+    "underProbability": 49.7,
+    "confidence": 44.3,
+    "confidenceColor": "red",
+    "components": {
+      "possession": 215,
+      "trend": 214,
+      "pace": 215,
+      "league": 215,
+      "blended": 215
+    },
+    "monteCarloRuns": 5000,
+    "status": "scheduled",
+    "result": null,
+    "actualTotal": null,
+    "generatedAt": "2026-10-07T08:19:06.158Z"
+  }
+]
