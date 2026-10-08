@@ -23,9 +23,9 @@
       "date": "2026-10-08",
       "homeTeam": "Soles de Mexicali",
       "awayTeam": "Fuerza Regia de Monterrey",
-      "homeScore": null,
-      "awayScore": null,
-      "totalScore": null,
+      "homeScore": 75,
+      "awayScore": 92,
+      "totalScore": 167,
       "status": "scheduled",
       "source": "thesportsdb",
       "sourceCount": 1,
@@ -40,9 +40,9 @@
       "date": "2026-10-08",
       "homeTeam": "Correcaminos UAT Victoria",
       "awayTeam": "Abejas de León",
-      "homeScore": null,
-      "awayScore": null,
-      "totalScore": null,
+      "homeScore": 89,
+      "awayScore": 95,
+      "totalScore": 184,
       "status": "scheduled",
       "source": "thesportsdb",
       "sourceCount": 1,
@@ -50,7 +50,24 @@
         "thesportsdb"
       ],
       "multiSourceValidated": false
+    },
+    {
+      "id": "tsdb-2615999",
+      "league": "France LNB Elite",
+      "date": "2026-10-08",
+      "homeTeam": "Alga Bishkek",
+      "awayTeam": "Asiagoal Bishkek",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb-schedule",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb-schedule"
+      ],
+      "multiSourceValidated": false
     }
   ],
-  "cachedAt": 1791361126852
+  "cachedAt": 1791448486598
 }
