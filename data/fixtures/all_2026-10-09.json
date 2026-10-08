@@ -1,0 +1,90 @@
+{
+  "fixtures": [
+    {
+      "id": "tsdb-2487906",
+      "league": "Australian NBL",
+      "date": "2026-10-09",
+      "homeTeam": "Illawarra Hawks",
+      "awayTeam": "Tasmania JackJumpers",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb"
+      ],
+      "multiSourceValidated": false
+    },
+    {
+      "id": "tsdb-2515546",
+      "league": "German ProA",
+      "date": "2026-10-09",
+      "homeTeam": "Crailsheim Merlins",
+      "awayTeam": "Gießen 46ers",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb"
+      ],
+      "multiSourceValidated": false
+    },
+    {
+      "id": "tsdb-2548853",
+      "league": "NBA",
+      "date": "2026-10-09",
+      "homeTeam": "San Antonio Spurs",
+      "awayTeam": "Atlanta Hawks",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb"
+      ],
+      "multiSourceValidated": false
+    },
+    {
+      "id": "tsdb-2493795",
+      "league": "EuroLeague",
+      "date": "2026-10-09",
+      "homeTeam": "Hapoel Akko",
+      "awayTeam": "Maccabi Bnei Reineh",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb-schedule",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb-schedule"
+      ],
+      "multiSourceValidated": false
+    },
+    {
+      "id": "tsdb-2492479",
+      "league": "NBL Australia",
+      "date": "2026-10-09",
+      "homeTeam": "Sagamihara",
+      "awayTeam": "Kamatamare Sanuki",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb-schedule",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb-schedule"
+      ],
+      "multiSourceValidated": false
+    }
+  ],
+  "cachedAt": 1791448493013
+}
