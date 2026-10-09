@@ -1,33 +1,5 @@
 [
   {
-    "id": "tsdb-2487906-2026-10-09",
-    "date": "2026-10-09",
-    "league": "Australian NBL",
-    "homeTeam": "Illawarra Hawks",
-    "awayTeam": "Tasmania JackJumpers",
-    "line": 215,
-    "lineSource": "model-estimated",
-    "multiSourceValidated": false,
-    "prediction": "OVER",
-    "expectedTotal": 215.2,
-    "overProbability": 50.7,
-    "underProbability": 49.3,
-    "confidence": 44.7,
-    "confidenceColor": "red",
-    "components": {
-      "possession": 215,
-      "trend": 214,
-      "pace": 215,
-      "league": 215,
-      "blended": 215
-    },
-    "monteCarloRuns": 5000,
-    "status": "scheduled",
-    "result": null,
-    "actualTotal": null,
-    "generatedAt": "2026-10-08T08:35:11.997Z"
-  },
-  {
     "id": "tsdb-2493795-2026-10-09",
     "date": "2026-10-09",
     "league": "EuroLeague",
@@ -38,9 +10,9 @@
     "multiSourceValidated": false,
     "prediction": "OVER",
     "expectedTotal": 215.2,
-    "overProbability": 50.4,
-    "underProbability": 49.6,
-    "confidence": 44.4,
+    "overProbability": 51.4,
+    "underProbability": 48.6,
+    "confidence": 45.5,
     "confidenceColor": "red",
     "components": {
       "possession": 215,
@@ -53,22 +25,22 @@
     "status": "scheduled",
     "result": null,
     "actualTotal": null,
-    "generatedAt": "2026-10-08T08:35:13.911Z"
+    "generatedAt": "2026-10-09T08:40:06.582Z"
   },
   {
-    "id": "tsdb-2492479-2026-10-09",
+    "id": "tsdb-2610984-2026-10-09",
     "date": "2026-10-09",
-    "league": "NBL Australia",
-    "homeTeam": "Sagamihara",
-    "awayTeam": "Kamatamare Sanuki",
+    "league": "Basketball Bundesliga",
+    "homeTeam": "Llapi",
+    "awayTeam": "Ballkani",
     "line": 215,
     "lineSource": "model-estimated",
     "multiSourceValidated": false,
-    "prediction": "UNDER",
+    "prediction": "OVER",
     "expectedTotal": 215.2,
-    "overProbability": 49.6,
-    "underProbability": 50.4,
-    "confidence": 44.4,
+    "overProbability": 51.1,
+    "underProbability": 48.9,
+    "confidence": 45.1,
     "confidenceColor": "red",
     "components": {
       "possession": 215,
@@ -81,7 +53,35 @@
     "status": "scheduled",
     "result": null,
     "actualTotal": null,
-    "generatedAt": "2026-10-08T08:35:14.369Z"
+    "generatedAt": "2026-10-09T08:40:07.268Z"
+  },
+  {
+    "id": "tsdb-2487906-2026-10-09",
+    "date": "2026-10-09",
+    "league": "Australian NBL",
+    "homeTeam": "Illawarra Hawks",
+    "awayTeam": "Tasmania JackJumpers",
+    "line": 215,
+    "lineSource": "model-estimated",
+    "multiSourceValidated": false,
+    "prediction": "OVER",
+    "expectedTotal": 215.2,
+    "overProbability": 50.6,
+    "underProbability": 49.4,
+    "confidence": 44.6,
+    "confidenceColor": "red",
+    "components": {
+      "possession": 215,
+      "trend": 214,
+      "pace": 215,
+      "league": 215,
+      "blended": 215
+    },
+    "monteCarloRuns": 5000,
+    "status": "scheduled",
+    "result": null,
+    "actualTotal": null,
+    "generatedAt": "2026-10-09T08:40:05.586Z"
   },
   {
     "id": "tsdb-2515546-2026-10-09",
@@ -94,9 +94,9 @@
     "multiSourceValidated": false,
     "prediction": "OVER",
     "expectedTotal": 215.2,
-    "overProbability": 50.1,
-    "underProbability": 49.9,
-    "confidence": 44,
+    "overProbability": 50.5,
+    "underProbability": 49.5,
+    "confidence": 44.5,
     "confidenceColor": "red",
     "components": {
       "possession": 215,
@@ -109,7 +109,63 @@
     "status": "scheduled",
     "result": null,
     "actualTotal": null,
-    "generatedAt": "2026-10-08T08:35:13.409Z"
+    "generatedAt": "2026-10-09T08:40:06.037Z"
+  },
+  {
+    "id": "tsdb-2492479-2026-10-09",
+    "date": "2026-10-09",
+    "league": "NBL Australia",
+    "homeTeam": "Sagamihara",
+    "awayTeam": "Kamatamare Sanuki",
+    "line": 215,
+    "lineSource": "model-estimated",
+    "multiSourceValidated": false,
+    "prediction": "OVER",
+    "expectedTotal": 215.2,
+    "overProbability": 50.4,
+    "underProbability": 49.6,
+    "confidence": 44.3,
+    "confidenceColor": "red",
+    "components": {
+      "possession": 215,
+      "trend": 214,
+      "pace": 215,
+      "league": 215,
+      "blended": 215
+    },
+    "monteCarloRuns": 5000,
+    "status": "scheduled",
+    "result": null,
+    "actualTotal": null,
+    "generatedAt": "2026-10-09T08:40:06.918Z"
+  },
+  {
+    "id": "tsdb-2616003-2026-10-09",
+    "date": "2026-10-09",
+    "league": "France LNB Elite",
+    "homeTeam": "Asia Talas",
+    "awayTeam": "Toktogul",
+    "line": 215,
+    "lineSource": "model-estimated",
+    "multiSourceValidated": false,
+    "prediction": "OVER",
+    "expectedTotal": 215.2,
+    "overProbability": 50.3,
+    "underProbability": 49.7,
+    "confidence": 44.2,
+    "confidenceColor": "red",
+    "components": {
+      "possession": 215,
+      "trend": 214,
+      "pace": 215,
+      "league": 215,
+      "blended": 215
+    },
+    "monteCarloRuns": 5000,
+    "status": "scheduled",
+    "result": null,
+    "actualTotal": null,
+    "generatedAt": "2026-10-09T08:40:07.637Z"
   },
   {
     "id": "tsdb-2548853-2026-10-09",
@@ -122,9 +178,9 @@
     "multiSourceValidated": false,
     "prediction": "UNDER",
     "expectedTotal": 227.4,
-    "overProbability": 49.7,
-    "underProbability": 50.3,
-    "confidence": 40.6,
+    "overProbability": 49.9,
+    "underProbability": 50.1,
+    "confidence": 40.4,
     "confidenceColor": "red",
     "components": {
       "possession": 226,
@@ -137,6 +193,6 @@
     "status": "scheduled",
     "result": null,
     "actualTotal": null,
-    "generatedAt": "2026-10-08T08:35:13.555Z"
+    "generatedAt": "2026-10-09T08:40:06.199Z"
   }
 ]
