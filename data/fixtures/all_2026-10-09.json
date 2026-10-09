@@ -40,9 +40,9 @@
       "date": "2026-10-09",
       "homeTeam": "San Antonio Spurs",
       "awayTeam": "Atlanta Hawks",
-      "homeScore": null,
-      "awayScore": null,
-      "totalScore": null,
+      "homeScore": 116,
+      "awayScore": 123,
+      "totalScore": 239,
       "status": "scheduled",
       "source": "thesportsdb",
       "sourceCount": 1,
@@ -84,7 +84,41 @@
         "thesportsdb-schedule"
       ],
       "multiSourceValidated": false
+    },
+    {
+      "id": "tsdb-2610984",
+      "league": "Basketball Bundesliga",
+      "date": "2026-10-09",
+      "homeTeam": "Llapi",
+      "awayTeam": "Ballkani",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb-schedule",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb-schedule"
+      ],
+      "multiSourceValidated": false
+    },
+    {
+      "id": "tsdb-2616003",
+      "league": "France LNB Elite",
+      "date": "2026-10-09",
+      "homeTeam": "Asia Talas",
+      "awayTeam": "Toktogul",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb-schedule",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb-schedule"
+      ],
+      "multiSourceValidated": false
     }
   ],
-  "cachedAt": 1791448493013
+  "cachedAt": 1791535179793
 }
