@@ -1,0 +1,90 @@
+{
+  "fixtures": [
+    {
+      "id": "tsdb-2487907",
+      "league": "Australian NBL",
+      "date": "2026-10-10",
+      "homeTeam": "South East Melbourne Phoenix",
+      "awayTeam": "Melbourne United",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb"
+      ],
+      "multiSourceValidated": false
+    },
+    {
+      "id": "tsdb-2487908",
+      "league": "Australian NBL",
+      "date": "2026-10-10",
+      "homeTeam": "Perth Wildcats",
+      "awayTeam": "New Zealand Breakers",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb"
+      ],
+      "multiSourceValidated": false
+    },
+    {
+      "id": "tsdb-2515547",
+      "league": "German ProA",
+      "date": "2026-10-10",
+      "homeTeam": "Nürnberg Falcons BC",
+      "awayTeam": "Kirchheim Knights",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb"
+      ],
+      "multiSourceValidated": false
+    },
+    {
+      "id": "tsdb-2569596",
+      "league": "ACB Spain",
+      "date": "2026-10-10",
+      "homeTeam": "Lincoln Red Imps",
+      "awayTeam": "Europa FC",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb-schedule",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb-schedule"
+      ],
+      "multiSourceValidated": false
+    },
+    {
+      "id": "tsdb-2599499",
+      "league": "Lega Basket Italy",
+      "date": "2026-10-10",
+      "homeTeam": "PKKU",
+      "awayTeam": "SalPa",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb-schedule",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb-schedule"
+      ],
+      "multiSourceValidated": false
+    }
+  ],
+  "cachedAt": 1791535185846
+}
