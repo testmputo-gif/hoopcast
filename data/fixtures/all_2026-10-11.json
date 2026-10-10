@@ -1,0 +1,73 @@
+{
+  "fixtures": [
+    {
+      "id": "tsdb-2487909",
+      "league": "Australian NBL",
+      "date": "2026-10-11",
+      "homeTeam": "Sydney Kings",
+      "awayTeam": "Adelaide 36ers",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb"
+      ],
+      "multiSourceValidated": false
+    },
+    {
+      "id": "tsdb-2487910",
+      "league": "Australian NBL",
+      "date": "2026-10-11",
+      "homeTeam": "Illawarra Hawks",
+      "awayTeam": "Cairns Taipans",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb"
+      ],
+      "multiSourceValidated": false
+    },
+    {
+      "id": "tsdb-2515553",
+      "league": "German ProA",
+      "date": "2026-10-11",
+      "homeTeam": "RheinStars Köln",
+      "awayTeam": "Eisbären Bremerhaven",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb"
+      ],
+      "multiSourceValidated": false
+    },
+    {
+      "id": "tsdb-2492473",
+      "league": "NBL Australia",
+      "date": "2026-10-11",
+      "homeTeam": "Matsumoto Yamaga",
+      "awayTeam": "Kagoshima United",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb-schedule",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb-schedule"
+      ],
+      "multiSourceValidated": false
+    }
+  ],
+  "cachedAt": 1791620054575
+}
