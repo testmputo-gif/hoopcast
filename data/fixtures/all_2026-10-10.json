@@ -52,6 +52,23 @@
       "multiSourceValidated": false
     },
     {
+      "id": "tsdb-2601635",
+      "league": "NBA",
+      "date": "2026-10-10",
+      "homeTeam": "Toronto Raptors",
+      "awayTeam": "Los Angeles Clippers",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb-schedule",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb-schedule"
+      ],
+      "multiSourceValidated": false
+    },
+    {
       "id": "tsdb-2569596",
       "league": "ACB Spain",
       "date": "2026-10-10",
@@ -84,7 +101,58 @@
         "thesportsdb-schedule"
       ],
       "multiSourceValidated": false
+    },
+    {
+      "id": "tsdb-2610986",
+      "league": "Basketball Bundesliga",
+      "date": "2026-10-10",
+      "homeTeam": "Vushtrria",
+      "awayTeam": "Gjilani",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb-schedule",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb-schedule"
+      ],
+      "multiSourceValidated": false
+    },
+    {
+      "id": "tsdb-2616331",
+      "league": "France LNB Elite",
+      "date": "2026-10-10",
+      "homeTeam": "Alay Osh",
+      "awayTeam": "Abdysh-Ata Kant",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb-schedule",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb-schedule"
+      ],
+      "multiSourceValidated": false
+    },
+    {
+      "id": "tsdb-2610321",
+      "league": "BSL Turkey",
+      "date": "2026-10-10",
+      "homeTeam": "Lao Army",
+      "awayTeam": "Namtha United",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb-schedule",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb-schedule"
+      ],
+      "multiSourceValidated": false
     }
   ],
-  "cachedAt": 1791535185846
+  "cachedAt": 1791620047747
 }
