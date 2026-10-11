@@ -1,0 +1,73 @@
+{
+  "fixtures": [
+    {
+      "id": "tsdb-2564061",
+      "league": "Polish Basketball League",
+      "date": "2026-10-12",
+      "homeTeam": "Stal Ostrów Wielkopolski",
+      "awayTeam": "Górnik Wałbrzych",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb"
+      ],
+      "multiSourceValidated": false
+    },
+    {
+      "id": "tsdb-2571220",
+      "league": "Turkish Basketbol Super Ligi",
+      "date": "2026-10-12",
+      "homeTeam": "Galatasaray SK",
+      "awayTeam": "Bursaspor Basketbol",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb"
+      ],
+      "multiSourceValidated": false
+    },
+    {
+      "id": "tsdb-2493796",
+      "league": "EuroLeague",
+      "date": "2026-10-12",
+      "homeTeam": "Hapoel Rishon LeZion",
+      "awayTeam": "Maccabi Kabilio Jaffa",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb-schedule",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb-schedule"
+      ],
+      "multiSourceValidated": false
+    },
+    {
+      "id": "tsdb-2599504",
+      "league": "Lega Basket Italy",
+      "date": "2026-10-12",
+      "homeTeam": "Inter Turku II",
+      "awayTeam": "Jazz",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb-schedule",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb-schedule"
+      ],
+      "multiSourceValidated": false
+    }
+  ],
+  "cachedAt": 1791707340997
+}
