@@ -1,0 +1,56 @@
+{
+  "fixtures": [
+    {
+      "id": "tsdb-2525203",
+      "league": "BCL",
+      "date": "2026-10-13",
+      "homeTeam": "Nanterre",
+      "awayTeam": "BC Lietuvos rytas",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb"
+      ],
+      "multiSourceValidated": false
+    },
+    {
+      "id": "tsdb-2525212",
+      "league": "BCL",
+      "date": "2026-10-13",
+      "homeTeam": "Pallacanestro Varese",
+      "awayTeam": "Peristeri BC",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb"
+      ],
+      "multiSourceValidated": false
+    },
+    {
+      "id": "tsdb-2525243",
+      "league": "BCL",
+      "date": "2026-10-13",
+      "homeTeam": "ALBA Berlin",
+      "awayTeam": "KK Igokea",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb"
+      ],
+      "multiSourceValidated": false
+    }
+  ],
+  "cachedAt": 1791795001382
+}
