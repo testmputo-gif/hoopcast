@@ -52,6 +52,23 @@
       "multiSourceValidated": false
     },
     {
+      "id": "tsdb-2569593",
+      "league": "ACB Spain",
+      "date": "2026-10-12",
+      "homeTeam": "Mons Calpe",
+      "awayTeam": "Lynx",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb-schedule",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb-schedule"
+      ],
+      "multiSourceValidated": false
+    },
+    {
       "id": "tsdb-2599504",
       "league": "Lega Basket Italy",
       "date": "2026-10-12",
@@ -67,7 +84,24 @@
         "thesportsdb-schedule"
       ],
       "multiSourceValidated": false
+    },
+    {
+      "id": "tsdb-2616812",
+      "league": "France LNB Elite",
+      "date": "2026-10-12",
+      "homeTeam": "Ozgon",
+      "awayTeam": "Bars Issyk-Kul",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb-schedule",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb-schedule"
+      ],
+      "multiSourceValidated": false
     }
   ],
-  "cachedAt": 1791707340997
+  "cachedAt": 1791794995755
 }
