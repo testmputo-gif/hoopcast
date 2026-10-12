@@ -1,1 +1,86 @@
-[]
+[
+  {
+    "id": "tsdb-2525203-2026-10-13",
+    "date": "2026-10-13",
+    "league": "BCL",
+    "homeTeam": "Nanterre",
+    "awayTeam": "BC Lietuvos rytas",
+    "line": 215,
+    "lineSource": "model-estimated",
+    "multiSourceValidated": false,
+    "prediction": "OVER",
+    "expectedTotal": 215.2,
+    "overProbability": 51,
+    "underProbability": 49,
+    "confidence": 45,
+    "confidenceColor": "red",
+    "components": {
+      "possession": 215,
+      "trend": 214,
+      "pace": 215,
+      "league": 215,
+      "blended": 215
+    },
+    "monteCarloRuns": 5000,
+    "status": "scheduled",
+    "result": null,
+    "actualTotal": null,
+    "generatedAt": "2026-10-12T08:50:19.804Z"
+  },
+  {
+    "id": "tsdb-2525212-2026-10-13",
+    "date": "2026-10-13",
+    "league": "BCL",
+    "homeTeam": "Pallacanestro Varese",
+    "awayTeam": "Peristeri BC",
+    "line": 215,
+    "lineSource": "model-estimated",
+    "multiSourceValidated": false,
+    "prediction": "UNDER",
+    "expectedTotal": 215.2,
+    "overProbability": 49.7,
+    "underProbability": 50.3,
+    "confidence": 44.3,
+    "confidenceColor": "red",
+    "components": {
+      "possession": 215,
+      "trend": 214,
+      "pace": 215,
+      "league": 215,
+      "blended": 215
+    },
+    "monteCarloRuns": 5000,
+    "status": "scheduled",
+    "result": null,
+    "actualTotal": null,
+    "generatedAt": "2026-10-12T08:50:20.091Z"
+  },
+  {
+    "id": "tsdb-2525243-2026-10-13",
+    "date": "2026-10-13",
+    "league": "BCL",
+    "homeTeam": "ALBA Berlin",
+    "awayTeam": "KK Igokea",
+    "line": 215,
+    "lineSource": "model-estimated",
+    "multiSourceValidated": false,
+    "prediction": "UNDER",
+    "expectedTotal": 215.2,
+    "overProbability": 49.9,
+    "underProbability": 50.1,
+    "confidence": 44.1,
+    "confidenceColor": "red",
+    "components": {
+      "possession": 215,
+      "trend": 214,
+      "pace": 215,
+      "league": 215,
+      "blended": 215
+    },
+    "monteCarloRuns": 5000,
+    "status": "scheduled",
+    "result": null,
+    "actualTotal": null,
+    "generatedAt": "2026-10-12T08:50:20.375Z"
+  }
+]
