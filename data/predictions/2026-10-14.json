@@ -1,5 +1,33 @@
 [
   {
+    "id": "tsdb-2515554-2026-10-14",
+    "date": "2026-10-14",
+    "league": "German ProA",
+    "homeTeam": "Bayreuth",
+    "awayTeam": "OrangeAcademy",
+    "line": 215,
+    "lineSource": "model-estimated",
+    "multiSourceValidated": false,
+    "prediction": "OVER",
+    "expectedTotal": 215.2,
+    "overProbability": 51.3,
+    "underProbability": 48.7,
+    "confidence": 45.3,
+    "confidenceColor": "red",
+    "components": {
+      "possession": 215,
+      "trend": 214,
+      "pace": 215,
+      "league": 215,
+      "blended": 215
+    },
+    "monteCarloRuns": 5000,
+    "status": "scheduled",
+    "result": null,
+    "actualTotal": null,
+    "generatedAt": "2026-10-14T07:17:10.520Z"
+  },
+  {
     "id": "tsdb-2487911-2026-10-14",
     "date": "2026-10-14",
     "league": "Australian NBL",
@@ -10,9 +38,9 @@
     "multiSourceValidated": false,
     "prediction": "OVER",
     "expectedTotal": 215.2,
-    "overProbability": 51.3,
-    "underProbability": 48.7,
-    "confidence": 45.4,
+    "overProbability": 50.5,
+    "underProbability": 49.5,
+    "confidence": 44.5,
     "confidenceColor": "red",
     "components": {
       "possession": 215,
@@ -25,22 +53,22 @@
     "status": "scheduled",
     "result": null,
     "actualTotal": null,
-    "generatedAt": "2026-10-13T09:07:13.860Z"
+    "generatedAt": "2026-10-14T07:17:10.107Z"
   },
   {
-    "id": "tsdb-2515554-2026-10-14",
+    "id": "tsdb-2610991-2026-10-14",
     "date": "2026-10-14",
-    "league": "German ProA",
-    "homeTeam": "Bayreuth",
-    "awayTeam": "OrangeAcademy",
+    "league": "Basketball Bundesliga",
+    "homeTeam": "Feronikeli",
+    "awayTeam": "Llapi",
     "line": 215,
     "lineSource": "model-estimated",
     "multiSourceValidated": false,
-    "prediction": "UNDER",
+    "prediction": "OVER",
     "expectedTotal": 215.2,
-    "overProbability": 49.4,
-    "underProbability": 50.6,
-    "confidence": 44.6,
+    "overProbability": 50.4,
+    "underProbability": 49.6,
+    "confidence": 44.4,
     "confidenceColor": "red",
     "components": {
       "possession": 215,
@@ -53,7 +81,7 @@
     "status": "scheduled",
     "result": null,
     "actualTotal": null,
-    "generatedAt": "2026-10-13T09:07:14.209Z"
+    "generatedAt": "2026-10-14T07:17:11.560Z"
   },
   {
     "id": "tsdb-2525209-2026-10-14",
@@ -66,9 +94,9 @@
     "multiSourceValidated": false,
     "prediction": "UNDER",
     "expectedTotal": 215.2,
-    "overProbability": 49.4,
-    "underProbability": 50.6,
-    "confidence": 44.6,
+    "overProbability": 49.7,
+    "underProbability": 50.3,
+    "confidence": 44.3,
     "confidenceColor": "red",
     "components": {
       "possession": 215,
@@ -81,6 +109,6 @@
     "status": "scheduled",
     "result": null,
     "actualTotal": null,
-    "generatedAt": "2026-10-13T09:07:14.590Z"
+    "generatedAt": "2026-10-14T07:17:11.031Z"
   }
 ]
