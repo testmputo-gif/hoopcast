@@ -1,0 +1,56 @@
+{
+  "fixtures": [
+    {
+      "id": "tsdb-2487912",
+      "league": "Australian NBL",
+      "date": "2026-10-15",
+      "homeTeam": "Brisbane Bullets",
+      "awayTeam": "South East Melbourne Phoenix",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb"
+      ],
+      "multiSourceValidated": false
+    },
+    {
+      "id": "tsdb-2551415",
+      "league": "EuroCup Women",
+      "date": "2026-10-15",
+      "homeTeam": "Stars Keltern",
+      "awayTeam": "WBC Montana 2003",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb"
+      ],
+      "multiSourceValidated": false
+    },
+    {
+      "id": "tsdb-2551417",
+      "league": "EuroCup Women",
+      "date": "2026-10-15",
+      "homeTeam": "BLMA Women",
+      "awayTeam": "Ensino Lugo CB Women",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb"
+      ],
+      "multiSourceValidated": false
+    }
+  ],
+  "cachedAt": 1791962212227
+}
