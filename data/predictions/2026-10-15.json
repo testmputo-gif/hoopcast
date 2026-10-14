@@ -1,1 +1,86 @@
-[]
+[
+  {
+    "id": "tsdb-2551415-2026-10-15",
+    "date": "2026-10-15",
+    "league": "EuroCup Women",
+    "homeTeam": "Stars Keltern",
+    "awayTeam": "WBC Montana 2003",
+    "line": 215,
+    "lineSource": "model-estimated",
+    "multiSourceValidated": false,
+    "prediction": "OVER",
+    "expectedTotal": 215.2,
+    "overProbability": 51.5,
+    "underProbability": 48.5,
+    "confidence": 45.6,
+    "confidenceColor": "red",
+    "components": {
+      "possession": 215,
+      "trend": 214,
+      "pace": 215,
+      "league": 215,
+      "blended": 215
+    },
+    "monteCarloRuns": 5000,
+    "status": "scheduled",
+    "result": null,
+    "actualTotal": null,
+    "generatedAt": "2026-10-14T07:17:13.590Z"
+  },
+  {
+    "id": "tsdb-2551417-2026-10-15",
+    "date": "2026-10-15",
+    "league": "EuroCup Women",
+    "homeTeam": "BLMA Women",
+    "awayTeam": "Ensino Lugo CB Women",
+    "line": 215,
+    "lineSource": "model-estimated",
+    "multiSourceValidated": false,
+    "prediction": "OVER",
+    "expectedTotal": 215.2,
+    "overProbability": 50.4,
+    "underProbability": 49.6,
+    "confidence": 44.4,
+    "confidenceColor": "red",
+    "components": {
+      "possession": 215,
+      "trend": 214,
+      "pace": 215,
+      "league": 215,
+      "blended": 215
+    },
+    "monteCarloRuns": 5000,
+    "status": "scheduled",
+    "result": null,
+    "actualTotal": null,
+    "generatedAt": "2026-10-14T07:17:14.068Z"
+  },
+  {
+    "id": "tsdb-2487912-2026-10-15",
+    "date": "2026-10-15",
+    "league": "Australian NBL",
+    "homeTeam": "Brisbane Bullets",
+    "awayTeam": "South East Melbourne Phoenix",
+    "line": 215,
+    "lineSource": "model-estimated",
+    "multiSourceValidated": false,
+    "prediction": "UNDER",
+    "expectedTotal": 215.2,
+    "overProbability": 49.9,
+    "underProbability": 50.1,
+    "confidence": 44,
+    "confidenceColor": "red",
+    "components": {
+      "possession": 215,
+      "trend": 214,
+      "pace": 215,
+      "league": 215,
+      "blended": 215
+    },
+    "monteCarloRuns": 5000,
+    "status": "scheduled",
+    "result": null,
+    "actualTotal": null,
+    "generatedAt": "2026-10-14T07:17:13.112Z"
+  }
+]
