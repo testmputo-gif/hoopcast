@@ -50,7 +50,24 @@
         "thesportsdb"
       ],
       "multiSourceValidated": false
+    },
+    {
+      "id": "tsdb-2610991",
+      "league": "Basketball Bundesliga",
+      "date": "2026-10-14",
+      "homeTeam": "Feronikeli",
+      "awayTeam": "Llapi",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb-schedule",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb-schedule"
+      ],
+      "multiSourceValidated": false
     }
   ],
-  "cachedAt": 1791882413672
+  "cachedAt": 1791962205162
 }
