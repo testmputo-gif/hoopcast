@@ -50,7 +50,24 @@
         "thesportsdb"
       ],
       "multiSourceValidated": false
+    },
+    {
+      "id": "tsdb-2610993",
+      "league": "Basketball Bundesliga",
+      "date": "2026-10-15",
+      "homeTeam": "Malisheva",
+      "awayTeam": "Prishtina",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb-schedule",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb-schedule"
+      ],
+      "multiSourceValidated": false
     }
   ],
-  "cachedAt": 1791962212227
+  "cachedAt": 1792048111558
 }
