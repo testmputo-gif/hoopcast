@@ -1,0 +1,90 @@
+{
+  "fixtures": [
+    {
+      "id": "tsdb-2487913",
+      "league": "Australian NBL",
+      "date": "2026-10-16",
+      "homeTeam": "Tasmania JackJumpers",
+      "awayTeam": "Adelaide 36ers",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb"
+      ],
+      "multiSourceValidated": false
+    },
+    {
+      "id": "tsdb-2515556",
+      "league": "German ProA",
+      "date": "2026-10-16",
+      "homeTeam": "Tigers Tübingen",
+      "awayTeam": "SparkassenStars Bochum",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb"
+      ],
+      "multiSourceValidated": false
+    },
+    {
+      "id": "tsdb-2515557",
+      "league": "German ProA",
+      "date": "2026-10-16",
+      "homeTeam": "Baskets Wolmirstedt",
+      "awayTeam": "Baskets Koblenz",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb"
+      ],
+      "multiSourceValidated": false
+    },
+    {
+      "id": "tsdb-2493803",
+      "league": "EuroLeague",
+      "date": "2026-10-16",
+      "homeTeam": "Hapoel Afula",
+      "awayTeam": "Maccabi Herzliya",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb-schedule",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb-schedule"
+      ],
+      "multiSourceValidated": false
+    },
+    {
+      "id": "tsdb-2569598",
+      "league": "ACB Spain",
+      "date": "2026-10-16",
+      "homeTeam": "FCB Magpies",
+      "awayTeam": "Europa Point",
+      "homeScore": null,
+      "awayScore": null,
+      "totalScore": null,
+      "status": "scheduled",
+      "source": "thesportsdb-schedule",
+      "sourceCount": 1,
+      "sources": [
+        "thesportsdb-schedule"
+      ],
+      "multiSourceValidated": false
+    }
+  ],
+  "cachedAt": 1792048117960
+}
